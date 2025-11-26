@@ -1,0 +1,912 @@
+{% doc %}
+  @prompt
+    Create a storytelling section titled FROM SKETCH TO SUBSTANCE. The layout should alternate between text and images in a modern, editorial style. Use multiple text blocks with short paragraphs and pull quotes describing design, packaging, printing, and material innovation. Arrange images side-by-side with text for a creative, documentary feel — like a behind-the-scenes design process. Keep the tone premium, thoughtful, and minimalist.
+{% enddoc %}
+{% assign ai_gen_id = block.id | replace: '_', '' | downcase %}
+
+{% style %}
+  .ai-storytelling-{{ ai_gen_id }} {
+    background-color: {{ block.settings.background_color }};
+    padding: {{ block.settings.section_padding_mobile }}px 20px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .ai-storytelling-{{ ai_gen_id }} {
+      padding: {{ block.settings.section_padding_desktop }}px 40px;
+    }
+  }
+
+  .ai-storytelling-container-{{ ai_gen_id }} {
+    max-width: {{ block.settings.max_width }}px;
+    margin: 0 auto;
+  }
+
+  .ai-storytelling-title-{{ ai_gen_id }} {
+    font-size: {{ block.settings.title_size_mobile }}px;
+    color: {{ block.settings.title_color }};
+    text-align: {{ block.settings.title_alignment }};
+    margin: 0 0 {{ block.settings.title_spacing_mobile }}px;
+    letter-spacing: {{ block.settings.title_letter_spacing }}px;
+    font-weight: 700;
+    line-height: 1.1;
+  }
+
+  @media screen and (min-width: 750px) {
+    .ai-storytelling-title-{{ ai_gen_id }} {
+      font-size: {{ block.settings.title_size_desktop }}px;
+      margin-bottom: {{ block.settings.title_spacing_desktop }}px;
+    }
+  }
+
+  .ai-storytelling-grid-{{ ai_gen_id }} {
+    display: grid;
+    gap: {{ block.settings.grid_gap_mobile }}px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .ai-storytelling-grid-{{ ai_gen_id }} {
+      gap: {{ block.settings.grid_gap_desktop }}px;
+    }
+  }
+
+  .ai-storytelling-row-{{ ai_gen_id }} {
+    display: grid;
+    gap: {{ block.settings.grid_gap_mobile }}px;
+    align-items: center;
+  }
+
+  @media screen and (min-width: 750px) {
+    .ai-storytelling-row-{{ ai_gen_id }} {
+      grid-template-columns: 1fr 1fr;
+      gap: {{ block.settings.grid_gap_desktop }}px;
+    }
+
+    .ai-storytelling-row-{{ ai_gen_id }}.ai-storytelling-reverse-{{ ai_gen_id }} {
+      direction: rtl;
+    }
+
+    .ai-storytelling-row-{{ ai_gen_id }}.ai-storytelling-reverse-{{ ai_gen_id }} > * {
+      direction: ltr;
+    }
+  }
+
+  .ai-storytelling-text-block-{{ ai_gen_id }} {
+    padding: {{ block.settings.text_padding_mobile }}px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .ai-storytelling-text-block-{{ ai_gen_id }} {
+      padding: {{ block.settings.text_padding_desktop }}px;
+    }
+  }
+
+  .ai-storytelling-label-{{ ai_gen_id }} {
+    font-size: {{ block.settings.label_size }}px;
+    color: {{ block.settings.label_color }};
+    text-transform: uppercase;
+    letter-spacing: {{ block.settings.label_letter_spacing }}px;
+    margin: 0 0 {{ block.settings.label_spacing }}px;
+    font-weight: 500;
+    display: block;
+  }
+
+  .ai-storytelling-heading-{{ ai_gen_id }} {
+    font-size: {{ block.settings.heading_size_mobile }}px;
+    color: {{ block.settings.heading_color }};
+    margin: 0 0 {{ block.settings.heading_spacing }}px;
+    font-weight: 600;
+    line-height: 1.3;
+  }
+
+  @media screen and (min-width: 750px) {
+    .ai-storytelling-heading-{{ ai_gen_id }} {
+      font-size: {{ block.settings.heading_size_desktop }}px;
+    }
+  }
+
+  .ai-storytelling-text-{{ ai_gen_id }} {
+    font-size: {{ block.settings.text_size_mobile }}px;
+    color: {{ block.settings.text_color }};
+    line-height: {{ block.settings.text_line_height }};
+    margin: 0 0 {{ block.settings.text_spacing }}px;
+  }
+
+  .ai-storytelling-text-{{ ai_gen_id }}:last-child {
+    margin-bottom: 0;
+  }
+
+  @media screen and (min-width: 750px) {
+    .ai-storytelling-text-{{ ai_gen_id }} {
+      font-size: {{ block.settings.text_size_desktop }}px;
+    }
+  }
+
+  .ai-storytelling-quote-{{ ai_gen_id }} {
+    font-size: {{ block.settings.quote_size_mobile }}px;
+    color: {{ block.settings.quote_color }};
+    font-style: italic;
+    line-height: 1.5;
+    margin: {{ block.settings.quote_spacing }}px 0;
+    padding-left: {{ block.settings.quote_indent }}px;
+    border-left: {{ block.settings.quote_border_width }}px solid {{ block.settings.quote_border_color }};
+    font-weight: 400;
+  }
+
+  @media screen and (min-width: 750px) {
+    .ai-storytelling-quote-{{ ai_gen_id }} {
+      font-size: {{ block.settings.quote_size_desktop }}px;
+    }
+  }
+
+  .ai-storytelling-image-wrapper-{{ ai_gen_id }} {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    border-radius: {{ block.settings.image_border_radius }}px;
+  }
+
+  .ai-storytelling-image-{{ ai_gen_id }} {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+  }
+
+  .ai-storytelling-image-placeholder-{{ ai_gen_id }} {
+    background-color: {{ block.settings.placeholder_bg_color }};
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+
+  .ai-storytelling-image-placeholder-{{ ai_gen_id }} svg {
+    width: 100%;
+    height: 100%;
+    max-width: 200px;
+    max-height: 200px;
+    opacity: 0.3;
+  }
+
+  .ai-storytelling-empty-state-{{ ai_gen_id }} {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 8px 16px;
+    font-size: 13px;
+    color: {{ block.settings.text_color }};
+    opacity: 0.6;
+    text-align: center;
+    pointer-events: none;
+  }
+
+  .ai-storytelling-dual-images-{{ ai_gen_id }} {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: {{ block.settings.grid_gap_mobile }}px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .ai-storytelling-dual-images-{{ ai_gen_id }} {
+      gap: {{ block.settings.grid_gap_desktop }}px;
+    }
+  }
+{% endstyle %}
+
+<div class="ai-storytelling-{{ ai_gen_id }}" {{ block.shopify_attributes }}>
+  <div class="ai-storytelling-container-{{ ai_gen_id }}">
+    {% if block.settings.main_title != blank %}
+      <h2 class="ai-storytelling-title-{{ ai_gen_id }}">{{ block.settings.main_title }}</h2>
+    {% endif %}
+
+    <div class="ai-storytelling-grid-{{ ai_gen_id }}">
+      {% if block.settings.show_row_1 %}
+        <div class="ai-storytelling-row-{{ ai_gen_id }}">
+          <div class="ai-storytelling-text-block-{{ ai_gen_id }}">
+            {% if block.settings.row_1_label != blank %}
+              <span class="ai-storytelling-label-{{ ai_gen_id }}">{{ block.settings.row_1_label }}</span>
+            {% endif %}
+            {% if block.settings.row_1_heading != blank %}
+              <h3 class="ai-storytelling-heading-{{ ai_gen_id }}">{{ block.settings.row_1_heading }}</h3>
+            {% endif %}
+            {% if block.settings.row_1_text != blank %}
+              <div class="ai-storytelling-text-{{ ai_gen_id }}">{{ block.settings.row_1_text }}</div>
+            {% endif %}
+            {% if block.settings.row_1_quote != blank %}
+              <blockquote class="ai-storytelling-quote-{{ ai_gen_id }}">{{ block.settings.row_1_quote }}</blockquote>
+            {% endif %}
+          </div>
+          <div class="ai-storytelling-image-wrapper-{{ ai_gen_id }}">
+            {% if block.settings.row_1_image %}
+              <img
+                src="{{ block.settings.row_1_image | image_url: width: 1200 }}"
+                alt="{{ block.settings.row_1_image.alt | escape }}"
+                loading="lazy"
+                width="{{ block.settings.row_1_image.width }}"
+                height="{{ block.settings.row_1_image.height }}"
+                class="ai-storytelling-image-{{ ai_gen_id }}"
+              >
+            {% else %}
+              <div class="ai-storytelling-image-placeholder-{{ ai_gen_id }}">
+                {{ 'image' | placeholder_svg_tag }}
+                <div class="ai-storytelling-empty-state-{{ ai_gen_id }}">Add an image</div>
+              </div>
+            {% endif %}
+          </div>
+        </div>
+      {% endif %}
+
+      {% if block.settings.show_row_2 %}
+        <div class="ai-storytelling-row-{{ ai_gen_id }} ai-storytelling-reverse-{{ ai_gen_id }}">
+          <div class="ai-storytelling-text-block-{{ ai_gen_id }}">
+            {% if block.settings.row_2_label != blank %}
+              <span class="ai-storytelling-label-{{ ai_gen_id }}">{{ block.settings.row_2_label }}</span>
+            {% endif %}
+            {% if block.settings.row_2_heading != blank %}
+              <h3 class="ai-storytelling-heading-{{ ai_gen_id }}">{{ block.settings.row_2_heading }}</h3>
+            {% endif %}
+            {% if block.settings.row_2_text != blank %}
+              <div class="ai-storytelling-text-{{ ai_gen_id }}">{{ block.settings.row_2_text }}</div>
+            {% endif %}
+            {% if block.settings.row_2_quote != blank %}
+              <blockquote class="ai-storytelling-quote-{{ ai_gen_id }}">{{ block.settings.row_2_quote }}</blockquote>
+            {% endif %}
+          </div>
+          <div class="ai-storytelling-image-wrapper-{{ ai_gen_id }}">
+            {% if block.settings.row_2_image %}
+              <img
+                src="{{ block.settings.row_2_image | image_url: width: 1200 }}"
+                alt="{{ block.settings.row_2_image.alt | escape }}"
+                loading="lazy"
+                width="{{ block.settings.row_2_image.width }}"
+                height="{{ block.settings.row_2_image.height }}"
+                class="ai-storytelling-image-{{ ai_gen_id }}"
+              >
+            {% else %}
+              <div class="ai-storytelling-image-placeholder-{{ ai_gen_id }}">
+                {{ 'image' | placeholder_svg_tag }}
+                <div class="ai-storytelling-empty-state-{{ ai_gen_id }}">Add an image</div>
+              </div>
+            {% endif %}
+          </div>
+        </div>
+      {% endif %}
+
+      {% if block.settings.show_row_3 %}
+        <div class="ai-storytelling-row-{{ ai_gen_id }}">
+          <div class="ai-storytelling-dual-images-{{ ai_gen_id }}">
+            <div class="ai-storytelling-image-wrapper-{{ ai_gen_id }}">
+              {% if block.settings.row_3_image_1 %}
+                <img
+                  src="{{ block.settings.row_3_image_1 | image_url: width: 800 }}"
+                  alt="{{ block.settings.row_3_image_1.alt | escape }}"
+                  loading="lazy"
+                  width="{{ block.settings.row_3_image_1.width }}"
+                  height="{{ block.settings.row_3_image_1.height }}"
+                  class="ai-storytelling-image-{{ ai_gen_id }}"
+                >
+              {% else %}
+                <div class="ai-storytelling-image-placeholder-{{ ai_gen_id }}">
+                  {{ 'image' | placeholder_svg_tag }}
+                  <div class="ai-storytelling-empty-state-{{ ai_gen_id }}">Add an image</div>
+                </div>
+              {% endif %}
+            </div>
+            <div class="ai-storytelling-image-wrapper-{{ ai_gen_id }}">
+              {% if block.settings.row_3_image_2 %}
+                <img
+                  src="{{ block.settings.row_3_image_2 | image_url: width: 800 }}"
+                  alt="{{ block.settings.row_3_image_2.alt | escape }}"
+                  loading="lazy"
+                  width="{{ block.settings.row_3_image_2.width }}"
+                  height="{{ block.settings.row_3_image_2.height }}"
+                  class="ai-storytelling-image-{{ ai_gen_id }}"
+                >
+              {% else %}
+                <div class="ai-storytelling-image-placeholder-{{ ai_gen_id }}">
+                  {{ 'image' | placeholder_svg_tag }}
+                  <div class="ai-storytelling-empty-state-{{ ai_gen_id }}">Add an image</div>
+                </div>
+              {% endif %}
+            </div>
+          </div>
+          <div class="ai-storytelling-text-block-{{ ai_gen_id }}">
+            {% if block.settings.row_3_label != blank %}
+              <span class="ai-storytelling-label-{{ ai_gen_id }}">{{ block.settings.row_3_label }}</span>
+            {% endif %}
+            {% if block.settings.row_3_heading != blank %}
+              <h3 class="ai-storytelling-heading-{{ ai_gen_id }}">{{ block.settings.row_3_heading }}</h3>
+            {% endif %}
+            {% if block.settings.row_3_text != blank %}
+              <div class="ai-storytelling-text-{{ ai_gen_id }}">{{ block.settings.row_3_text }}</div>
+            {% endif %}
+            {% if block.settings.row_3_quote != blank %}
+              <blockquote class="ai-storytelling-quote-{{ ai_gen_id }}">{{ block.settings.row_3_quote }}</blockquote>
+            {% endif %}
+          </div>
+        </div>
+      {% endif %}
+
+      {% if block.settings.show_row_4 %}
+        <div class="ai-storytelling-row-{{ ai_gen_id }} ai-storytelling-reverse-{{ ai_gen_id }}">
+          <div class="ai-storytelling-text-block-{{ ai_gen_id }}">
+            {% if block.settings.row_4_label != blank %}
+              <span class="ai-storytelling-label-{{ ai_gen_id }}">{{ block.settings.row_4_label }}</span>
+            {% endif %}
+            {% if block.settings.row_4_heading != blank %}
+              <h3 class="ai-storytelling-heading-{{ ai_gen_id }}">{{ block.settings.row_4_heading }}</h3>
+            {% endif %}
+            {% if block.settings.row_4_text != blank %}
+              <div class="ai-storytelling-text-{{ ai_gen_id }}">{{ block.settings.row_4_text }}</div>
+            {% endif %}
+            {% if block.settings.row_4_quote != blank %}
+              <blockquote class="ai-storytelling-quote-{{ ai_gen_id }}">{{ block.settings.row_4_quote }}</blockquote>
+            {% endif %}
+          </div>
+          <div class="ai-storytelling-image-wrapper-{{ ai_gen_id }}">
+            {% if block.settings.row_4_image %}
+              <img
+                src="{{ block.settings.row_4_image | image_url: width: 1200 }}"
+                alt="{{ block.settings.row_4_image.alt | escape }}"
+                loading="lazy"
+                width="{{ block.settings.row_4_image.width }}"
+                height="{{ block.settings.row_4_image.height }}"
+                class="ai-storytelling-image-{{ ai_gen_id }}"
+              >
+            {% else %}
+              <div class="ai-storytelling-image-placeholder-{{ ai_gen_id }}">
+                {{ 'image' | placeholder_svg_tag }}
+                <div class="ai-storytelling-empty-state-{{ ai_gen_id }}">Add an image</div>
+              </div>
+            {% endif %}
+          </div>
+        </div>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "From sketch to substance",
+  "tag": null,
+  "settings": [
+    {
+      "type": "header",
+      "content": "Main title"
+    },
+    {
+      "type": "text",
+      "id": "main_title",
+      "label": "Title",
+      "default": "FROM SKETCH TO SUBSTANCE"
+    },
+    {
+      "type": "select",
+      "id": "title_alignment",
+      "label": "Title alignment",
+      "options": [
+        {
+          "value": "left",
+          "label": "Left"
+        },
+        {
+          "value": "center",
+          "label": "Center"
+        },
+        {
+          "value": "right",
+          "label": "Right"
+        }
+      ],
+      "default": "center"
+    },
+    {
+      "type": "range",
+      "id": "title_size_mobile",
+      "min": 20,
+      "max": 60,
+      "step": 2,
+      "unit": "px",
+      "label": "Title size (mobile)",
+      "default": 28
+    },
+    {
+      "type": "range",
+      "id": "title_size_desktop",
+      "min": 30,
+      "max": 100,
+      "step": 2,
+      "unit": "px",
+      "label": "Title size (desktop)",
+      "default": 48
+    },
+    {
+      "type": "range",
+      "id": "title_letter_spacing",
+      "min": 0,
+      "max": 10,
+      "step": 0.5,
+      "unit": "px",
+      "label": "Title letter spacing",
+      "default": 2
+    },
+    {
+      "type": "range",
+      "id": "title_spacing_mobile",
+      "min": 20,
+      "max": 80,
+      "step": 4,
+      "unit": "px",
+      "label": "Title spacing (mobile)",
+      "default": 40
+    },
+    {
+      "type": "range",
+      "id": "title_spacing_desktop",
+      "min": 40,
+      "max": 120,
+      "step": 4,
+      "unit": "px",
+      "label": "Title spacing (desktop)",
+      "default": 60
+    },
+    {
+      "type": "header",
+      "content": "Row 1"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_row_1",
+      "label": "Show row 1",
+      "default": true
+    },
+    {
+      "type": "text",
+      "id": "row_1_label",
+      "label": "Label",
+      "default": "01 — Design"
+    },
+    {
+      "type": "text",
+      "id": "row_1_heading",
+      "label": "Heading",
+      "default": "Thoughtful beginnings"
+    },
+    {
+      "type": "richtext",
+      "id": "row_1_text",
+      "label": "Text",
+      "default": "<p>Every product begins with intention. We sketch, refine, and reimagine until form meets function in the most honest way possible.</p>"
+    },
+    {
+      "type": "richtext",
+      "id": "row_1_quote",
+      "label": "Pull quote"
+    },
+    {
+      "type": "image_picker",
+      "id": "row_1_image",
+      "label": "Image"
+    },
+    {
+      "type": "header",
+      "content": "Row 2"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_row_2",
+      "label": "Show row 2",
+      "default": true
+    },
+    {
+      "type": "text",
+      "id": "row_2_label",
+      "label": "Label",
+      "default": "02 — Packaging"
+    },
+    {
+      "type": "text",
+      "id": "row_2_heading",
+      "label": "Heading",
+      "default": "Unboxing as ritual"
+    },
+    {
+      "type": "richtext",
+      "id": "row_2_text",
+      "label": "Text",
+      "default": "<p>Packaging is the first touch. We design each box, wrap, and seal to feel considered—never wasteful, always memorable.</p>"
+    },
+    {
+      "type": "richtext",
+      "id": "row_2_quote",
+      "label": "Pull quote",
+      "default": "<p>The moment you open it should feel like the product already belongs to you.</p>"
+    },
+    {
+      "type": "image_picker",
+      "id": "row_2_image",
+      "label": "Image"
+    },
+    {
+      "type": "header",
+      "content": "Row 3"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_row_3",
+      "label": "Show row 3",
+      "default": true
+    },
+    {
+      "type": "text",
+      "id": "row_3_label",
+      "label": "Label",
+      "default": "03 — Printing"
+    },
+    {
+      "type": "text",
+      "id": "row_3_heading",
+      "label": "Heading",
+      "default": "Precision in detail"
+    },
+    {
+      "type": "richtext",
+      "id": "row_3_text",
+      "label": "Text",
+      "default": "<p>From letterpress to screen print, we choose techniques that honor the craft. Each mark is deliberate, each color calibrated.</p>"
+    },
+    {
+      "type": "richtext",
+      "id": "row_3_quote",
+      "label": "Pull quote"
+    },
+    {
+      "type": "image_picker",
+      "id": "row_3_image_1",
+      "label": "Image 1"
+    },
+    {
+      "type": "image_picker",
+      "id": "row_3_image_2",
+      "label": "Image 2"
+    },
+    {
+      "type": "header",
+      "content": "Row 4"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_row_4",
+      "label": "Show row 4",
+      "default": true
+    },
+    {
+      "type": "text",
+      "id": "row_4_label",
+      "label": "Label",
+      "default": "04 — Materials"
+    },
+    {
+      "type": "text",
+      "id": "row_4_heading",
+      "label": "Heading",
+      "default": "Substance over surface"
+    },
+    {
+      "type": "richtext",
+      "id": "row_4_text",
+      "label": "Text",
+      "default": "<p>We source materials that age gracefully. Natural fibers, recycled metals, and responsibly harvested woods—chosen for longevity, not trends.</p>"
+    },
+    {
+      "type": "richtext",
+      "id": "row_4_quote",
+      "label": "Pull quote",
+      "default": "<p>What you hold should feel real, not replicated.</p>"
+    },
+    {
+      "type": "image_picker",
+      "id": "row_4_image",
+      "label": "Image"
+    },
+    {
+      "type": "header",
+      "content": "Typography"
+    },
+    {
+      "type": "range",
+      "id": "label_size",
+      "min": 10,
+      "max": 18,
+      "step": 1,
+      "unit": "px",
+      "label": "Label size",
+      "default": 11
+    },
+    {
+      "type": "range",
+      "id": "label_letter_spacing",
+      "min": 0,
+      "max": 5,
+      "step": 0.5,
+      "unit": "px",
+      "label": "Label letter spacing",
+      "default": 1.5
+    },
+    {
+      "type": "range",
+      "id": "label_spacing",
+      "min": 8,
+      "max": 24,
+      "step": 2,
+      "unit": "px",
+      "label": "Label spacing",
+      "default": 12
+    },
+    {
+      "type": "range",
+      "id": "heading_size_mobile",
+      "min": 18,
+      "max": 40,
+      "step": 2,
+      "unit": "px",
+      "label": "Heading size (mobile)",
+      "default": 24
+    },
+    {
+      "type": "range",
+      "id": "heading_size_desktop",
+      "min": 24,
+      "max": 60,
+      "step": 2,
+      "unit": "px",
+      "label": "Heading size (desktop)",
+      "default": 32
+    },
+    {
+      "type": "range",
+      "id": "heading_spacing",
+      "min": 12,
+      "max": 32,
+      "step": 2,
+      "unit": "px",
+      "label": "Heading spacing",
+      "default": 16
+    },
+    {
+      "type": "range",
+      "id": "text_size_mobile",
+      "min": 14,
+      "max": 20,
+      "step": 1,
+      "unit": "px",
+      "label": "Text size (mobile)",
+      "default": 15
+    },
+    {
+      "type": "range",
+      "id": "text_size_desktop",
+      "min": 14,
+      "max": 22,
+      "step": 1,
+      "unit": "px",
+      "label": "Text size (desktop)",
+      "default": 16
+    },
+    {
+      "type": "range",
+      "id": "text_line_height",
+      "min": 1.4,
+      "max": 2,
+      "step": 0.1,
+      "label": "Text line height",
+      "default": 1.7
+    },
+    {
+      "type": "range",
+      "id": "text_spacing",
+      "min": 12,
+      "max": 32,
+      "step": 2,
+      "unit": "px",
+      "label": "Text spacing",
+      "default": 16
+    },
+    {
+      "type": "range",
+      "id": "quote_size_mobile",
+      "min": 16,
+      "max": 28,
+      "step": 2,
+      "unit": "px",
+      "label": "Quote size (mobile)",
+      "default": 18
+    },
+    {
+      "type": "range",
+      "id": "quote_size_desktop",
+      "min": 18,
+      "max": 32,
+      "step": 2,
+      "unit": "px",
+      "label": "Quote size (desktop)",
+      "default": 20
+    },
+    {
+      "type": "range",
+      "id": "quote_spacing",
+      "min": 16,
+      "max": 40,
+      "step": 2,
+      "unit": "px",
+      "label": "Quote spacing",
+      "default": 24
+    },
+    {
+      "type": "range",
+      "id": "quote_indent",
+      "min": 12,
+      "max": 40,
+      "step": 2,
+      "unit": "px",
+      "label": "Quote indent",
+      "default": 20
+    },
+    {
+      "type": "range",
+      "id": "quote_border_width",
+      "min": 1,
+      "max": 6,
+      "step": 1,
+      "unit": "px",
+      "label": "Quote border width",
+      "default": 2
+    },
+    {
+      "type": "header",
+      "content": "Layout"
+    },
+    {
+      "type": "range",
+      "id": "max_width",
+      "min": 1000,
+      "max": 1600,
+      "step": 50,
+      "unit": "px",
+      "label": "Maximum width",
+      "default": 1400
+    },
+    {
+      "type": "range",
+      "id": "section_padding_mobile",
+      "min": 30,
+      "max": 80,
+      "step": 5,
+      "unit": "px",
+      "label": "Section padding (mobile)",
+      "default": 50
+    },
+    {
+      "type": "range",
+      "id": "section_padding_desktop",
+      "min": 60,
+      "max": 150,
+      "step": 5,
+      "unit": "px",
+      "label": "Section padding (desktop)",
+      "default": 80
+    },
+    {
+      "type": "range",
+      "id": "grid_gap_mobile",
+      "min": 20,
+      "max": 60,
+      "step": 4,
+      "unit": "px",
+      "label": "Grid gap (mobile)",
+      "default": 40
+    },
+    {
+      "type": "range",
+      "id": "grid_gap_desktop",
+      "min": 40,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "Grid gap (desktop)",
+      "default": 60
+    },
+    {
+      "type": "range",
+      "id": "text_padding_mobile",
+      "min": 0,
+      "max": 40,
+      "step": 4,
+      "unit": "px",
+      "label": "Text padding (mobile)",
+      "default": 0
+    },
+    {
+      "type": "range",
+      "id": "text_padding_desktop",
+      "min": 0,
+      "max": 60,
+      "step": 4,
+      "unit": "px",
+      "label": "Text padding (desktop)",
+      "default": 20
+    },
+    {
+      "type": "range",
+      "id": "image_border_radius",
+      "min": 0,
+      "max": 30,
+      "step": 2,
+      "unit": "px",
+      "label": "Image border radius",
+      "default": 0
+    },
+    {
+      "type": "header",
+      "content": "Colors"
+    },
+    {
+      "type": "color",
+      "id": "background_color",
+      "label": "Background",
+      "default": "#ffffff"
+    },
+    {
+      "type": "color",
+      "id": "title_color",
+      "label": "Title",
+      "default": "#151515"
+    },
+    {
+      "type": "color",
+      "id": "label_color",
+      "label": "Label",
+      "default": "#717171"
+    },
+    {
+      "type": "color",
+      "id": "heading_color",
+      "label": "Heading",
+      "default": "#151515"
+    },
+    {
+      "type": "color",
+      "id": "text_color",
+      "label": "Text",
+      "default": "#151515"
+    },
+    {
+      "type": "color",
+      "id": "quote_color",
+      "label": "Quote",
+      "default": "#151515"
+    },
+    {
+      "type": "color",
+      "id": "quote_border_color",
+      "label": "Quote border",
+      "default": "#151515"
+    },
+    {
+      "type": "color",
+      "id": "placeholder_bg_color",
+      "label": "Placeholder background",
+      "default": "#f5f5f5"
+    }
+  ],
+  "presets": [
+    {
+      "name": "From sketch to substance"
+    }
+  ]
+}
+{% endschema %}

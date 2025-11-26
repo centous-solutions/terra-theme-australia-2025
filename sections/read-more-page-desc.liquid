@@ -1,0 +1,218 @@
+<section
+  id="richtext-readmore-{{ section.id }}"
+  class="hero__wrapper richtext-readmore-section"
+  style="background-color: {{ section.settings.background_color }};
+  padding-top: {{ section.settings.padding_top }}px;
+  padding-bottom: {{ section.settings.padding_bottom }}px;"
+>
+  <div class="container mx-auto px-4 text-center">
+
+    <div class="rt-content-wrapper mx-auto max-w-3xl relative">
+      <div
+        id="rt-content-{{ section.id }}"
+        class="rt-content"
+        style="overflow: hidden; position: relative; transition: max-height 0.6s ease;"
+      >
+        {{ section.settings.rich_content }}
+
+        <div class="fade-overlay"></div>
+      </div>
+
+      <div class="rt-button-wrap mt-6">
+        <button
+          type="button"
+          class="rt-toggle-btn inline-block bg-gray-900 text-white font-semibold px-8 py-3 rounded-full transition-all hover:bg-gray-700"
+          data-expanded="false"
+        >
+          {{ section.settings.read_more_label }}
+        </button>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<style>
+  .rt-button-wrap {
+    text-align: center;
+  }
+
+  .fade-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 52px;
+    pointer-events: none;
+    background: linear-gradient(
+      to bottom,
+      rgba(255, 255, 255, 0) 0%,
+      rgba(255, 255, 255, 0.7) 40%,
+      {{ section.settings.background_color }} 100%
+    );
+    transition: opacity 0.5s ease, visibility 0.5s ease;
+  }
+
+  .fade-overlay.hidden {
+    opacity: 0;
+    visibility: hidden;
+  }
+
+  @media (max-width: 767px) {
+    .richtext-readmore-section {
+      padding-top: {{ section.settings.padding_top_mobile }}px !important;
+      padding-bottom: {{ section.settings.padding_bottom_mobile }}px !important;
+    }
+  }
+  .rt-button-wrap.mt-6 {
+      margin-top: 20px;
+  }
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var section = document.getElementById("richtext-readmore-{{ section.id }}");
+    var content = section.querySelector("#rt-content-{{ section.id }}");
+    var btn = section.querySelector(".rt-toggle-btn");
+    var fade = section.querySelector(".fade-overlay");
+
+    var readMoreLabel = "{{ section.settings.read_more_label }}";
+    var readLessLabel = "{{ section.settings.read_less_label }}";
+
+    var collapsedDesktop = {{ section.settings.collapsed_height_desktop }};
+    var collapsedMobile = {{ section.settings.collapsed_height_mobile }};
+
+    function collapsedHeight() {
+      return window.innerWidth < 768 ? collapsedMobile : collapsedDesktop;
+    }
+
+    function applyInitialHeight() {
+      var fullHeight = content.scrollHeight;
+      var collapsed = collapsedHeight();
+
+      if (fullHeight <= collapsed + 10) {
+        btn.style.display = "none";
+        content.style.maxHeight = "none";
+        fade.classList.add("hidden");
+      } else {
+        btn.style.display = "inline-block";
+        content.style.maxHeight = collapsed + "px";
+        fade.classList.remove("hidden");
+      }
+    }
+
+    btn.addEventListener("click", function () {
+      var expanded = btn.getAttribute("data-expanded") === "true";
+      if (expanded) {
+        // Collapse
+        content.style.maxHeight = collapsedHeight() + "px";
+        fade.classList.remove("hidden");
+        btn.textContent = readMoreLabel;
+        btn.setAttribute("data-expanded", "false");
+      } else {
+        // Expand
+        var fullHeight = content.scrollHeight;
+        content.style.maxHeight = fullHeight + "px";
+        fade.classList.add("hidden");
+        btn.textContent = readLessLabel;
+        btn.setAttribute("data-expanded", "true");
+      }
+    });
+
+    applyInitialHeight();
+    window.addEventListener("resize", function () {
+      applyInitialHeight();
+    });
+  });
+</script>
+
+{% schema %}
+{
+  "name": "Page Description Readmore",
+  "settings": [
+    {
+      "type": "richtext",
+      "id": "rich_content",
+      "label": "Rich Text Content",
+      "default": "<p>Explore the <em>Yoga Mats</em> collection by <strong>Zenvibes Australia</strong> — where sustainability meets soul. Our mats are handcrafted from organic cork and plant-based herbal materials, offering an eco-conscious foundation for every flow, stretch, and savasana.</p>"
+    },
+    {
+      "type": "text",
+      "id": "read_more_label",
+      "label": "Read More Label",
+      "default": "Read More"
+    },
+    {
+      "type": "text",
+      "id": "read_less_label",
+      "label": "Read Less Label",
+      "default": "Read Less"
+    },
+    {
+      "type": "color",
+      "id": "background_color",
+      "label": "Background Color",
+      "default": "#ffffff"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "label": "Padding Top (Desktop)",
+      "min": 0,
+      "max": 200,
+      "step": 5,
+      "default": 80
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "label": "Padding Bottom (Desktop)",
+      "min": 0,
+      "max": 200,
+      "step": 5,
+      "default": 80
+    },
+    {
+      "type": "range",
+      "id": "padding_top_mobile",
+      "label": "Padding Top (Mobile)",
+      "min": 0,
+      "max": 150,
+      "step": 5,
+      "default": 40
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom_mobile",
+      "label": "Padding Bottom (Mobile)",
+      "min": 0,
+      "max": 150,
+      "step": 5,
+      "default": 40
+    },
+    {
+      "type": "range",
+      "id": "collapsed_height_desktop",
+      "label": "Collapsed Height (Desktop px)",
+      "min": 80,
+      "max": 800,
+      "step": 10,
+      "default": 160
+    },
+    {
+      "type": "range",
+      "id": "collapsed_height_mobile",
+      "label": "Collapsed Height (Mobile px)",
+      "min": 60,
+      "max": 600,
+      "step": 10,
+      "default": 120
+    }
+  ],
+  "presets": [
+    {
+      "name": "Page Description Readmore"
+    }
+  ]
+}
+{% endschema %}

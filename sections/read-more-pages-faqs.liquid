@@ -1,0 +1,324 @@
+{% assign background_rgb = section.settings.background_color | color_to_rgb %}
+{% assign text_rgb = section.settings['color-body-text'] | color_to_rgb %}
+
+<style>
+  [data-section-id="{{ section.id }}"] {
+    {% if section.settings.margin-top %}
+      --section-gap-top: {{ section.settings.margin-top }}px;
+    {% endif %}
+    {% if section.settings.margin-bottom %}
+      --section-gap-bottom: {{ section.settings.margin-bottom }}px;
+    {% endif %}
+  }
+
+  [id="shopify-section-{{ section.id }}"] {
+    {% if background_rgb != 'rgba(0, 0, 0, 0.0)' %}
+      --color-background: {{ section.settings.background_color }};
+    {% endif %}
+    {% if text_rgb != 'rgba(0, 0, 0, 0.0)' %}
+      --color-custom-text: {{ section.settings.color-body-text }};
+      --custom-section-color-border: {{ section.settings.color-body-text }};
+    {% endif %}
+  }
+
+  /* --- Container + fade --- */
+  #{{ section.id }} .faq-list {
+    position: relative;
+    overflow: hidden;
+    transition: max-height 0.6s ease;
+  }
+
+  #{{ section.id }} .faq-fade {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 80px;
+    pointer-events: none;
+    background: linear-gradient(to bottom, rgba(255,255,255,0), var(--color-background, #fff));
+    transition: opacity 0.3s ease;
+  }
+  #{{ section.id }} .faq-list.expanded .faq-fade {
+    opacity: 0;
+    visibility: hidden;
+  }
+
+  /* --- Hide/show individual faq blocks (controlled by JS) --- */
+  #{{ section.id }} .wt-collapse.faq-hidden {
+    display: none !important;
+    opacity: 0;
+    height: 0;
+  }
+  #{{ section.id }} .wt-collapse {
+    transition: opacity 0.3s ease, transform 0.25s ease;
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  /* --- Centered rounded Read More button --- */
+  #{{ section.id }} .faq-read-more-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 24px;
+  }
+  #{{ section.id }} .faq-read-more {
+    display: inline-block;
+    padding: 12px 32px;
+    border: none;
+    background: #212121;
+    color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 9999px;
+    font-size: 15px;
+    text-align: center;
+    transition: all 0.25s ease;
+    letter-spacing: normal;
+  }
+  #{{ section.id }} .faq-read-more:hover { transform: translateY(-2px); }
+  #{{ section.id }} .faq-read-more:active { transform: scale(0.98); }
+  #{{ section.id }} .hero__title.hero { text-align: center; }
+  #{{ section.id }} .hero__text.rte { text-align: center; }
+</style>
+<section id="{{ section.id }}" class="wt-collapse__section__inner" data-section-id="{{ section.id }}">
+  {% assign faqs = page.metafields.custom.choose_faq.value %}
+
+    <div class="wt-collapse__wrapper wt-collapse-menu{% if section.settings.compact-size-enabled == true %} wt-collapse__wrapper--compact{% endif %} rte">
+    {% if section.settings.heading_faq != blank %}
+      <h2 data-block-id="heading_JMWca8" class="hero__title hero">
+          {{ section.settings.heading_faq }}
+      </h2>
+    {% endif %}
+    {% if section.settings.subheading_faq != blank %}
+      <div data-block-id="text_8FjgCN" class="hero__text  rte">
+          <p>{{ section.settings.subheading_faq }}</p>
+      </div>
+    {% endif %}
+     
+    <div class="faq-list">
+      {% for block in section.blocks %}
+      {% for faq in faqs %}
+        <collapsible-section
+          {% if settings.animations %}
+            data-cascade
+            style="--animation-order: {{ forloop.index }};"
+          {% endif %}
+          class="wt-collapse wt-collapse--always {% if settings.animations %} scroll-trigger animate--slide-in {% endif %} {% if settings.disabled_animations_on_mobile %} disabled-on-mobile {% endif %}"
+        >
+          <div
+            class="wt-collapse__trigger wt-collapsible__trigger"
+            role="button"
+            tabindex="0"
+            data-open="false"
+            aria-expanded="false"
+            aria-controls="CollapsibleTab-{{ block.id }}"
+          >
+            <div class="wt-collapse__trigger__text">
+              {% if block.settings.icon != 'none' %}
+                <div class="wt-collapse__trigger__icon">
+                  {% render 'icon-accordion', icon: block.settings.icon %}
+                </div>
+              {% endif %}
+              <span class="wt-collapse__trigger__title">
+                {{- faq.questions -}}
+              </span>
+            </div>
+            <div class="wt-icon" aria-hidden="true">
+              {% render 'icons', id: 'plus' %}
+            </div>
+          </div>
+          <div class="wt-collapse__target wt-collapsible__target" id="CollapsibleTab-{{ block.id }}">
+            <div class="wt-collapse__target--text rte">
+              {{ faq.answer }}
+              {{ block.settings.page.content }}
+            </div>
+          </div>
+        </collapsible-section>
+      {% endfor %}
+      {% endfor %}
+
+      {% if faqs.count > 2 %}
+        <div class="faq-fade"></div>
+      {% endif %}
+    </div>
+
+    {% if faqs.count > 2 %}
+      <div class="faq-read-more-wrapper">
+        <button class="faq-read-more">Explore More</button>
+      </div>
+    {% endif %} 
+ 
+  </div>
+</section>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const sectionSelector = '[data-section-id="{{ section.id }}"]';
+    const sectionEl = document.querySelector(sectionSelector);
+    if (!sectionEl) return;
+
+    const faqList = sectionEl.querySelector('.faq-list');
+    const readMoreBtn = sectionEl.querySelector('.faq-read-more');
+    const fadeEl = sectionEl.querySelector('.faq-fade');
+    const faqBlocks = Array.from(sectionEl.querySelectorAll('.wt-collapse'));
+
+    // If there are more than 3 blocks, hide all after the 3rd.
+    const VISIBLE_COUNT = 2;
+    if (faqBlocks.length > VISIBLE_COUNT) {
+      faqBlocks.forEach((el, idx) => {
+        if (idx >= VISIBLE_COUNT) {
+          el.classList.add('faq-hidden');
+        } else {
+          el.classList.remove('faq-hidden');
+        }
+      });
+    } else {
+      // If 3 or fewer, ensure button/fade are not shown (server side already hides button,
+      // but double-safe here)
+      if (readMoreBtn) readMoreBtn.style.display = 'none';
+      if (fadeEl) fadeEl.style.display = 'none';
+    }
+
+    // Toggle handler for Read More / Read Less
+    if (readMoreBtn) {
+      readMoreBtn.addEventListener('click', function () {
+        const expanded = faqList.classList.toggle('expanded');
+
+        if (expanded) {
+          // show all
+          faqBlocks.forEach(el => el.classList.remove('faq-hidden'));
+          readMoreBtn.textContent = 'Show Less';
+          // remove fade visually if present
+          if (fadeEl) fadeEl.style.opacity = '0';
+        } else {
+          // hide after 3 again
+          faqBlocks.forEach((el, idx) => {
+            if (idx >= VISIBLE_COUNT) el.classList.add('faq-hidden');
+          });
+          readMoreBtn.textContent = 'Explore More';
+          if (fadeEl) fadeEl.style.opacity = '1';
+          // scroll back to top of section for nicer UX
+          sectionEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      });
+    }
+  });
+</script>
+
+{% schema %}
+{
+  "name": "Read More Pages Faqs",
+  "tag": "section",
+  "class": "wt-collapse__section",
+  "settings": [
+    {
+      "type": "header",
+      "content": "t:sections.global.colors",
+      "info": "t:sections.global.colors-info"
+    },
+    {
+      "type": "text",
+      "id": "heading_faq",
+      "label": "Heading"
+    },
+    {
+      "type": "text",
+      "id": "subheading_faq",
+      "label": "Subheading"
+    },
+    {
+      "type": "color",
+      "id": "color-body-text",
+      "default": "transparent",
+      "label": "t:sections.settings.settings.text-color.label"
+    },
+    {
+      "type": "color",
+      "id": "background_color",
+      "default": "transparent",
+      "label": "t:sections.settings.settings.background-color.label"
+    },
+    {
+      "type": "header",
+      "content": "t:sections.global.section_spacing"
+    },
+    {
+      "type": "checkbox",
+      "id": "compact-size-enabled",
+      "label": "t:sections.main-product.blocks.collapsible_tab.settings.compact-size-enabled.label",
+      "default": true
+    },
+    {
+      "type": "range",
+      "id": "margin-top",
+      "min": 0,
+      "max": 100,
+      "unit": "px",
+      "step": 4,
+      "default": 20,
+      "label": "t:sections.settings.settings.distance-top.label"
+    },
+    {
+      "type": "range",
+      "id": "margin-bottom",
+      "min": 0,
+      "max": 100,
+      "unit": "px",
+      "step": 4,
+      "default": 20,
+      "label": "t:sections.settings.settings.distance-bottom.label",
+      "info": "t:sections.settings.settings.distance-bottom.info"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "collapsible_tab",
+      "name": "t:sections.main-product.blocks.collapsible_tab.name",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "select",
+          "id": "icon",
+          "options": [
+            { "value": "none", "label": "None" },
+            { "value": "box", "label": "Box" },
+            { "value": "chat_bubble", "label": "Chat bubble" },
+            { "value": "check_mark", "label": "Check mark" },
+            { "value": "dryer", "label": "Dryer" },
+            { "value": "eye", "label": "Eye" },
+            { "value": "heart", "label": "Heart" },
+            { "value": "iron", "label": "Iron" },
+            { "value": "leaf", "label": "Leaf" },
+            { "value": "leather", "label": "Leather" },
+            { "value": "lock", "label": "Lock" },
+            { "value": "map_pin", "label": "Map pin" },
+            { "value": "pants", "label": "Pants" },
+            { "value": "plane", "label": "Plane" },
+            { "value": "price_tag", "label": "Price tag" },
+            { "value": "question_mark", "label": "Question mark" },
+            { "value": "return", "label": "Return" },
+            { "value": "ruler", "label": "Ruler" },
+            { "value": "shirt", "label": "Shirt" },
+            { "value": "shoe", "label": "Shoe" },
+            { "value": "silhouette", "label": "Silhouette" },
+            { "value": "star", "label": "Star" },
+            { "value": "truck", "label": "Truck" },
+            { "value": "washing", "label": "Washing" }
+          ],
+          "default": "check_mark",
+          "label": "Icon"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Read More Pages Faqs",
+      "blocks": [
+        { "type": "collapsible_tab" }
+      ]
+    }
+  ],
+  "disabled_on": { "groups": ["header", "footer"] }
+}
+{% endschema %}
