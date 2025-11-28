@@ -119,7 +119,7 @@
         "logo": "shopify://shop_images/Terra-logo-2023-black_1.png",
         "large_screen_logo_width": 160,
         "mobile_screen_logo_width": 140,
-        "menu": "main-menu",
+        "menu": "main-menu-nav",
         "teaser_menu": "",
         "mobile_footer_menu": "",
         "transparent_logo": "shopify://shop_images/Terra-logo-2023--01.png",
