@@ -484,7 +484,7 @@
         "title": "",
         "disable_on_mobile": false,
         "hide_empty_section": true,
-        "collection": "outdoor-wipes",
+        "collection": "pet-care-wipes",
         "product_list": [
           "terra-digital-gift-card-egift-card",
           "super-saver-night-day-nappy-bundle",
@@ -555,11 +555,13 @@
           "type": "product",
           "settings": {
             "slider_product": "terra-after-sun-wipes",
+            "product_image": "shopify://shop_images/a_1.png",
             "text_color": "",
             "background_color": "#8faf62",
             "heading": "Aloe vera on the go",
             "text": "",
             "promo_text_color": "#ffffff",
+            "desktop_image": "shopify://shop_images/cam_1.png",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "center",
             "mobile_text_horizontal_position": "center"
@@ -568,12 +570,14 @@
         "product_VMmpdt": {
           "type": "product",
           "settings": {
-            "slider_product": "terra-camping-wipes",
+            "slider_product": "terra-digital-gift-card-egift-card",
+            "product_image": "shopify://shop_images/c.png",
             "text_color": "#ffffff",
             "background_color": "#bdcf93",
             "heading": "Bodywash in a wipe",
             "text": "",
             "promo_text_color": "",
+            "desktop_image": "shopify://shop_images/adter_1.png",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "center",
             "mobile_text_horizontal_position": "center"
@@ -582,12 +586,14 @@
         "product_HVQQc6": {
           "type": "product",
           "settings": {
-            "slider_product": "terra-dishwashing-wipes",
+            "slider_product": "terra-water-wipes-mini-pack",
+            "product_image": "shopify://shop_images/d_fa3c5b47-4572-4042-9fbf-d22590cab27f_1.png",
             "text_color": "",
             "background_color": "#66d189",
             "heading": "Dishwash in a wipe",
             "text": "",
             "promo_text_color": "#ffffff",
+            "desktop_image": "shopify://shop_images/dish_1.png",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "center",
             "mobile_text_horizontal_position": "center"
