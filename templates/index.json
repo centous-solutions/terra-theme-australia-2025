@@ -994,6 +994,7 @@
       ],
       "settings": {
         "heading": "",
+        "desktop_image": "shopify://shop_images/intimacy-3_7e993b72-5b5e-4373-9b60-5fa6cf9f3097_1.jpg",
         "full-width-enabled": true,
         "show_vendor": true,
         "color-body-text": "rgba(0,0,0,0)",
@@ -1029,7 +1030,8 @@
             "button_label": "",
             "button_disable_on_mobile": false,
             "button_link": "shopify://products/terra-kids-insect-repellent-wipes",
-            "button_link_in_new_window": false
+            "button_link_in_new_window": false,
+            "desktop_image": "shopify://shop_images/Terra_Kids_Insect_Repellent_Wipes_Lifestyle_1.jpg"
           }
         },
         "16457014517af02773-1": {
@@ -1043,7 +1045,8 @@
             "button_label": "",
             "button_disable_on_mobile": false,
             "button_link": "shopify://products/terra-after-sun-wipes",
-            "button_link_in_new_window": false
+            "button_link_in_new_window": false,
+            "desktop_image": "shopify://shop_images/Terra_After_Sun_Wipes_Lifestyle_1.jpg"
           }
         },
         "16457014517af02773-2": {
@@ -1057,7 +1060,8 @@
             "button_label": "",
             "button_disable_on_mobile": false,
             "button_link": "shopify://products/terra-camping-wipes",
-            "button_link_in_new_window": false
+            "button_link_in_new_window": false,
+            "desktop_image": "shopify://shop_images/Terra_Camping_Wipes_Lifestyle3_1.jpg"
           }
         }
       },
