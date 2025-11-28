@@ -1137,6 +1137,7 @@
         "164580331573ddb00a-0": {
           "type": "image",
           "settings": {
+            "desktop_image": "shopify://shop_images/1_f87d10f0-3b59-4e30-a4fa-ad318fc798b3_1.png",
             "select_icon": "bars",
             "heading": "Gentle",
             "text": "<p>Safe for kids, families, and everyday use.</p>",
@@ -1146,7 +1147,7 @@
         "164580331573ddb00a-2": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/1.png",
+            "desktop_image": "shopify://shop_images/1_1_533a24cd-1d4e-48ac-90f3-dbc9fd93d17c.png",
             "select_icon": "bag",
             "heading": "Natural",
             "text": "<p>We only use the finest natural ingredients.</p>",
@@ -1156,6 +1157,7 @@
         "164580331573ddb00a-3": {
           "type": "image",
           "settings": {
+            "desktop_image": "shopify://shop_images/arrow___recycling_1.png",
             "select_icon": "bag",
             "heading": "Recyclable",
             "text": "<p>All packaging is recyclable and eco conscious.</p>",
