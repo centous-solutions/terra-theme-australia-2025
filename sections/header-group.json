@@ -242,6 +242,7 @@
         "color-body-text": "#ffffff",
         "color-overlay": "#ffffff",
         "color-overlay-opacity": 0,
+        "desktop_image": "shopify://shop_images/home-kids2_1.gif",
         "desktop_text_vertical_position": "center",
         "desktop_text_horizontal_position": "center",
         "mobile_text_vertical_position": "center",
