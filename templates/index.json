@@ -484,8 +484,12 @@
         "title": "",
         "disable_on_mobile": false,
         "hide_empty_section": true,
-        "collection": "skincare",
-        "product_list": [],
+        "collection": "outdoor-wipes",
+        "product_list": [
+          "terra-digital-gift-card-egift-card",
+          "super-saver-night-day-nappy-bundle",
+          "nappies-wipes-bundle"
+        ],
         "products_to_show": 9,
         "enable_stack_products": false,
         "show_view_all": false,
