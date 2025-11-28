@@ -764,12 +764,14 @@
         "product_B4BqQg": {
           "type": "product",
           "settings": {
-            "slider_product": "terra-pet-ear-wipes",
+            "slider_product": "best-subscription-bundle-1",
+            "product_image": "shopify://shop_images/2222.png",
             "text_color": "",
             "background_color": "#93cdd7",
             "heading": "Gentle care for healthier ears",
             "text": "",
             "promo_text_color": "#ffffff",
+            "desktop_image": "shopify://shop_images/342423423.webp",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "center",
             "mobile_text_horizontal_position": "center"
@@ -778,12 +780,14 @@
         "product_Y4eXak": {
           "type": "product",
           "settings": {
-            "slider_product": "terra-pet-eye-wipes",
+            "slider_product": "terra-new-water-wipes-24s",
+            "product_image": "shopify://shop_images/Mask_group-1.png",
             "text_color": "#ffffff",
             "background_color": "#293c83",
             "heading": "Gentle touch, clear eyes",
             "text": "",
             "promo_text_color": "",
+            "desktop_image": "shopify://shop_images/Mask_group-2_1.png",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "center",
             "mobile_text_horizontal_position": "center"
@@ -792,12 +796,14 @@
         "product_Q9tBEQ": {
           "type": "product",
           "settings": {
-            "slider_product": "terra-pet-wipes",
+            "slider_product": "terra-new-water-wipes-24s",
+            "product_image": "shopify://shop_images/pet_1.png",
             "text_color": "",
             "background_color": "#008bc1",
             "heading": "Tail-wagging clean in seconds",
             "text": "",
             "promo_text_color": "#ffffff",
+            "desktop_image": "shopify://shop_images/pet_wi_1.png",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "center",
             "mobile_text_horizontal_position": "center"
