@@ -236,6 +236,7 @@
         "slide_height": "fixed_height",
         "desktop_fixed_height": 700,
         "mobile_fixed_height": 460,
+        "video_hosted": "shopify://files/videos/d7b702ab491641d5964505f8fa479ff9.HD-1080p-7.2Mbps-57976640.mp4",
         "layout_mobile": "video",
         "layout": "video_first",
         "color-body-text": "#ffffff",
