@@ -251,7 +251,9 @@
         "disable_on_mobile": false,
         "hide_empty_section": false,
         "collection": "beauty",
-        "product_list": [],
+        "product_list": [
+          "best-subscription-bundle"
+        ],
         "products_to_show": 4,
         "enable_stack_products": true,
         "show_view_all": false,
@@ -281,7 +283,7 @@
         "title": "",
         "disable_on_mobile": false,
         "hide_empty_section": false,
-        "collection": "skincare-collection",
+        "collection": "wipes",
         "product_list": [],
         "products_to_show": 4,
         "enable_stack_products": false,
