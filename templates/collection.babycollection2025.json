@@ -543,6 +543,7 @@
         "image_EEi9xG": {
           "type": "image",
           "settings": {
+            "desktop_image": "shopify://shop_images/DNF_TERRA_Kiwifruit_70s_US-2024-03_1.svg",
             "select_icon": "bag",
             "heading": "",
             "text": "<p>100% BAMBOO\u0003FIBRE</p>",
@@ -552,6 +553,7 @@
         "image_K8h7hq": {
           "type": "image",
           "settings": {
+            "desktop_image": "shopify://shop_images/DNF_TERRA_Kiwifruit_70s_US-2024-01_1.svg",
             "select_icon": "bag",
             "heading": "",
             "text": "<p>ALL NATURAL\u0003INGREDIENTS</p>",
