@@ -563,6 +563,7 @@
         "image_mn7Hdh": {
           "type": "image",
           "settings": {
+            "desktop_image": "shopify://shop_images/1892729_1.png",
             "select_icon": "bin",
             "heading": "",
             "text": "<p>PLANT-BASED & RECYCLED LID</p>",
@@ -572,6 +573,7 @@
         "image_8LCC4P": {
           "type": "image",
           "settings": {
+            "desktop_image": "shopify://shop_images/DNF_TERRA_Kiwifruit_70s_US-2024-04_1.svg",
             "select_icon": "bag",
             "heading": "",
             "text": "<p>NO PARABENS</p>",
