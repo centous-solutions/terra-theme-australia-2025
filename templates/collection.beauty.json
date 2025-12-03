@@ -131,13 +131,14 @@
         "product_7kmgxi": {
           "type": "product",
           "settings": {
-            "slider_product": "terra-facial-wipes",
-            "product_image": "shopify://shop_images/Terra_Facial_Wipes_Lifestyle_1.jpg",
+            "slider_product": "best-subscription-bundle",
+            "product_image": "shopify://shop_images/Terra_Facial_Wipes_Color_Front_1.jpg",
             "text_color": "#ffffff",
             "background_color": "#cd8b7f",
             "heading": "Makeup gone, glow on!",
             "text": "",
             "promo_text_color": "",
+            "desktop_image": "shopify://shop_images/Terra_Facial_Wipes_Lifestyle_1.jpg",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "center",
             "mobile_text_horizontal_position": "center"
