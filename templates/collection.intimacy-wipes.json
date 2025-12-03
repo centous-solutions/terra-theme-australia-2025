@@ -357,7 +357,8 @@
             "button_label": "",
             "button_disable_on_mobile": false,
             "button_link": "shopify://collections/skincare",
-            "button_link_in_new_window": false
+            "button_link_in_new_window": false,
+            "desktop_image": "shopify://shop_images/facial-scene-4_3.jpg"
           }
         },
         "column_qjBE93": {
@@ -371,7 +372,8 @@
             "button_label": "",
             "button_disable_on_mobile": false,
             "button_link": "shopify://collections/skincare-collection",
-            "button_link_in_new_window": false
+            "button_link_in_new_window": false,
+            "desktop_image": "shopify://shop_images/facial-scene-8_1.jpg"
           }
         },
         "column_kh4Bab": {
