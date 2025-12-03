@@ -73,6 +73,8 @@
       "settings": {
         "heading": "",
         "full-width-enabled": true,
+        "video_hosted": "shopify://files/videos/Terra Secret Recipe 2023_666dc369-d81c-4d66-aa0b-bd322521905e.mp4",
+        "mobile_video_hosted": "shopify://files/videos/Terra Secret Recipe 2023_666dc369-d81c-4d66-aa0b-bd322521905e.mp4",
         "autoplay": true,
         "video_controls": false,
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
@@ -258,10 +260,8 @@
         "color-body-text": "#ffffff",
         "color-overlay": "rgba(0,0,0,0)",
         "color-overlay-opacity": 100,
-        "desktop_image": "shopify://shop_images/Screenshot_2025-10-22_at_1.44.07_PM.jpg",
         "desktop_text_vertical_position": "bottom",
         "desktop_text_horizontal_position": "right",
-        "mobile_image": "shopify://shop_images/terra.jpg",
         "mobile_text_vertical_position": "center",
         "mobile_text_horizontal_position": "center",
         "margin-top": 0,
@@ -299,10 +299,8 @@
         "slide_height": "fixed_height",
         "desktop_fixed_height": 500,
         "mobile_fixed_height": 440,
-        "desktop_image": "shopify://shop_images/Screenshot_2025-10-22_at_2.33.13_PM.jpg",
         "desktop_text_vertical_position": "center",
         "desktop_text_horizontal_position": "right",
-        "mobile_image": "shopify://shop_images/Screenshot_2025-11-04_at_11.28.30_AM.jpg",
         "mobile_text_vertical_position": "center",
         "mobile_text_horizontal_position": "center",
         "color-heading": "#ffffff",
@@ -364,8 +362,6 @@
       "settings": {
         "title": "",
         "layout": "image_first",
-        "before_image": "shopify://shop_images/Terra_Walker_16s_3_folded_-02.png",
-        "after_image": "shopify://shop_images/Terra_Walker_16s_3_folded_-01.png",
         "desktop-percentage-image-width": 53,
         "full-width-enabled": true,
         "slide_height": "adapt_to_first_image",
@@ -393,7 +389,6 @@
         "image_LpU9LC": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/Terra_Nappy_Junior_14s-01.svg",
             "select_icon": "bag",
             "heading": "",
             "text": "<p>Dermatologically Tested</p>",
@@ -403,7 +398,6 @@
         "image_CKCXhM": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/Terra_Nappy_Junior_14s-02.svg",
             "select_icon": "bag",
             "heading": "",
             "text": "<p>Foodgrade Ink on Product & Packaging</p>",
@@ -413,7 +407,6 @@
         "image_VGUkeA": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/Terra_Nappy_Junior_14s-03.svg",
             "select_icon": "bag",
             "heading": "",
             "text": "<p>Sustainably Crafted from Plant-Based Fibers</p>",
@@ -423,7 +416,6 @@
         "image_b3UnVc": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/Terra_Nappy_Junior_14s-05.svg",
             "select_icon": "bag",
             "heading": "",
             "text": "<p>Plant-based Wetness Indicator</p>",
@@ -496,7 +488,6 @@
         "color-body-text": "#ffffff",
         "color-overlay": "rgba(0,0,0,0)",
         "color-overlay-opacity": 100,
-        "desktop_image": "shopify://shop_images/terra_we.jpg",
         "desktop_text_vertical_position": "bottom",
         "desktop_text_horizontal_position": "left",
         "mobile_text_vertical_position": "center",
@@ -525,7 +516,6 @@
         "color-body-text": "rgba(0,0,0,0)",
         "color-overlay": "rgba(0,0,0,0)",
         "color-overlay-opacity": 100,
-        "desktop_image": "shopify://shop_images/baby_wipes.jpg",
         "desktop_text_vertical_position": "center",
         "desktop_text_horizontal_position": "center",
         "mobile_text_vertical_position": "center",
@@ -540,7 +530,6 @@
         "image_EEi9xG": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/DNF_TERRA_Kiwifruit_70s_US-2024-03.svg",
             "select_icon": "bag",
             "heading": "",
             "text": "<p>100% BAMBOO\u0003FIBRE</p>",
@@ -550,7 +539,6 @@
         "image_K8h7hq": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/DNF_TERRA_Kiwifruit_70s_US-2024-01.svg",
             "select_icon": "bag",
             "heading": "",
             "text": "<p>ALL NATURAL\u0003INGREDIENTS</p>",
@@ -560,7 +548,6 @@
         "image_mn7Hdh": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/1892729.png",
             "select_icon": "bin",
             "heading": "",
             "text": "<p>PLANT-BASED & RECYCLED LID</p>",
@@ -570,7 +557,6 @@
         "image_8LCC4P": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/DNF_TERRA_Kiwifruit_70s_US-2024-04.svg",
             "select_icon": "bag",
             "heading": "",
             "text": "<p>NO PARABENS</p>",
