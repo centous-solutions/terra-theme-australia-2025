@@ -395,6 +395,7 @@
         "image_LpU9LC": {
           "type": "image",
           "settings": {
+            "desktop_image": "shopify://shop_images/Terra_Nappy_Junior_14s-01.svg",
             "select_icon": "bag",
             "heading": "",
             "text": "<p>Dermatologically Tested</p>",
@@ -404,6 +405,7 @@
         "image_CKCXhM": {
           "type": "image",
           "settings": {
+            "desktop_image": "shopify://shop_images/Terra_Nappy_Junior_14s-02.svg",
             "select_icon": "bag",
             "heading": "",
             "text": "<p>Foodgrade Ink on Product & Packaging</p>",
