@@ -117,8 +117,10 @@
         "color-body-text": "#ffffff",
         "color-overlay": "rgba(0,0,0,0)",
         "color-overlay-opacity": 100,
+        "desktop_image": "shopify://shop_images/bowl-1_1_8171fe6c-7c9a-46a2-a522-ea2a7770021c.jpg",
         "desktop_text_vertical_position": "center",
         "desktop_text_horizontal_position": "center",
+        "mobile_image": "shopify://shop_images/bowl-1_2.jpg",
         "mobile_text_horizontal_position": "center",
         "margin-top": 0,
         "margin-bottom": 0
