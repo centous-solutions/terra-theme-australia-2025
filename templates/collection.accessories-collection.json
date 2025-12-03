@@ -357,7 +357,8 @@
             "button_label": "",
             "button_disable_on_mobile": false,
             "button_link": "shopify://collections/baby-2025",
-            "button_link_in_new_window": false
+            "button_link_in_new_window": false,
+            "desktop_image": "shopify://shop_images/Screenshot_2025-11-20_at_2.22.34_PM.webp"
           }
         },
         "column_qjBE93": {
@@ -372,7 +373,7 @@
             "button_disable_on_mobile": false,
             "button_link": "shopify://collections/kids-collection",
             "button_link_in_new_window": false,
-            "desktop_image": "shopify://shop_images/outdoor.jpg"
+            "desktop_image": "shopify://shop_images/outdoor_1.jpg"
           }
         },
         "column_kh4Bab": {
@@ -386,7 +387,8 @@
             "button_label": "",
             "button_disable_on_mobile": false,
             "button_link": "shopify://collections/kids",
-            "button_link_in_new_window": false
+            "button_link_in_new_window": false,
+            "desktop_image": "shopify://shop_images/kids-insect-14_1.png"
           }
         }
       },
