@@ -302,6 +302,7 @@
         "slide_height": "fixed_height",
         "desktop_fixed_height": 500,
         "mobile_fixed_height": 440,
+        "desktop_image": "shopify://shop_images/Screenshot_2025-10-22_at_2.33.13_PM_1.jpg",
         "desktop_text_vertical_position": "center",
         "desktop_text_horizontal_position": "right",
         "mobile_text_vertical_position": "center",
@@ -365,6 +366,8 @@
       "settings": {
         "title": "",
         "layout": "image_first",
+        "before_image": "shopify://shop_images/Terra_Walker_16s_3_folded_-02.png",
+        "after_image": "shopify://shop_images/Terra_Walker_16s_3_folded_-01_1.png",
         "desktop-percentage-image-width": 53,
         "full-width-enabled": true,
         "slide_height": "adapt_to_first_image",
