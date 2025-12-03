@@ -280,13 +280,14 @@
         "image_MKXEt4": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/Group_46.png",
+            "desktop_image": "shopify://shop_images/Group_46.webp",
             "link": ""
           }
         },
         "image_iYqg3y": {
           "type": "image",
           "settings": {
+            "desktop_image": "shopify://shop_images/Group_51.webp",
             "link": ""
           }
         },
