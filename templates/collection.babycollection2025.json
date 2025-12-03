@@ -415,6 +415,7 @@
         "image_VGUkeA": {
           "type": "image",
           "settings": {
+            "desktop_image": "shopify://shop_images/Terra_Nappy_Junior_14s-03_1.svg",
             "select_icon": "bag",
             "heading": "",
             "text": "<p>Sustainably Crafted from Plant-Based Fibers</p>",
@@ -424,6 +425,7 @@
         "image_b3UnVc": {
           "type": "image",
           "settings": {
+            "desktop_image": "shopify://shop_images/Terra_Nappy_Junior_14s-05_1.svg",
             "select_icon": "bag",
             "heading": "",
             "text": "<p>Plant-based Wetness Indicator</p>",
