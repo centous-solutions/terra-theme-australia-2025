@@ -1,1 +1,784 @@
-{"sections":{"breadcrumbs":{"type":"main-breadcrumbs","disabled":true,"settings":{"full-width-enabled":false,"text_color":"#000000","background_color":"#eeeeee","margin-top":12,"margin-bottom":8}},"image_banner_jzB6hw":{"type":"image-banner","blocks":{"heading_HWcm9j":{"type":"heading","settings":{"heading":"CONFIDENCE BEGINS WITHIN","disable_on_mobile":false,"size_heading":140,"size_heading_mobile":130}},"text_9XCXiA":{"type":"text","settings":{"text":"<p>Thoughtfully formulated to gently cleanse and protect your intimate essentials. These wipes offer a discreet, elegant way to maintain freshness and confidence, before and after every moment of pleasure.<\/p>","disable_on_mobile":false}}},"block_order":["heading_HWcm9j","text_9XCXiA"],"name":"t:sections.image-banner.presets.name","settings":{"heading":"","full-width-enabled":true,"slide_height":"fixed_height","desktop_fixed_height":600,"mobile_fixed_height":320,"desktop_image":"shopify:\/\/shop_images\/intimacy-scene-38.jpg","desktop_text_vertical_position":"center","desktop_text_horizontal_position":"center","mobile_text_vertical_position":"center","mobile_text_horizontal_position":"center","color-heading":"rgba(0,0,0,0)","section-color-overlay":"rgba(0,0,0,0)","section-color-overlay-opacity":100,"color-body-text":"#ffffff","text-container-color":"rgba(0,0,0,0)","color-overlay-opacity":100,"margin-top":0,"margin-bottom":0}},"image_with_text_3KfMLQ":{"type":"image-with-text","blocks":{"heading_cGpY3q":{"type":"heading","settings":{"heading":"LUXURY HYGIENE FOR EVERY BODY","disable_on_mobile":false,"size_heading":170,"size_heading_mobile":100}},"text_b7tJ3Q":{"type":"text","settings":{"text":"<p>An intimate whisper of freshness, a veil of comfort-gracefully discreet, exquisitely there when you desire it most.<\/p>","text_style":"body","disable_on_mobile":false}},"button_Vbjj3A":{"type":"button","disabled":true,"settings":{"button_select":"primary","button_label":"Button label","button_link":"\/","disable_on_mobile":false}}},"block_order":["heading_cGpY3q","text_b7tJ3Q","button_Vbjj3A"],"name":"t:sections.image-with-text.presets.name","settings":{"title":"","layout":"text_first","desktop-percentage-image-width":50,"full-width-enabled":true,"slide_height":"fixed_height","desktop_fixed_height":580,"mobile_fixed_height":200,"section-color-body-text":"rgba(0,0,0,0)","section-color-overlay":"#4e4083","section-color-overlay-opacity":100,"color-body-text":"#ffffff","color-overlay":"rgba(0,0,0,0)","color-overlay-opacity":100,"desktop_image":"shopify:\/\/shop_images\/intimacy-scene-30.jpg","desktop_text_vertical_position":"center","desktop_text_horizontal_position":"center","mobile_image":"shopify:\/\/shop_images\/intimacy-scene-30.jpg","mobile_text_horizontal_position":"center","margin-top":0,"margin-bottom":0}},"featured_collection_BcdMit":{"type":"featured-collection","name":"t:sections.featured-collection.presets.name","settings":{"title":"","disable_on_mobile":false,"hide_empty_section":false,"collection":"intimacy","product_list":[],"products_to_show":3,"enable_stack_products":false,"show_view_all":false,"button_select":"primary","number_of_column_desktop":3,"spacing_desktop":"16","make_products_full_width":true,"number_of_column_mobile":2.1,"spacing_mobile":"16","text_alignment":"left","image_ratio":"square","show_video":false,"show_secondary_image":true,"show_vendor":false,"show_product_rating":true,"enable_quick_add_button":false,"color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":20,"margin-bottom":20}},"product_slider_ypYpNE":{"type":"product-slider","blocks":{"product_cAPDMi":{"type":"product","settings":{"slider_product":"terra-intimate-cleansing-wipes","text_color":"#ffffff","background_color":"#b67b97","heading":"Freshness when you need it most","text":"","promo_text_color":"","desktop_image":"shopify:\/\/shop_images\/Terra_Intimacy_Cleansing_Wipes_Lifestyle.jpg","desktop_text_vertical_position":"bottom","desktop_text_horizontal_position":"center","mobile_text_horizontal_position":"center"}},"product_7kmgxi":{"type":"product","settings":{"slider_product":"terra-intimate-toy-cleaning-wipes","text_color":"#ffffff","background_color":"#7249bf","heading":"Pure Care for What Pleases You","text":"","promo_text_color":"","desktop_image":"shopify:\/\/shop_images\/pouch-scene-18.png","desktop_text_vertical_position":"bottom","desktop_text_horizontal_position":"center","mobile_text_horizontal_position":"center"}}},"block_order":["product_cAPDMi","product_7kmgxi"],"name":"t:sections.products_slider.presets.name","settings":{"heading":"","full-width-enabled":true,"text_alignment":"left","product_name_style":"body","show_vendor":false,"show_rating":false,"layout":"right","size_heading":100,"size_heading_mobile":100,"color-heading-text":"rgba(0,0,0,0)","section-color-overlay":"rgba(0,0,0,0)","margin-top":0,"margin-bottom":12}},"banner":{"type":"main-collection-banner","disabled":true,"settings":{"show_collection_description":true,"layout":"image_first","desktop-percentage-image-width":50,"slide_height":"adapt_to_first_image","desktop_fixed_height":320,"mobile_fixed_height":200,"full-width-enabled":true,"size_heading":150,"size_heading_mobile":120,"desktop_text_vertical_position":"center","desktop_text_horizontal_position":"left","mobile_text_horizontal_position":"center","color-body-text":"#000000","color-overlay":"#e3f2e6","color-overlay-opacity":100,"margin-top":0,"margin-bottom":0}},"title":{"type":"main-collection-title","disabled":true,"settings":{"full-width-enabled":true,"show_collection_description":true,"desktop_text_horizontal_position":"center","size_heading":140,"size_heading_mobile":120,"color-body-text":"#000000","background_color":"#e6efe8","margin-top":24,"margin-bottom":32}},"product-grid":{"type":"main-collection-product-grid","disabled":true,"settings":{"products_per_page":24,"columns_mobile":"2","columns_desktop":"3","spacing_desktop":"8","full-width-enabled":true,"spacing_mobile":"16","image_ratio":"adapt","show_video":false,"show_secondary_image":true,"show_vendor":false,"show_product_rating":false,"enable_quick_add_button":true,"text_alignment":"center","toolbar_style":"buttons","enable_sorting":false,"enable_filtering":false,"filter_position":"always","margin-top":16,"margin-bottom":0}},"brands_ih8NE6":{"type":"brands","blocks":{"image_MKXEt4":{"type":"image","settings":{"desktop_image":"shopify:\/\/shop_images\/Group_46.png","link":""}},"image_iYqg3y":{"type":"image","settings":{"desktop_image":"shopify:\/\/shop_images\/Group_51.png","link":""}},"image_UXXfgb":{"type":"image","settings":{"desktop_image":"shopify:\/\/shop_images\/Group_50.png","link":""}},"image_MbwDLA":{"type":"image","settings":{"desktop_image":"shopify:\/\/shop_images\/Group_453.png","link":""}},"image_TDbiRU":{"type":"image","settings":{"desktop_image":"shopify:\/\/shop_images\/Group_47.png","link":""}}},"block_order":["image_MKXEt4","image_iYqg3y","image_UXXfgb","image_MbwDLA","image_TDbiRU"],"name":"t:sections.brands.settings.presets.name","settings":{"heading":"Proof in Every Detail","animation":"marquee","animation_speed":"100","color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":36,"margin-bottom":0}},"separator_qkXpB7":{"type":"separator","disabled":true,"settings":{"heading":"","show-separator-line":true,"full-width-line":false,"color-background":"#dfdfdf","margin-top":20,"margin-bottom":16}},"multicolumn_BLNpDn":{"type":"multicolumn","blocks":{"column_4Rxaze":{"type":"column","settings":{"heading":"Ease Meets Everyday","heading_disable_on_mobile":false,"text":"<p>Everyday Wipes<\/p>","text_disable_on_mobile":false,"button_select":"link","button_label":"","button_disable_on_mobile":false,"button_link":"shopify:\/\/collections\/skincare","button_link_in_new_window":false,"desktop_image":"shopify:\/\/shop_images\/facial-scene-4.jpg"}},"column_qjBE93":{"type":"column","settings":{"heading":"Grace Meets Glow","heading_disable_on_mobile":false,"text":"<p>Beauty Wipes<\/p>","text_disable_on_mobile":false,"button_select":"link","button_label":"","button_disable_on_mobile":false,"button_link":"shopify:\/\/collections\/skincare-collection","button_link_in_new_window":false,"desktop_image":"shopify:\/\/shop_images\/facial-scene-8.jpg"}},"column_kh4Bab":{"type":"column","settings":{"heading":"Radiance Meets Simplicity","heading_disable_on_mobile":false,"text":"<p>Skincare Wipes<\/p>","text_disable_on_mobile":false,"button_select":"link","button_label":"","button_disable_on_mobile":false,"button_link":"shopify:\/\/collections\/intimacy","button_link_in_new_window":false,"desktop_image":"shopify:\/\/shop_images\/deodorant-scene-9.jpg"}}},"block_order":["column_4Rxaze","column_qjBE93","column_kh4Bab"],"settings":{"heading":"A Different Kind of Care","swipe_on_mobile":true,"full-width-enabled":true,"image_ratio":"square","column_alignment":"center","size_heading":80,"size_heading_mobile":80,"color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":64,"margin-bottom":48}},"features_banner_48DfGA":{"type":"features-banner","blocks":{"image_LpU9LC":{"type":"image","settings":{"desktop_image":"shopify:\/\/shop_images\/1_f87d10f0-3b59-4e30-a4fa-ad318fc798b3.png","select_icon":"bag","heading":"Gentle","text":"<p>Safe for kids, families, and everyday use.<\/p>","link":""}},"image_CKCXhM":{"type":"image","settings":{"desktop_image":"shopify:\/\/shop_images\/1.png","select_icon":"bag","heading":"Natural","text":"<p>We only use the finest natural ingredients.<\/p>","link":""}},"image_McECbz":{"type":"image","settings":{"desktop_image":"shopify:\/\/shop_images\/arrow___recycling.png","select_icon":"bag","heading":"Recyclable","text":"<p>All packaging is recyclable and eco-conscious.<\/p>","link":""}},"image_VGUkeA":{"type":"image","settings":{"desktop_image":"shopify:\/\/shop_images\/6a90c69c7951b6cfdeed415b17557f9f.png","select_icon":"bag","heading":"Free Shipping","text":"<p>Orders over $90 within NZ.<\/p>","link":""}}},"block_order":["image_LpU9LC","image_CKCXhM","image_McECbz","image_VGUkeA"],"settings":{"heading":"","size_heading_mobile":80,"size_heading":90,"icon_width_mobile":44,"icon_width_desktop":60,"icon_layout":"center","columns_desktop":"4","icon_layout_mobile":"grid","color_body_icon":"rgba(0,0,0,0)","color_background_icon":"rgba(0,0,0,0)","color_body_text":"rgba(0,0,0,0)","background_color":"#ecf5f4","margin-top":60,"margin-bottom":60}},"rich_text_U6LTzA":{"type":"rich-text","blocks":{"heading_MG3qh7":{"type":"heading","settings":{"heading":"Frequently Asked Questions","disable_on_mobile":false,"size_heading":100,"size_heading_mobile":100}},"text_7K4ELw":{"type":"text","settings":{"text":"<p>Discover the answers to your frequently asked questions about our products and services.<\/p>","disable_on_mobile":false}}},"block_order":["heading_MG3qh7","text_7K4ELw"],"name":"t:sections.rich-text.presets.name","settings":{"section_width":"regular","desktop_text_horizontal_position":"center","color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":20,"margin-bottom":20}},"read_more_faqs_ThYdei":{"type":"read-more-faqs","blocks":{"collapsible_tab_aUVUap":{"type":"collapsible_tab","settings":{"heading":"What are Terra Intimate Cleansing Wipes for?","content":"<p>Terra Intimate Cleansing Wipes provide gentle hygiene for intimate areas, helping maintain freshness while supporting the skin's natural balance.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_GUQQqk":{"type":"collapsible_tab","settings":{"heading":"Are Terra Intimate Cleansing Wipes pH-balanced?","content":"<p>Yes, Terra Intimate Cleansing Wipes are pH-balanced to support intimate health and minimise irritation.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_FAWjCh":{"type":"collapsible_tab","settings":{"heading":"Can Terra Intimate Wipes be used daily?","content":"<p>Yes, Terra Intimate Cleansing Wipes are designed for safe, everyday use when you need a boost of freshness.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_VkHUbC":{"type":"collapsible_tab","settings":{"heading":"What do Terra Intimate Toy Cleaning Wipes clean?","content":"<p>Terra Intimate Toy Cleaning Wipes sanitise intimate devices by removing residue, bacteria, and build-up without damaging materials.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_W3x7Lz":{"type":"collapsible_tab","settings":{"heading":"Are Terra Toy Cleaning Wipes safe for all toys?","content":"<p>Yes, Terra's gentle formula is suitable for silicone, rubber, plastic, and most intimate device materials.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_YmLfyQ":{"type":"collapsible_tab","settings":{"heading":"Do Terra Toy Cleaning Wipes require rinsing?","content":"<p>No, Terra Intimate Toy Cleaning Wipes are designed for quick, waterless cleaning and air-dry use.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_jgjLgb":{"type":"collapsible_tab","settings":{"heading":"What is Terra Whisper Collection?","content":"<p>The Terra Whisper Collection is a curated intimacy-care range designed to support discreet hygiene, comfort, and personal wellness.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_akBdkK":{"type":"collapsible_tab","settings":{"heading":"Are Terra intimacy products suitable for sensitive skin?","content":"<p>Yes, Terra Intimacy wipes use mild, fragrance-conscious formulations appropriate for sensitive and delicate areas.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_4mcRrU":{"type":"collapsible_tab","settings":{"heading":"Do Terra intimacy wipes contain harsh chemicals?","content":"<p>No, Terra Intimacy Wipes are formulated without harsh irritants, supporting gentle, safe personal care.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_d3nrNW":{"type":"collapsible_tab","settings":{"heading":"Are Terra intimacy wipes travel-friendly?","content":"<p>Yes, Terra intimacy products come in compact 30-sheet packs ideal for discreet, on-the-go care.<\/p>","page":"","icon":"check_mark"}}},"block_order":["collapsible_tab_aUVUap","collapsible_tab_GUQQqk","collapsible_tab_FAWjCh","collapsible_tab_VkHUbC","collapsible_tab_W3x7Lz","collapsible_tab_YmLfyQ","collapsible_tab_jgjLgb","collapsible_tab_akBdkK","collapsible_tab_4mcRrU","collapsible_tab_d3nrNW"],"name":"Read More Faqs","settings":{"heading_faq":"","subheading_faq":"","color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","compact-size-enabled":true,"margin-top":20,"margin-bottom":20}},"collapsible_menu_CaWrWQ":{"type":"collapsible_menu","blocks":{"collapsible_tab_ARryB8":{"type":"collapsible_tab","settings":{"heading":"Is Terra Wipes suitable for all skin types, including sensitive, acne-prone, or eczema-prone skin?","content":"<p>Yes. Terra Wipes are dermatologically tested and made with gentle, plant-based ingredients. They are free from alcohol, parabens and harsh chemicals, making them safe for all types of skin, including sensitive and eczema-prone skin.<\/p>","page":"","icon":"heart"}},"collapsible_tab_zbPTCr":{"type":"collapsible_tab","settings":{"heading":"How often can I safely use Terra Wipes?","content":"<p>Terra Wipes are designed for daily use and can be used multiple times per day whenever needed. Their natural, skin-friendly formulation ensures they remain gentle even with frequent use.<\/p>","page":"","icon":"heart"}},"collapsible_tab_hHrPdg":{"type":"collapsible_tab","settings":{"heading":"What is the correct way to use Terra Wipes?","content":"<p>Gently remove a wipe from the pack and apply it directly to your skin. Avoid contact with the eyes, and do not use on broken or severely irritated skin. Once used, dispose of the wipe responsibly, do not flush.<\/p>","page":"","icon":"heart"}},"collapsible_tab_iyHtmz":{"type":"collapsible_tab","settings":{"heading":"How will my Terra Wipes order be delivered?","content":"<p>Every Terra Wipes order is packed securely in eco-conscious packaging and shipped promptly to preserve freshness and ensure safe delivery.<\/p>","page":"","icon":"heart"}},"collapsible_tab_4xK9dm":{"type":"collapsible_tab","settings":{"heading":"Are Terra Wipes cruelty-free?","content":"<p>Yes. All Terra products, including our wipes, are 100% cruelty-free and never tested on animals.<\/p>","page":"","icon":"heart"}},"collapsible_tab_igNpEL":{"type":"collapsible_tab","settings":{"heading":"What is the shelf life of Terra Wipes, and how should they be stored?","content":"<p>Terra Wipes have a shelf life of 24 months from the date of manufacture. To keep them fresh, store in a cool, dry place away from direct sunlight, and reseal the pack tightly after each use.<\/p>","page":"","icon":"heart"}},"collapsible_tab_DemwhA":{"type":"collapsible_tab","settings":{"heading":"Do Terra Wipes contain any common allergens?","content":"<p>Terra Wipes are carefully formulated to be free from common irritants such as alcohol, parabens, fragrances, and chlorine. However, we always recommend checking the ingredient list if you have specific allergies or sensitivities.<\/p>","page":"","icon":"heart"}}},"block_order":["collapsible_tab_ARryB8","collapsible_tab_zbPTCr","collapsible_tab_hHrPdg","collapsible_tab_iyHtmz","collapsible_tab_4xK9dm","collapsible_tab_igNpEL","collapsible_tab_DemwhA"],"disabled":true,"name":"t:sections.collapsible_menu.presets.name","settings":{"color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","compact-size-enabled":true,"margin-top":20,"margin-bottom":20}},"collection_description_8yVRJV":{"type":"collection-description","disabled":true,"name":"Collection Description","settings":{"rich_content":"<p>Explore the <em>Yoga Mats<\/em> collection by <strong>Zenvibes Australia<\/strong> — where sustainability meets soul. Our mats are handcrafted from organic cork and plant-based herbal materials, offering an eco-conscious foundation for every flow, stretch, and savasana.<\/p>","read_more_label":"Read More","read_less_label":"Read Less","background_color":"#ffffff","padding_top":80,"padding_bottom":80,"padding_top_mobile":40,"padding_bottom_mobile":40,"collapsed_height_desktop":160,"collapsed_height_mobile":120}},"newsletter_KQitJE":{"type":"newsletter","blocks":{"heading_KhxnCQ":{"type":"heading","settings":{"heading":"Get 10% off your first order","heading_disable_on_mobile":false,"size_heading":200,"size_heading_mobile":120}},"paragraph_KJ3cj8":{"type":"paragraph","settings":{"paragraph":"<p>Be the first to know about new collections and exclusive offers.<\/p>","text_disable_on_mobile":false}},"email_form_UAcpDk":{"type":"email_form","settings":{"button_select":"primary"}}},"block_order":["heading_KhxnCQ","paragraph_KJ3cj8","email_form_UAcpDk"],"settings":{"color-body-text":"rgba(0,0,0,0)","background_color":"#ecf5f4","margin-top":100,"margin-bottom":100}}},"order":["breadcrumbs","image_banner_jzB6hw","image_with_text_3KfMLQ","featured_collection_BcdMit","product_slider_ypYpNE","banner","title","product-grid","brands_ih8NE6","separator_qkXpB7","multicolumn_BLNpDn","features_banner_48DfGA","rich_text_U6LTzA","read_more_faqs_ThYdei","collapsible_menu_CaWrWQ","collection_description_8yVRJV","newsletter_KQitJE"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "breadcrumbs": {
+      "type": "main-breadcrumbs",
+      "disabled": true,
+      "settings": {
+        "full-width-enabled": false,
+        "text_color": "#000000",
+        "background_color": "#eeeeee",
+        "margin-top": 12,
+        "margin-bottom": 8
+      }
+    },
+    "image_banner_jzB6hw": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_HWcm9j": {
+          "type": "heading",
+          "settings": {
+            "heading": "CONFIDENCE BEGINS WITHIN",
+            "disable_on_mobile": false,
+            "size_heading": 140,
+            "size_heading_mobile": 130
+          }
+        },
+        "text_9XCXiA": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Thoughtfully formulated to gently cleanse and protect your intimate essentials. These wipes offer a discreet, elegant way to maintain freshness and confidence, before and after every moment of pleasure.</p>",
+            "disable_on_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_HWcm9j",
+        "text_9XCXiA"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "heading": "",
+        "full-width-enabled": true,
+        "slide_height": "fixed_height",
+        "desktop_fixed_height": 600,
+        "mobile_fixed_height": 320,
+        "desktop_image": "shopify://shop_images/intimacy-scene-38_1.jpg",
+        "desktop_text_vertical_position": "center",
+        "desktop_text_horizontal_position": "center",
+        "mobile_text_vertical_position": "center",
+        "mobile_text_horizontal_position": "center",
+        "color-heading": "rgba(0,0,0,0)",
+        "section-color-overlay": "rgba(0,0,0,0)",
+        "section-color-overlay-opacity": 100,
+        "color-body-text": "#ffffff",
+        "text-container-color": "rgba(0,0,0,0)",
+        "color-overlay-opacity": 100,
+        "margin-top": 0,
+        "margin-bottom": 0
+      }
+    },
+    "image_with_text_3KfMLQ": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_cGpY3q": {
+          "type": "heading",
+          "settings": {
+            "heading": "LUXURY HYGIENE FOR EVERY BODY",
+            "disable_on_mobile": false,
+            "size_heading": 170,
+            "size_heading_mobile": 100
+          }
+        },
+        "text_b7tJ3Q": {
+          "type": "text",
+          "settings": {
+            "text": "<p>An intimate whisper of freshness, a veil of comfort-gracefully discreet, exquisitely there when you desire it most.</p>",
+            "text_style": "body",
+            "disable_on_mobile": false
+          }
+        },
+        "button_Vbjj3A": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_select": "primary",
+            "button_label": "Button label",
+            "button_link": "/",
+            "disable_on_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_cGpY3q",
+        "text_b7tJ3Q",
+        "button_Vbjj3A"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "title": "",
+        "layout": "text_first",
+        "desktop-percentage-image-width": 50,
+        "full-width-enabled": true,
+        "slide_height": "fixed_height",
+        "desktop_fixed_height": 580,
+        "mobile_fixed_height": 200,
+        "section-color-body-text": "rgba(0,0,0,0)",
+        "section-color-overlay": "#4e4083",
+        "section-color-overlay-opacity": 100,
+        "color-body-text": "#ffffff",
+        "color-overlay": "rgba(0,0,0,0)",
+        "color-overlay-opacity": 100,
+        "desktop_image": "shopify://shop_images/intimacy-scene-30_1.jpg",
+        "desktop_text_vertical_position": "center",
+        "desktop_text_horizontal_position": "center",
+        "mobile_text_horizontal_position": "center",
+        "margin-top": 0,
+        "margin-bottom": 0
+      }
+    },
+    "featured_collection_BcdMit": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "",
+        "disable_on_mobile": false,
+        "hide_empty_section": false,
+        "collection": "intimacy",
+        "product_list": [],
+        "products_to_show": 3,
+        "enable_stack_products": false,
+        "show_view_all": false,
+        "button_select": "primary",
+        "number_of_column_desktop": 3,
+        "spacing_desktop": "16",
+        "make_products_full_width": true,
+        "number_of_column_mobile": 2.1,
+        "spacing_mobile": "16",
+        "text_alignment": "left",
+        "image_ratio": "square",
+        "show_video": false,
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_product_rating": true,
+        "enable_quick_add_button": false,
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 20,
+        "margin-bottom": 20
+      }
+    },
+    "product_slider_ypYpNE": {
+      "type": "product-slider",
+      "blocks": {
+        "product_cAPDMi": {
+          "type": "product",
+          "settings": {
+            "slider_product": "terra-intimate-cleansing-wipes",
+            "text_color": "#ffffff",
+            "background_color": "#b67b97",
+            "heading": "Freshness when you need it most",
+            "text": "",
+            "promo_text_color": "",
+            "desktop_text_vertical_position": "bottom",
+            "desktop_text_horizontal_position": "center",
+            "mobile_text_horizontal_position": "center"
+          }
+        },
+        "product_7kmgxi": {
+          "type": "product",
+          "settings": {
+            "slider_product": "terra-intimate-toy-cleaning-wipes",
+            "text_color": "#ffffff",
+            "background_color": "#7249bf",
+            "heading": "Pure Care for What Pleases You",
+            "text": "",
+            "promo_text_color": "",
+            "desktop_text_vertical_position": "bottom",
+            "desktop_text_horizontal_position": "center",
+            "mobile_text_horizontal_position": "center"
+          }
+        }
+      },
+      "block_order": [
+        "product_cAPDMi",
+        "product_7kmgxi"
+      ],
+      "name": "t:sections.products_slider.presets.name",
+      "settings": {
+        "heading": "",
+        "full-width-enabled": true,
+        "text_alignment": "left",
+        "product_name_style": "body",
+        "show_vendor": false,
+        "show_rating": false,
+        "layout": "right",
+        "size_heading": 100,
+        "size_heading_mobile": 100,
+        "color-heading-text": "rgba(0,0,0,0)",
+        "section-color-overlay": "rgba(0,0,0,0)",
+        "margin-top": 0,
+        "margin-bottom": 12
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "layout": "image_first",
+        "desktop-percentage-image-width": 50,
+        "slide_height": "adapt_to_first_image",
+        "desktop_fixed_height": 320,
+        "mobile_fixed_height": 200,
+        "full-width-enabled": true,
+        "size_heading": 150,
+        "size_heading_mobile": 120,
+        "desktop_text_vertical_position": "center",
+        "desktop_text_horizontal_position": "left",
+        "mobile_text_horizontal_position": "center",
+        "color-body-text": "#000000",
+        "color-overlay": "#e3f2e6",
+        "color-overlay-opacity": 100,
+        "margin-top": 0,
+        "margin-bottom": 0
+      }
+    },
+    "title": {
+      "type": "main-collection-title",
+      "disabled": true,
+      "settings": {
+        "full-width-enabled": true,
+        "show_collection_description": true,
+        "desktop_text_horizontal_position": "center",
+        "size_heading": 140,
+        "size_heading_mobile": 120,
+        "color-body-text": "#000000",
+        "background_color": "#e6efe8",
+        "margin-top": 24,
+        "margin-bottom": 32
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "disabled": true,
+      "settings": {
+        "products_per_page": 24,
+        "columns_mobile": "2",
+        "columns_desktop": "3",
+        "spacing_desktop": "8",
+        "full-width-enabled": true,
+        "spacing_mobile": "16",
+        "image_ratio": "adapt",
+        "show_video": false,
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_product_rating": false,
+        "enable_quick_add_button": true,
+        "text_alignment": "center",
+        "toolbar_style": "buttons",
+        "enable_sorting": false,
+        "enable_filtering": false,
+        "filter_position": "always",
+        "margin-top": 16,
+        "margin-bottom": 0
+      }
+    },
+    "brands_ih8NE6": {
+      "type": "brands",
+      "blocks": {
+        "image_MKXEt4": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_46.png",
+            "link": ""
+          }
+        },
+        "image_iYqg3y": {
+          "type": "image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "image_UXXfgb": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_50.png",
+            "link": ""
+          }
+        },
+        "image_MbwDLA": {
+          "type": "image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "image_TDbiRU": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_47.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_MKXEt4",
+        "image_iYqg3y",
+        "image_UXXfgb",
+        "image_MbwDLA",
+        "image_TDbiRU"
+      ],
+      "name": "t:sections.brands.settings.presets.name",
+      "settings": {
+        "heading": "Proof in Every Detail",
+        "animation": "marquee",
+        "animation_speed": "100",
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 36,
+        "margin-bottom": 0
+      }
+    },
+    "separator_qkXpB7": {
+      "type": "separator",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "show-separator-line": true,
+        "full-width-line": false,
+        "color-background": "#dfdfdf",
+        "margin-top": 20,
+        "margin-bottom": 16
+      }
+    },
+    "multicolumn_BLNpDn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_4Rxaze": {
+          "type": "column",
+          "settings": {
+            "heading": "Ease Meets Everyday",
+            "heading_disable_on_mobile": false,
+            "text": "<p>Everyday Wipes</p>",
+            "text_disable_on_mobile": false,
+            "button_select": "link",
+            "button_label": "",
+            "button_disable_on_mobile": false,
+            "button_link": "shopify://collections/skincare",
+            "button_link_in_new_window": false
+          }
+        },
+        "column_qjBE93": {
+          "type": "column",
+          "settings": {
+            "heading": "Grace Meets Glow",
+            "heading_disable_on_mobile": false,
+            "text": "<p>Beauty Wipes</p>",
+            "text_disable_on_mobile": false,
+            "button_select": "link",
+            "button_label": "",
+            "button_disable_on_mobile": false,
+            "button_link": "shopify://collections/skincare-collection",
+            "button_link_in_new_window": false
+          }
+        },
+        "column_kh4Bab": {
+          "type": "column",
+          "settings": {
+            "heading": "Radiance Meets Simplicity",
+            "heading_disable_on_mobile": false,
+            "text": "<p>Skincare Wipes</p>",
+            "text_disable_on_mobile": false,
+            "button_select": "link",
+            "button_label": "",
+            "button_disable_on_mobile": false,
+            "button_link": "shopify://collections/intimacy",
+            "button_link_in_new_window": false
+          }
+        }
+      },
+      "block_order": [
+        "column_4Rxaze",
+        "column_qjBE93",
+        "column_kh4Bab"
+      ],
+      "settings": {
+        "heading": "A Different Kind of Care",
+        "swipe_on_mobile": true,
+        "full-width-enabled": true,
+        "image_ratio": "square",
+        "column_alignment": "center",
+        "size_heading": 80,
+        "size_heading_mobile": 80,
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 64,
+        "margin-bottom": 48
+      }
+    },
+    "features_banner_48DfGA": {
+      "type": "features-banner",
+      "blocks": {
+        "image_LpU9LC": {
+          "type": "image",
+          "settings": {
+            "select_icon": "bag",
+            "heading": "Gentle",
+            "text": "<p>Safe for kids, families, and everyday use.</p>",
+            "link": ""
+          }
+        },
+        "image_CKCXhM": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/1.png",
+            "select_icon": "bag",
+            "heading": "Natural",
+            "text": "<p>We only use the finest natural ingredients.</p>",
+            "link": ""
+          }
+        },
+        "image_McECbz": {
+          "type": "image",
+          "settings": {
+            "select_icon": "bag",
+            "heading": "Recyclable",
+            "text": "<p>All packaging is recyclable and eco-conscious.</p>",
+            "link": ""
+          }
+        },
+        "image_VGUkeA": {
+          "type": "image",
+          "settings": {
+            "select_icon": "bag",
+            "heading": "Free Shipping",
+            "text": "<p>Orders over $90 within NZ.</p>",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_LpU9LC",
+        "image_CKCXhM",
+        "image_McECbz",
+        "image_VGUkeA"
+      ],
+      "settings": {
+        "heading": "",
+        "size_heading_mobile": 80,
+        "size_heading": 90,
+        "icon_width_mobile": 44,
+        "icon_width_desktop": 60,
+        "icon_layout": "center",
+        "columns_desktop": "4",
+        "icon_layout_mobile": "grid",
+        "color_body_icon": "rgba(0,0,0,0)",
+        "color_background_icon": "rgba(0,0,0,0)",
+        "color_body_text": "rgba(0,0,0,0)",
+        "background_color": "#ecf5f4",
+        "margin-top": 60,
+        "margin-bottom": 60
+      }
+    },
+    "rich_text_U6LTzA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MG3qh7": {
+          "type": "heading",
+          "settings": {
+            "heading": "Frequently Asked Questions",
+            "disable_on_mobile": false,
+            "size_heading": 100,
+            "size_heading_mobile": 100
+          }
+        },
+        "text_7K4ELw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Discover the answers to your frequently asked questions about our products and services.</p>",
+            "disable_on_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_MG3qh7",
+        "text_7K4ELw"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "section_width": "regular",
+        "desktop_text_horizontal_position": "center",
+        "padding_settings": true,
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 20,
+        "margin-bottom": 20
+      }
+    },
+    "read_more_faqs_ThYdei": {
+      "type": "read-more-faqs",
+      "blocks": {
+        "collapsible_tab_aUVUap": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "What are Terra Intimate Cleansing Wipes for?",
+            "content": "<p>Terra Intimate Cleansing Wipes provide gentle hygiene for intimate areas, helping maintain freshness while supporting the skin's natural balance.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_GUQQqk": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Are Terra Intimate Cleansing Wipes pH-balanced?",
+            "content": "<p>Yes, Terra Intimate Cleansing Wipes are pH-balanced to support intimate health and minimise irritation.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_FAWjCh": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Can Terra Intimate Wipes be used daily?",
+            "content": "<p>Yes, Terra Intimate Cleansing Wipes are designed for safe, everyday use when you need a boost of freshness.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_VkHUbC": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "What do Terra Intimate Toy Cleaning Wipes clean?",
+            "content": "<p>Terra Intimate Toy Cleaning Wipes sanitise intimate devices by removing residue, bacteria, and build-up without damaging materials.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_W3x7Lz": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Are Terra Toy Cleaning Wipes safe for all toys?",
+            "content": "<p>Yes, Terra's gentle formula is suitable for silicone, rubber, plastic, and most intimate device materials.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_YmLfyQ": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Do Terra Toy Cleaning Wipes require rinsing?",
+            "content": "<p>No, Terra Intimate Toy Cleaning Wipes are designed for quick, waterless cleaning and air-dry use.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_jgjLgb": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "What is Terra Whisper Collection?",
+            "content": "<p>The Terra Whisper Collection is a curated intimacy-care range designed to support discreet hygiene, comfort, and personal wellness.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_akBdkK": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Are Terra intimacy products suitable for sensitive skin?",
+            "content": "<p>Yes, Terra Intimacy wipes use mild, fragrance-conscious formulations appropriate for sensitive and delicate areas.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_4mcRrU": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Do Terra intimacy wipes contain harsh chemicals?",
+            "content": "<p>No, Terra Intimacy Wipes are formulated without harsh irritants, supporting gentle, safe personal care.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_d3nrNW": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Are Terra intimacy wipes travel-friendly?",
+            "content": "<p>Yes, Terra intimacy products come in compact 30-sheet packs ideal for discreet, on-the-go care.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_tab_aUVUap",
+        "collapsible_tab_GUQQqk",
+        "collapsible_tab_FAWjCh",
+        "collapsible_tab_VkHUbC",
+        "collapsible_tab_W3x7Lz",
+        "collapsible_tab_YmLfyQ",
+        "collapsible_tab_jgjLgb",
+        "collapsible_tab_akBdkK",
+        "collapsible_tab_4mcRrU",
+        "collapsible_tab_d3nrNW"
+      ],
+      "name": "Read More Faqs",
+      "settings": {
+        "heading_faq": "",
+        "subheading_faq": "",
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "compact-size-enabled": true,
+        "margin-top": 20,
+        "margin-bottom": 20
+      }
+    },
+    "collapsible_menu_CaWrWQ": {
+      "type": "collapsible_menu",
+      "blocks": {
+        "collapsible_tab_ARryB8": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Is Terra Wipes suitable for all skin types, including sensitive, acne-prone, or eczema-prone skin?",
+            "content": "<p>Yes. Terra Wipes are dermatologically tested and made with gentle, plant-based ingredients. They are free from alcohol, parabens and harsh chemicals, making them safe for all types of skin, including sensitive and eczema-prone skin.</p>",
+            "page": "",
+            "icon": "heart"
+          }
+        },
+        "collapsible_tab_zbPTCr": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "How often can I safely use Terra Wipes?",
+            "content": "<p>Terra Wipes are designed for daily use and can be used multiple times per day whenever needed. Their natural, skin-friendly formulation ensures they remain gentle even with frequent use.</p>",
+            "page": "",
+            "icon": "heart"
+          }
+        },
+        "collapsible_tab_hHrPdg": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "What is the correct way to use Terra Wipes?",
+            "content": "<p>Gently remove a wipe from the pack and apply it directly to your skin. Avoid contact with the eyes, and do not use on broken or severely irritated skin. Once used, dispose of the wipe responsibly, do not flush.</p>",
+            "page": "",
+            "icon": "heart"
+          }
+        },
+        "collapsible_tab_iyHtmz": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "How will my Terra Wipes order be delivered?",
+            "content": "<p>Every Terra Wipes order is packed securely in eco-conscious packaging and shipped promptly to preserve freshness and ensure safe delivery.</p>",
+            "page": "",
+            "icon": "heart"
+          }
+        },
+        "collapsible_tab_4xK9dm": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Are Terra Wipes cruelty-free?",
+            "content": "<p>Yes. All Terra products, including our wipes, are 100% cruelty-free and never tested on animals.</p>",
+            "page": "",
+            "icon": "heart"
+          }
+        },
+        "collapsible_tab_igNpEL": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "What is the shelf life of Terra Wipes, and how should they be stored?",
+            "content": "<p>Terra Wipes have a shelf life of 24 months from the date of manufacture. To keep them fresh, store in a cool, dry place away from direct sunlight, and reseal the pack tightly after each use.</p>",
+            "page": "",
+            "icon": "heart"
+          }
+        },
+        "collapsible_tab_DemwhA": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Do Terra Wipes contain any common allergens?",
+            "content": "<p>Terra Wipes are carefully formulated to be free from common irritants such as alcohol, parabens, fragrances, and chlorine. However, we always recommend checking the ingredient list if you have specific allergies or sensitivities.</p>",
+            "page": "",
+            "icon": "heart"
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_tab_ARryB8",
+        "collapsible_tab_zbPTCr",
+        "collapsible_tab_hHrPdg",
+        "collapsible_tab_iyHtmz",
+        "collapsible_tab_4xK9dm",
+        "collapsible_tab_igNpEL",
+        "collapsible_tab_DemwhA"
+      ],
+      "disabled": true,
+      "name": "t:sections.collapsible_menu.presets.name",
+      "settings": {
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "compact-size-enabled": true,
+        "margin-top": 20,
+        "margin-bottom": 20
+      }
+    },
+    "collection_description_8yVRJV": {
+      "type": "collection-description",
+      "disabled": true,
+      "name": "Collection Description",
+      "settings": {
+        "rich_content": "<p>Explore the <em>Yoga Mats</em> collection by <strong>Zenvibes Australia</strong> — where sustainability meets soul. Our mats are handcrafted from organic cork and plant-based herbal materials, offering an eco-conscious foundation for every flow, stretch, and savasana.</p>",
+        "read_more_label": "Read More",
+        "read_less_label": "Read Less",
+        "background_color": "#ffffff",
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "padding_top_mobile": 40,
+        "padding_bottom_mobile": 40,
+        "collapsed_height_desktop": 160,
+        "collapsed_height_mobile": 120
+      }
+    },
+    "newsletter_KQitJE": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_KhxnCQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get 10% off your first order",
+            "heading_disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 120
+          }
+        },
+        "paragraph_KJ3cj8": {
+          "type": "paragraph",
+          "settings": {
+            "paragraph": "<p>Be the first to know about new collections and exclusive offers.</p>",
+            "text_disable_on_mobile": false
+          }
+        },
+        "email_form_UAcpDk": {
+          "type": "email_form",
+          "settings": {
+            "button_select": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KhxnCQ",
+        "paragraph_KJ3cj8",
+        "email_form_UAcpDk"
+      ],
+      "settings": {
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "#ecf5f4",
+        "margin-top": 100,
+        "margin-bottom": 100
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs",
+    "image_banner_jzB6hw",
+    "image_with_text_3KfMLQ",
+    "featured_collection_BcdMit",
+    "product_slider_ypYpNE",
+    "banner",
+    "title",
+    "product-grid",
+    "brands_ih8NE6",
+    "separator_qkXpB7",
+    "multicolumn_BLNpDn",
+    "features_banner_48DfGA",
+    "rich_text_U6LTzA",
+    "read_more_faqs_ThYdei",
+    "collapsible_menu_CaWrWQ",
+    "collection_description_8yVRJV",
+    "newsletter_KQitJE"
+  ]
+}
