@@ -313,33 +313,35 @@
         "image_MKXEt4": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/Group_46.png",
+            "desktop_image": "shopify://shop_images/Group_46.webp",
             "link": ""
           }
         },
         "image_iYqg3y": {
           "type": "image",
           "settings": {
+            "desktop_image": "shopify://shop_images/Group_51.webp",
             "link": ""
           }
         },
         "image_UXXfgb": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/Group_50.png",
+            "desktop_image": "shopify://shop_images/Group_453.webp",
             "link": ""
           }
         },
         "image_MbwDLA": {
           "type": "image",
           "settings": {
+            "desktop_image": "shopify://shop_images/Group_50.webp",
             "link": ""
           }
         },
         "image_TDbiRU": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/Group_47.png",
+            "desktop_image": "shopify://shop_images/Group_47.webp",
             "link": ""
           }
         }
