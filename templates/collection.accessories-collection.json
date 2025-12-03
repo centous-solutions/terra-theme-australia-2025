@@ -132,12 +132,13 @@
         "product_7kmgxi": {
           "type": "product",
           "settings": {
-            "slider_product": "terra-essence-pouch-verdant-sage",
+            "slider_product": "terra-water-wipes-mini-pack",
             "text_color": "#ffffff",
             "background_color": "#243f30",
             "heading": "Pocket-Sized Convenience",
             "text": "",
             "promo_text_color": "",
+            "desktop_image": "shopify://shop_images/accessory-bag-6_89283ed3-2c56-4c3a-bf53-7e0deba6b8ca.png",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "center",
             "mobile_text_horizontal_position": "center"
