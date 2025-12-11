@@ -32,7 +32,7 @@
           "type": "announcement",
           "settings": {
             "text": "Our Most-Loved Nappies & Wipes",
-            "link": "shopify://collections/baby-care"
+            "link": "shopify://collections/baby-2025"
           }
         }
       },
@@ -60,7 +60,6 @@
             "heading_1": "",
             "text_1": "",
             "link_1": "",
-            "desktop_image_2": "shopify://shop_images/u1872116196_elegant_lounge_scene_with_three_women_in_chic_eme_1-Topaz-Gigapixel-2x-scale_13863ee0-20fa-459d-b5d7-f95fb23ff728.jpg",
             "heading_2": "Celebrate with TERRA",
             "text_2": "Eco-luxury gifts for the season of togetherness.",
             "link_2": "shopify://pages/gifts",
@@ -70,11 +69,9 @@
             "heading_4": "",
             "text_4": "",
             "link_4": "",
-            "desktop_image_5": "shopify://shop_images/gift-box-stack_1fa488cf-8d10-42a8-9ea2-a1d3bea8b958.png",
             "heading_5": "TERRA Christmas Gifts Are Here",
             "text_5": "Beautifully packaged. Thoughtfully made. Ready for your holiday giving.",
             "link_5": "shopify://pages/gifts",
-            "desktop_image_6": "shopify://shop_images/gift-kids.jpg",
             "heading_6": "Moments that Matter",
             "text_6": "Share the joy of a greener Christmas with your loved ones.",
             "link_6": "shopify://products/terra-little-moments-set"
@@ -85,10 +82,9 @@
           "settings": {
             "title": "All Categories",
             "promo_section_width": 2,
-            "desktop_image_1": "shopify://shop_images/homepage_image.jpg",
-            "heading_1": "",
+            "heading_1": "Best Sellers",
             "text_1": "",
-            "link_1": "",
+            "link_1": "shopify://collections/baby-2025",
             "heading_2": "",
             "text_2": "",
             "link_2": "",
@@ -120,12 +116,12 @@
         "header_always_blurred": false,
         "show_line_separator": false,
         "show_shadow": false,
-        "logo": "shopify://shop_images/Terra-logo-2023-black.png",
+        "logo": "shopify://shop_images/Terra-logo-2023-black_1.png",
         "large_screen_logo_width": 160,
         "mobile_screen_logo_width": 140,
-        "menu": "menu-2025",
-        "teaser_menu": "menu-2025",
-        "mobile_footer_menu": "menu-2025",
+        "menu": "main-menu-nav",
+        "teaser_menu": "",
+        "mobile_footer_menu": "",
         "transparent_logo": "shopify://shop_images/Terra-logo-2023--01.png",
         "transparent_header_color": "#ffffff",
         "show_country_selector": true,
@@ -135,7 +131,7 @@
         "drawer_title": "Shop by",
         "typing_search": "Find a product...",
         "suggestions_title": "Top Sellers",
-        "suggestions_menu": "menu-2025"
+        "suggestions_menu": ""
       }
     },
     "page_header_logo_banner_DJLpfi": {
@@ -240,15 +236,15 @@
         "slide_height": "fixed_height",
         "desktop_fixed_height": 700,
         "mobile_fixed_height": 460,
+        "video_hosted": "shopify://files/videos/d7b702ab491641d5964505f8fa479ff9.HD-1080p-7.2Mbps-57976640.mp4",
         "layout_mobile": "video",
         "layout": "video_first",
         "color-body-text": "#ffffff",
         "color-overlay": "#ffffff",
         "color-overlay-opacity": 0,
-        "desktop_image": "shopify://shop_images/home-kids2.gif",
+        "desktop_image": "shopify://shop_images/home-kids2_1.gif",
         "desktop_text_vertical_position": "center",
         "desktop_text_horizontal_position": "center",
-        "mobile_image": "shopify://shop_images/home-kids2.gif",
         "mobile_text_vertical_position": "center",
         "mobile_text_horizontal_position": "center"
       }
