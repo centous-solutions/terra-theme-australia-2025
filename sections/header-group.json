@@ -1,260 +1,258 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
-  "type": "header",
-  "name": "Header Group",
-  "sections": {
-    "announcement-bar": {
-      "type": "announcement-bar",
-      "blocks": {
-        "announcement_gk4P4Q": {
-          "type": "announcement",
-          "settings": {
-            "text": "Thoughtfully Made Newest Drops",
-            "link": "shopify://collections/shop-all"
-          }
+    "type": "header",
+    "name": "Header Group",
+    "sections": {
+        "announcement-bar": {
+            "type": "announcement-bar",
+            "blocks": {
+                "announcement_gk4P4Q": {
+                    "type": "announcement",
+                    "settings": {
+                        "text": "Thoughtfully Made Newest Drops",
+                        "link": "shopify:\/\/collections\/shop-all"
+                    }
+                },
+                "announcement_pHd987": {
+                    "type": "announcement",
+                    "settings": {
+                        "text": "Free Shipping Over $90",
+                        "link": "shopify:\/\/policies\/terms-of-service"
+                    }
+                },
+                "announcement_YnK6g6": {
+                    "type": "announcement",
+                    "settings": {
+                        "text": "Our Most-Loved Nappies & Wipes",
+                        "link": "shopify:\/\/collections\/baby-care"
+                    }
+                }
+            },
+            "block_order": [
+                "announcement_gk4P4Q",
+                "announcement_pHd987",
+                "announcement_YnK6g6"
+            ],
+            "settings": {
+                "marquee": true,
+                "animation_speed": "150",
+                "checkbox_close_announcement": true,
+                "color-body-text": "#ffffff",
+                "background_color": "#016d5c"
+            }
         },
-        "announcement_pHd987": {
-          "type": "announcement",
-          "settings": {
-            "text": "Free Shipping Over $90",
-            "link": "shopify://policies/terms-of-service"
-          }
+        "header": {
+            "type": "page-header",
+            "blocks": {
+                "column_W3ihtQ": {
+                    "type": "column",
+                    "settings": {
+                        "title": "Gifts",
+                        "promo_section_width": 6,
+                        "heading_1": "",
+                        "text_1": "",
+                        "link_1": "",
+                        "desktop_image_2": "shopify:\/\/shop_images\/u1872116196_elegant_lounge_scene_with_three_women_in_chic_eme_1-Topaz-Gigapixel-2x-scale_13863ee0-20fa-459d-b5d7-f95fb23ff728.jpg",
+                        "heading_2": "Celebrate with TERRA",
+                        "text_2": "Eco-luxury gifts for the season of togetherness.",
+                        "link_2": "shopify:\/\/pages\/gifts",
+                        "heading_3": "",
+                        "text_3": "",
+                        "link_3": "",
+                        "heading_4": "",
+                        "text_4": "",
+                        "link_4": "",
+                        "desktop_image_5": "shopify:\/\/shop_images\/gift-box-stack_1fa488cf-8d10-42a8-9ea2-a1d3bea8b958.png",
+                        "heading_5": "TERRA Christmas Gifts Are Here",
+                        "text_5": "Beautifully packaged. Thoughtfully made. Ready for your holiday giving.",
+                        "link_5": "shopify:\/\/pages\/gifts",
+                        "desktop_image_6": "shopify:\/\/shop_images\/gift-kids.jpg",
+                        "heading_6": "Moments that Matter",
+                        "text_6": "Share the joy of a greener Christmas with your loved ones.",
+                        "link_6": "shopify:\/\/products\/terra-little-moments-set"
+                    }
+                },
+                "column_acpFyy": {
+                    "type": "column",
+                    "settings": {
+                        "title": "All Categories",
+                        "promo_section_width": 2,
+                        "desktop_image_1": "shopify:\/\/shop_images\/homepage_image.jpg",
+                        "heading_1": "",
+                        "text_1": "",
+                        "link_1": "",
+                        "heading_2": "",
+                        "text_2": "",
+                        "link_2": "",
+                        "heading_3": "",
+                        "text_3": "",
+                        "link_3": "",
+                        "heading_4": "",
+                        "text_4": "",
+                        "link_4": "",
+                        "heading_5": "",
+                        "text_5": "",
+                        "link_5": "",
+                        "heading_6": "",
+                        "text_6": "",
+                        "link_6": ""
+                    }
+                }
+            },
+            "block_order": [
+                "column_W3ihtQ",
+                "column_acpFyy"
+            ],
+            "settings": {
+                "layout": "option_1",
+                "sticky_header": false,
+                "sticky_header_always": true,
+                "header_bg_opacity": 100,
+                "header_bg_blur": 18,
+                "header_always_blurred": false,
+                "show_line_separator": false,
+                "show_shadow": false,
+                "logo": "shopify:\/\/shop_images\/Terra-logo-2023-black.png",
+                "large_screen_logo_width": 160,
+                "mobile_screen_logo_width": 140,
+                "menu": "menu-2025",
+                "teaser_menu": "menu-2025",
+                "mobile_footer_menu": "menu-2025",
+                "transparent_logo": "shopify:\/\/shop_images\/Terra-logo-2023--01.png",
+                "transparent_header_color": "#ffffff",
+                "show_country_selector": true,
+                "show_country_selector_label": false,
+                "show_country_selector_flag": true,
+                "show_language_selector": false,
+                "drawer_title": "Shop by",
+                "typing_search": "Find a product...",
+                "suggestions_title": "Top Sellers",
+                "suggestions_menu": "menu-2025"
+            }
         },
-        "announcement_YnK6g6": {
-          "type": "announcement",
-          "settings": {
-            "text": "Our Most-Loved Nappies & Wipes",
-            "link": "shopify://collections/baby-2025"
-          }
+        "page_header_logo_banner_DJLpfi": {
+            "type": "page-header-logo-banner",
+            "disabled": true,
+            "settings": {
+                "logo_image": "shopify:\/\/shop_images\/Terra-logo-2023--01.png",
+                "video_hosted": "",
+                "additional_text": "",
+                "button_style": "link",
+                "button_label": "Where skincare Begins",
+                "button_disable_on_mobile": false,
+                "button_link": "",
+                "button_link_in_new_window": false,
+                "color-body-text": "#ffffff",
+                "color-overlay": "#000000",
+                "color-overlay-opacity": 0
+            }
+        },
+        "notification_popup_LER4nx": {
+            "type": "notification-popup",
+            "blocks": {
+                "heading_GMQ7CY": {
+                    "type": "heading",
+                    "settings": {
+                        "heading": "Subscribe to our emails",
+                        "heading_disable_on_mobile": false,
+                        "size_heading": 100,
+                        "size_heading_mobile": 100
+                    }
+                },
+                "paragraph_RW4bNP": {
+                    "type": "paragraph",
+                    "settings": {
+                        "paragraph": "<p>Be the first to know about new collections and exclusive offers.<\/p>",
+                        "text_disable_on_mobile": false
+                    }
+                },
+                "email_form_XwetR3": {
+                    "type": "email_form",
+                    "settings": {
+                        "button_select": "primary"
+                    }
+                }
+            },
+            "block_order": [
+                "heading_GMQ7CY",
+                "paragraph_RW4bNP",
+                "email_form_XwetR3"
+            ],
+            "disabled": true,
+            "name": "t:sections.notification_popup.name",
+            "settings": {
+                "max_width": 450,
+                "delay": 0,
+                "show_border": false,
+                "show_shadow": true,
+                "desktop_vertical_position": "center",
+                "desktop_horizontal_position": "center",
+                "color-body-text": "rgba(0,0,0,0)",
+                "background_color": "rgba(0,0,0,0)"
+            }
+        },
+        "page_header_image_video_PEKf8A": {
+            "type": "page-header-image-video",
+            "blocks": {
+                "heading_tyEMpa": {
+                    "type": "heading",
+                    "settings": {
+                        "heading": "GET READY TO REDEFINE YOUR LIFESTYLE",
+                        "disable_on_mobile": false,
+                        "size_heading": 160,
+                        "size_heading_mobile": 100
+                    }
+                },
+                "text_96TrHK": {
+                    "type": "text",
+                    "disabled": true,
+                    "settings": {
+                        "text": "<p>Your story in motion.<\/p>",
+                        "disable_on_mobile": false
+                    }
+                },
+                "button_EiMAYU": {
+                    "type": "button",
+                    "settings": {
+                        "button_select": "primary",
+                        "button_label": "See all products",
+                        "button_link": "shopify:\/\/collections\/shop-all",
+                        "button_link_in_new_window": false,
+                        "disable_on_mobile": false
+                    }
+                }
+            },
+            "block_order": [
+                "heading_tyEMpa",
+                "text_96TrHK",
+                "button_EiMAYU"
+            ],
+            "name": "Image with video for transparent header",
+            "settings": {
+                "content_position": "over_video",
+                "slide_height": "fixed_height",
+                "desktop_fixed_height": 700,
+                "mobile_fixed_height": 460,
+                "video_hosted_mobile": "",
+                "video_hosted": "",
+                "layout_mobile": "video",
+                "layout": "video_first",
+                "color-body-text": "#ffffff",
+                "color-overlay": "#ffffff",
+                "color-overlay-opacity": 0,
+                "desktop_image": "shopify:\/\/shop_images\/home-kids2.gif",
+                "desktop_text_vertical_position": "center",
+                "desktop_text_horizontal_position": "center",
+                "mobile_image": "shopify:\/\/shop_images\/home-kids2.gif",
+                "mobile_text_vertical_position": "center",
+                "mobile_text_horizontal_position": "center"
+            }
         }
-      },
-      "block_order": [
-        "announcement_gk4P4Q",
-        "announcement_pHd987",
-        "announcement_YnK6g6"
-      ],
-      "settings": {
-        "marquee": true,
-        "animation_speed": "150",
-        "checkbox_close_announcement": true,
-        "color-body-text": "#ffffff",
-        "background_color": "#016d5c"
-      }
     },
-    "header": {
-      "type": "page-header",
-      "blocks": {
-        "column_W3ihtQ": {
-          "type": "column",
-          "settings": {
-            "title": "Gifts",
-            "promo_section_width": 6,
-            "heading_1": "",
-            "text_1": "",
-            "link_1": "",
-            "heading_2": "Celebrate with TERRA",
-            "text_2": "Eco-luxury gifts for the season of togetherness.",
-            "link_2": "shopify://pages/gifts",
-            "heading_3": "",
-            "text_3": "",
-            "link_3": "",
-            "heading_4": "",
-            "text_4": "",
-            "link_4": "",
-            "heading_5": "TERRA Christmas Gifts Are Here",
-            "text_5": "Beautifully packaged. Thoughtfully made. Ready for your holiday giving.",
-            "link_5": "shopify://pages/gifts",
-            "heading_6": "Moments that Matter",
-            "text_6": "Share the joy of a greener Christmas with your loved ones.",
-            "link_6": "shopify://products/terra-little-moments-set"
-          }
-        },
-        "column_acpFyy": {
-          "type": "column",
-          "settings": {
-            "title": "All Categories",
-            "promo_section_width": 2,
-            "heading_1": "Best Sellers",
-            "text_1": "",
-            "link_1": "shopify://collections/baby-2025",
-            "heading_2": "",
-            "text_2": "",
-            "link_2": "",
-            "heading_3": "",
-            "text_3": "",
-            "link_3": "",
-            "heading_4": "",
-            "text_4": "",
-            "link_4": "",
-            "heading_5": "",
-            "text_5": "",
-            "link_5": "",
-            "heading_6": "",
-            "text_6": "",
-            "link_6": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_W3ihtQ",
-        "column_acpFyy"
-      ],
-      "settings": {
-        "layout": "option_1",
-        "sticky_header": false,
-        "sticky_header_always": true,
-        "header_bg_opacity": 100,
-        "header_bg_blur": 18,
-        "header_always_blurred": false,
-        "show_line_separator": false,
-        "show_shadow": false,
-        "logo": "shopify://shop_images/Terra-logo-2023-black_1.png",
-        "large_screen_logo_width": 160,
-        "mobile_screen_logo_width": 140,
-        "menu": "main-menu-nav",
-        "teaser_menu": "",
-        "mobile_footer_menu": "",
-        "transparent_logo": "shopify://shop_images/Terra-logo-2023--01.png",
-        "transparent_header_color": "#ffffff",
-        "show_country_selector": true,
-        "show_country_selector_label": false,
-        "show_country_selector_flag": true,
-        "show_language_selector": false,
-        "drawer_title": "Shop by",
-        "typing_search": "Find a product...",
-        "suggestions_title": "Top Sellers",
-        "suggestions_menu": ""
-      }
-    },
-    "page_header_logo_banner_DJLpfi": {
-      "type": "page-header-logo-banner",
-      "disabled": true,
-      "settings": {
-        "logo_image": "shopify://shop_images/Terra-logo-2023--01.png",
-        "additional_text": "",
-        "button_style": "link",
-        "button_label": "Where skincare Begins",
-        "button_disable_on_mobile": false,
-        "button_link": "",
-        "button_link_in_new_window": false,
-        "color-body-text": "#ffffff",
-        "color-overlay": "#000000",
-        "color-overlay-opacity": 0
-      }
-    },
-    "notification_popup_LER4nx": {
-      "type": "notification-popup",
-      "blocks": {
-        "heading_GMQ7CY": {
-          "type": "heading",
-          "settings": {
-            "heading": "Subscribe to our emails",
-            "heading_disable_on_mobile": false,
-            "size_heading": 100,
-            "size_heading_mobile": 100
-          }
-        },
-        "paragraph_RW4bNP": {
-          "type": "paragraph",
-          "settings": {
-            "paragraph": "<p>Be the first to know about new collections and exclusive offers.</p>",
-            "text_disable_on_mobile": false
-          }
-        },
-        "email_form_XwetR3": {
-          "type": "email_form",
-          "settings": {
-            "button_select": "primary"
-          }
-        }
-      },
-      "block_order": [
-        "heading_GMQ7CY",
-        "paragraph_RW4bNP",
-        "email_form_XwetR3"
-      ],
-      "disabled": true,
-      "name": "t:sections.notification_popup.name",
-      "settings": {
-        "max_width": 450,
-        "delay": 0,
-        "show_border": false,
-        "show_shadow": true,
-        "desktop_vertical_position": "center",
-        "desktop_horizontal_position": "center",
-        "color-body-text": "rgba(0,0,0,0)",
-        "background_color": "rgba(0,0,0,0)"
-      }
-    },
-    "page_header_image_video_PEKf8A": {
-      "type": "page-header-image-video",
-      "blocks": {
-        "heading_tyEMpa": {
-          "type": "heading",
-          "settings": {
-            "heading": "GET READY TO REDEFINE YOUR LIFESTYLE",
-            "disable_on_mobile": false,
-            "size_heading": 160,
-            "size_heading_mobile": 100
-          }
-        },
-        "text_96TrHK": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Your story in motion.</p>",
-            "disable_on_mobile": false
-          }
-        },
-        "button_EiMAYU": {
-          "type": "button",
-          "settings": {
-            "button_select": "primary",
-            "button_label": "See all products",
-            "button_link": "shopify://collections/shop-all",
-            "button_link_in_new_window": false,
-            "disable_on_mobile": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_tyEMpa",
-        "text_96TrHK",
-        "button_EiMAYU"
-      ],
-      "name": "Image with video for transparent header",
-      "settings": {
-        "content_position": "over_video",
-        "slide_height": "fixed_height",
-        "desktop_fixed_height": 700,
-        "mobile_fixed_height": 460,
-        "video_hosted": "shopify://files/videos/d7b702ab491641d5964505f8fa479ff9.HD-1080p-7.2Mbps-57976640.mp4",
-        "layout_mobile": "video",
-        "layout": "video_first",
-        "color-body-text": "#ffffff",
-        "color-overlay": "#ffffff",
-        "color-overlay-opacity": 0,
-        "desktop_image": "shopify://shop_images/home-kids2_1.gif",
-        "desktop_text_vertical_position": "center",
-        "desktop_text_horizontal_position": "center",
-        "mobile_text_vertical_position": "center",
-        "mobile_text_horizontal_position": "center"
-      }
-    }
-  },
-  "order": [
-    "announcement-bar",
-    "header",
-    "page_header_logo_banner_DJLpfi",
-    "notification_popup_LER4nx",
-    "page_header_image_video_PEKf8A"
-  ]
+    "order": [
+        "announcement-bar",
+        "header",
+        "page_header_logo_banner_DJLpfi",
+        "notification_popup_LER4nx",
+        "page_header_image_video_PEKf8A"
+    ]
 }

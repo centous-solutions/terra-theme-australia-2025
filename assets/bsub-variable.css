@@ -1,43 +1,82 @@
-.product__wrapper .bsub-widget__wrapper {
+.wt-product__info .bsub-widget__wrapper {
     background-color: transparent;
     border-color: transparent;
     padding: 0;
 }
 
-.product__wrapper .bsub-widget__group-label {
+.wt-product__info .bsub-widget__group-label {
     text-align: left;
     display: flex;
     align-items: center;
     gap: 6px;
 }
 
-.product__wrapper .bsub-widget__groups-container {
+.wt-product__info .bsub-widget__groups-container {
     flex-direction: column;
     gap: 8px;
+    margin: 0 0 14px;
 }
 
-.product__wrapper .bsub-widget__group-header .bsub-widget__image {
+.wt-product__info .bsub-widget__group-header .bsub-widget__image {
     display: none;
 }
 
-.product__wrapper input:checked + .bsub-widget__group-header > .bsub-widget__text {
-    margin: 0;
+.wt-product__info .bsub-widget__group-header {
+    flex-direction: row;
+    align-items: center;
+    padding: 0;
+    border: none;
+    box-shadow: none;
+    font-weight: 600;
 }
 
-.product__wrapper input:checked + .bsub-widget__group-header{
+.wt-product__info .bsub-widget__group-header:hover {
+    border: none;
+    box-shadow: none;
+}
+
+.wt-product__info input:checked+.bsub-widget__group-header>.bsub-widget__text,
+.wt-product__info .bsub-widget__group-header>.bsub-widget__text {
+    font-size: 15px;
+    margin: 0;
+    font-weight: 600;
+}
+
+.wt-product__info .bsub-widget__group-header>.bsub-widget__text br {
+    display: none;
+}
+
+.wt-product__info a:hover
+ {
+        color: #000;
+    }
+
+.template-product-travel-refresh-wipes .wt-product__info a:hover {
+    color: #000;
+}
+
+    
+.template-product-mess-free-wipes .wt-product__info a:hover, .template-product-micellar-makeup-dry .wt-product__info a:hover,
+.template-product-dishwashing-wipes .wt-product__info a:hover
+ {
+        color: #000;
+    }
+
+.wt-product__info input:checked+.bsub-widget__group-header {
     padding: 0;
     border: none;
     text-align: left;
     box-shadow: none;
+    align-items: flex-start;
 }
 
-.product__wrapper .bsub-widget__group-header::before {
+.wt-product__info .bsub-widget__group-header::before {
     content: "";
-    display: inline-block;
+    display: inline-flex;
     position: relative;
-    bottom: 1px;
-    height: 1rem;
-    width: 1rem;
+    bottom: 0;
+    height: 20px;
+    width: 20px;
     margin-right: .5rem;
     -webkit-appearance: none;
     -moz-appearance: none;
@@ -45,19 +84,147 @@
     align-items: center;
     justify-content: center;
     border-radius: 624.9375rem;
-    border-width: .125rem;
-    border-color: #95694c;
+    border: 2px solid #000;
     background-color: #fff;
 }
 
-.product__wrapper .bsub-widget__group-header::after {
+.template-product-mess-free-wipes .wt-product__info .bsub-widget__group-header::before, .template-product-micellar-makeup-dry .wt-product__info .bsub-widget__group-header::before ,
+ .template-product-dishwashing-wipes .wt-product__info .bsub-widget__group-header::before {
+    border: 2px solid #000;
+}
+
+.wt-product__info .bsub-widget__group-header::after {
     content: "";
     position: absolute;
-    left: 4px;
-    bottom: 9px;
+    left: 5px;
+    top: 21%;
     display: inline-flex;
-    height: .5rem;
-    width: .5rem;
+    height: 10px;
+    width: 10px;
     border-radius: 624.9375rem;
-    background-color: #95694c;
+    background-color: #fff;
+}
+
+.wt-product__info input:checked+.bsub-widget__group-header::after {
+    background-color: #000;
+}
+
+.template-product-mess-free-wipes .wt-product__info input:checked+.bsub-widget__group-header::after,
+.template-product-micellar-makeup-dry .wt-product__info input:checked+.bsub-widget__group-header::after,
+.template-product-dishwashing-wipes .wt-product__info input:checked+.bsub-widget__group-header::after
+{
+    background-color: #000;
+}
+
+.template-product-mess-free-wipes .wt-product__info input:checked+.bsub-widget__group-header::after,
+.template-product-micellar-makeup-dry .wt-product__info input:checked+.bsub-widget__group-header::after,
+.template-product-dishwashing-wipes .wt-product__info input:checked+.bsub-widget__group-header::after
+{
+    background-color: #000;
+}
+
+.wt-product__info .bsub-widget__group+.bsub-widget__group {
+    margin-left: 0;
+}
+
+.wt-product__info .bsub-widget__checked-icon.bsub-widget__image {
+    color: #000;
+    min-width: 20px;
+    max-width: 20px;
+}
+
+.template-product-mess-free-wipes .wt-product__info .bsub-widget__checked-icon.bsub-widget__image,
+.template-product-micellar-makeup-dry .wt-product__info .bsub-widget__checked-icon.bsub-widget__image,
+.template-product-dishwashing-wipes .wt-product__info .bsub-widget__checked-icon.bsub-widget__image,
+.template-product-travel-refresh-wipes .wt-product__info .bsub-widget__checked-icon.bsub-widget__image
+{
+    color: #000;
+}
+
+.wt-product__info .bsub-options-container {
+    margin-left: 1em;
+}
+
+.wt-product__info .bsub-widget__wrapper legend {
+    letter-spacing: 1px;
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: capitalize;
+}
+
+.wt-product__info .lv-option-box {
+    margin-left: 1em;
+}
+
+.wt-product__info input:checked + .bsub-widget__plan-header .bsub-widget__main-text {
+    color: #000;
+}
+
+.template-product-travel-refresh-wipes .wt-product__info input:checked + .bsub-widget__plan-header .bsub-widget__main-text {
+    color: #000;
+}
+
+.template-product-mess-free-wipes .wt-product__info input:checked + .bsub-widget__plan-header .bsub-widget__main-text,
+.template-product-micellar-makeup-dry .wt-product__info input:checked + .bsub-widget__plan-header .bsub-widget__main-text,
+.template-product-dishwashing-wipes .wt-product__info input:checked + .bsub-widget__plan-header .bsub-widget__main-text,
+.template-product-travel-refresh-wipes .wt-product__info input:checked + .bsub-widget__plan-header .bsub-widget__main-text
+ {
+    color: #000;
+}
+
+.wt-product__info .bsub-widget__extra-actions {
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+
+.bsub-options-container .bsub-widget__plan-header:hover::before,
+.bsub-options-container input:checked + .bsub-widget__plan-header::before {
+    /* background: #00000008; */
+}
+
+.bsub-options-container .bsub-widget__plan-header:hover,
+.bsub-options-container input:checked + .bsub-widget__plan-header{
+    border: none;
+    color: #000;
+}
+
+.template-product-mess-free-wipes .bsub-options-container .bsub-widget__plan-header:hover,
+.template-product-mess-free-wipes .bsub-options-container input:checked + .bsub-widget__plan-header,
+.template-product-micellar-makeup-dry .bsub-options-container .bsub-widget__plan-header:hover,
+.template-product-micellar-makeup-dry .bsub-options-container input:checked + .bsub-widget__plan-header,
+.template-product-dishwashing-wipes .bsub-options-container .bsub-widget__plan-header:hover,
+.template-product-dishwashing-wipes .bsub-options-container input:checked + .bsub-widget__plan-header,
+.template-product-travel-refresh-wipes .bsub-options-container .bsub-widget__plan-header:hover,
+.template-product-travel-refresh-wipes .bsub-options-container input:checked + .bsub-widget__plan-header
+{
+    color: #000;
+}
+
+.bsub-options-container .bsub-widget__plan-header {
+  border: none;
+}
+
+.wt-product__info input:checked+.bsub-widget__plan-header .bsub-widget__main-text {
+        color: #000;
+}
+
+.template-product-mess-free-wipes .wt-product__info input:checked+.bsub-widget__plan-header .bsub-widget__main-text,
+.template-product-micellar-makeup-dry .wt-product__info input:checked+.bsub-widget__plan-header .bsub-widget__main-text,
+.template-product-dishwashing-wipes .wt-product__info input:checked+.bsub-widget__plan-header .bsub-widget__main-text
+ {
+        color: #000;
+}
+
+.bsub-widget__extra-actions .bsub-widget__toggle-details-btn:hover {
+        background: transparent;
+    color: #151515;
+}
+
+@media only screen and (max-width: 749px){
+.wt-product__info .bsub-widget__group-header::after {
+    top: 21%;
+}
+}
+.bsub-widget__extra-actions {
+    display: none;
 }

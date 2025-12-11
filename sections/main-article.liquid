@@ -1,6 +1,37 @@
 {{ 'section-blog-post.css' | asset_url | stylesheet_tag }}
 
 <style>
+  html {
+    scroll-behavior: smooth;
+  }
+  .article-template__subheading{
+    background: #F9F9F9;
+    padding: 20px;
+  }
+  body .article-template__subheading li {
+      list-style-position: outside !important;
+          font-size: 15px;
+    line-height: 1.2;
+  }
+  .article-template__subheading h4 {
+      margin: 0;
+  }
+  .article-template__subheading ul p, .article-template__subheading ul li {
+      margin-bottom: 0;
+  }
+  .article-template__subheading ul {
+        margin: 10px 0;
+  }
+  .article-template__subheading ul a {
+      /* color: #F48F89; */
+      text-decoration: underline
+  }
+  .article-template__subheading ul li::marker {
+    color: #000
+  } 
+  .main-article__pic {
+      max-width: var(--post-max-width);
+  }
   [data-section-id="{{ section.id }}"] {
 
     {% if section.settings.margin-top %}
@@ -24,6 +55,7 @@
             --color-body-text: {{ block.settings.color-body-text }};
           {% endif %}
         }
+          
       {% when 'featured_image'%}
         .main-article__pic {
           {% if block.settings.full_width_enabled %}
@@ -109,6 +141,28 @@
               {{ article.content }}
             </div>
 
+        {%- when 'subheading' -%}
+        {% assign blog_outlines_json = article.metafields.custom.blog_outlines.value %}
+        {% assign blog_outlines = blog_outlines_json | replace: '[', '' | replace: ']', '' | replace: '"', '' | split: ',' %}
+
+        {% if blog_outlines.size > 0 %}
+              <div class="article-template__subheading rte" itemprop="articleBody" {{ block.shopify_attributes }}>
+                {% if block.settings.text_title != blank %}
+                <h2>{{ block.settings.text_title }}</h2>
+                {% endif %}
+                <ul>
+                  {% for outline in blog_outlines %}
+                    {% assign outline = outline | strip %}
+                    <li>
+                      <p>
+                        <a href="#{{ forloop.index }}">{{ outline }}</a>
+                      </p>
+                    </li>
+                  {% endfor %}
+                </ul>
+              </div>
+        {% endif %}
+
           {%- when 'social_sharing' %}
             <div
               class="main-article__share"
@@ -142,7 +196,7 @@
       </div>
     {%- endfor -%}
     {%- if blog.comments_enabled? -%}
-      <div class="article-template__comment-wrapper background-secondary">
+      {% comment %} <div class="article-template__comment-wrapper background-secondary">
         <div
           id="comments"
           class="page-width page-width--narrow{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %} {% if settings.disabled_animations_on_mobile %} disabled-on-mobile {% endif %}"
@@ -332,7 +386,7 @@
             <input type="submit" class="button" value="{{ 'blogs.article.post' | t }}">
           {% endform %}
         </div>
-      </div>
+      </div> {% endcomment %}
     {%- endif -%}
   </article>
 </div>
@@ -381,6 +435,23 @@
           "id": "custom_liquid",
           "label": "t:sections.custom-liquid.settings.custom_liquid.label",
           "info": "t:sections.custom-liquid.settings.custom_liquid.info"
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "name": "Subheading",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "text",
+          "id": "subheading_text",
+          "label": "Subheading"
+        },
+        {
+          "type": "text",
+          "id": "text_title",
+          "label": "Title"
         }
       ]
     },
