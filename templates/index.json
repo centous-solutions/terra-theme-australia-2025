@@ -67,6 +67,7 @@
             "size_heading": 140,
             "size_heading_mobile": 100,
             "line_height": 1.7,
+            "picture1": "shopify://shop_images/nappy_1.jpg",
             "button_link1": "",
             "button_link2": "",
             "button_link3": ""
@@ -101,12 +102,12 @@
             "button_select": "secondary",
             "button_label": "Shop now",
             "button_disable_on_mobile": false,
-            "button_link": "shopify://collections/baby-care",
+            "button_link": "shopify://collections/baby-2025",
             "button_link_in_new_window": false,
             "color-body-text": "#ffffff",
             "color-overlay": "rgba(0,0,0,0)",
             "color-overlay-opacity": 0,
-            "desktop_image": "shopify://shop_images/nappy.jpg",
+            "desktop_image": "shopify://shop_images/nappy_1.jpg",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "center",
             "mobile_text_vertical_position": "bottom",
@@ -125,12 +126,12 @@
             "button_select": "secondary",
             "button_label": "SHOP NOW",
             "button_disable_on_mobile": false,
-            "button_link": "shopify://collections/kids-care",
+            "button_link": "shopify://collections/kids",
             "button_link_in_new_window": false,
             "color-body-text": "#ffffff",
             "color-overlay": "rgba(0,0,0,0)",
             "color-overlay-opacity": 0,
-            "desktop_image": "shopify://shop_images/Kidstoy.jpg",
+            "desktop_image": "shopify://shop_images/Kidstoy_1.jpg",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "center",
             "mobile_text_vertical_position": "bottom",
@@ -154,7 +155,7 @@
             "color-body-text": "#ffffff",
             "color-overlay": "rgba(0,0,0,0)",
             "color-overlay-opacity": 0,
-            "desktop_image": "shopify://shop_images/222.jpg",
+            "desktop_image": "shopify://shop_images/222_1.jpg",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "center",
             "mobile_text_vertical_position": "bottom",
@@ -193,12 +194,12 @@
             "button_select": "secondary",
             "button_label": "Shop now",
             "button_disable_on_mobile": false,
-            "button_link": "shopify://collections/outdoor-care",
+            "button_link": "shopify://collections/kids-collection",
             "button_link_in_new_window": false,
             "color-body-text": "#ffffff",
             "color-overlay": "#151515",
             "color-overlay-opacity": 13,
-            "desktop_image": "shopify://shop_images/Terra_Travel_Refresh_Wipes_Lifestyle.jpg",
+            "desktop_image": "shopify://shop_images/Terra_Travel_Refresh_Wipes_Lifestyle_1.jpg",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "center",
             "mobile_text_vertical_position": "bottom",
@@ -217,12 +218,12 @@
             "button_select": "secondary",
             "button_label": "SHOP NOW",
             "button_disable_on_mobile": false,
-            "button_link": "shopify://collections/pet-care",
+            "button_link": "shopify://collections/pet",
             "button_link_in_new_window": false,
             "color-body-text": "#ffffff",
             "color-overlay": "rgba(0,0,0,0)",
             "color-overlay-opacity": 0,
-            "desktop_image": "shopify://shop_images/Terra_Pet_Grooming_Wipes_Lifestyle.jpg",
+            "desktop_image": "shopify://shop_images/Terra_Pet_Grooming_Wipes_Lifestyle_1.jpg",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "center",
             "mobile_text_vertical_position": "bottom",
@@ -241,12 +242,12 @@
             "button_select": "secondary",
             "button_label": "Shop now",
             "button_disable_on_mobile": false,
-            "button_link": "shopify://collections/intimate-care",
+            "button_link": "shopify://collections/intimacy",
             "button_link_in_new_window": false,
             "color-body-text": "#ffffff",
             "color-overlay": "#151515",
             "color-overlay-opacity": 0,
-            "desktop_image": "shopify://shop_images/Terra_Intimacy_Toy_Cleaning_Wipes_Color_Front.jpg",
+            "desktop_image": "shopify://shop_images/Terra_Intimacy_Toy_Cleaning_Wipes_Color_Front_1.jpg",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "center",
             "mobile_text_vertical_position": "bottom",
@@ -307,6 +308,7 @@
       "settings": {
         "section_width": "regular",
         "desktop_text_horizontal_position": "center",
+        "padding_settings": true,
         "color-body-text": "#000000",
         "background_color": "#ffffff",
         "margin-top": 84,
@@ -400,6 +402,7 @@
         "slide_height": "fixed_height",
         "desktop_fixed_height": 460,
         "mobile_fixed_height": 460,
+        "video_hosted": "shopify://files/videos/0e4c4bd9848747e289150a5049387fde.HD-1080p-7.2Mbps-57634071.mp4",
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "layout_mobile": "video",
         "layout": "hero_first",
@@ -409,10 +412,9 @@
         "color-body-text": "#ffffff",
         "color-overlay": "rgba(0,0,0,0)",
         "color-overlay-opacity": 100,
-        "desktop_image": "shopify://shop_images/skincare_67675f93-bda2-49bd-b4dd-6ebe3b79d8f6.gif",
+        "desktop_image": "shopify://shop_images/skincare_67675f93-bda2-49bd-b4dd-6ebe3b79d8f6_1.gif",
         "desktop_text_vertical_position": "center",
         "desktop_text_horizontal_position": "center",
-        "mobile_image": "shopify://shop_images/skincare_67675f93-bda2-49bd-b4dd-6ebe3b79d8f6.gif",
         "mobile_text_vertical_position": "center",
         "mobile_text_horizontal_position": "center",
         "margin-top": 0,
@@ -482,8 +484,12 @@
         "title": "",
         "disable_on_mobile": false,
         "hide_empty_section": true,
-        "collection": "skincare",
-        "product_list": [],
+        "collection": "pet-care-wipes",
+        "product_list": [
+          "terra-digital-gift-card-egift-card",
+          "super-saver-night-day-nappy-bundle",
+          "nappies-wipes-bundle"
+        ],
         "products_to_show": 9,
         "enable_stack_products": false,
         "show_view_all": false,
@@ -535,6 +541,7 @@
       "settings": {
         "section_width": "regular",
         "desktop_text_horizontal_position": "center",
+        "padding_settings": true,
         "color-body-text": "#151515",
         "background_color": "#e0e9d3",
         "margin-top": 64,
@@ -547,14 +554,14 @@
         "product_EGwNbR": {
           "type": "product",
           "settings": {
-            "slider_product": "terra-after-sun-wipes",
-            "product_image": "shopify://shop_images/a.png",
+            "slider_product": "new-nz-water-70s",
+            "product_image": "shopify://shop_images/a_1.png",
             "text_color": "",
             "background_color": "#8faf62",
             "heading": "Aloe vera on the go",
             "text": "",
             "promo_text_color": "#ffffff",
-            "desktop_image": "shopify://shop_images/cam.png",
+            "desktop_image": "shopify://shop_images/cam_1.png",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "center",
             "mobile_text_horizontal_position": "center"
@@ -563,30 +570,30 @@
         "product_VMmpdt": {
           "type": "product",
           "settings": {
-            "slider_product": "terra-camping-wipes",
+            "slider_product": "terra-digital-gift-card-egift-card",
             "product_image": "shopify://shop_images/c.png",
             "text_color": "#ffffff",
             "background_color": "#bdcf93",
             "heading": "Bodywash in a wipe",
             "text": "",
             "promo_text_color": "",
+            "desktop_image": "shopify://shop_images/adter_1.png",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "center",
-            "mobile_image": "shopify://shop_images/adter.png",
             "mobile_text_horizontal_position": "center"
           }
         },
         "product_HVQQc6": {
           "type": "product",
           "settings": {
-            "slider_product": "terra-dishwashing-wipes",
-            "product_image": "shopify://shop_images/d_fa3c5b47-4572-4042-9fbf-d22590cab27f.png",
+            "slider_product": "terra-water-wipes-mini-pack",
+            "product_image": "shopify://shop_images/d_fa3c5b47-4572-4042-9fbf-d22590cab27f_1.png",
             "text_color": "",
             "background_color": "#66d189",
             "heading": "Dishwash in a wipe",
             "text": "",
             "promo_text_color": "#ffffff",
-            "desktop_image": "shopify://shop_images/dish.png",
+            "desktop_image": "shopify://shop_images/dish_1.png",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "center",
             "mobile_text_horizontal_position": "center"
@@ -651,7 +658,7 @@
         "button_select": "link",
         "button_horizontal_position": "center",
         "button_label": "View All OUTDOOR products",
-        "button_link": "shopify://collections/outdoor-care",
+        "button_link": "shopify://collections/kids-collection",
         "margin-top": 40,
         "margin-bottom": 40,
         "background_color": "#e0e9d3"
@@ -757,14 +764,14 @@
         "product_B4BqQg": {
           "type": "product",
           "settings": {
-            "slider_product": "terra-pet-ear-wipes",
+            "slider_product": "best-subscription-bundle-1",
             "product_image": "shopify://shop_images/2222.png",
             "text_color": "",
             "background_color": "#93cdd7",
             "heading": "Gentle care for healthier ears",
             "text": "",
             "promo_text_color": "#ffffff",
-            "desktop_image": "shopify://shop_images/342423423.png",
+            "desktop_image": "shopify://shop_images/342423423.webp",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "center",
             "mobile_text_horizontal_position": "center"
@@ -773,14 +780,14 @@
         "product_Y4eXak": {
           "type": "product",
           "settings": {
-            "slider_product": "terra-pet-eye-wipes",
+            "slider_product": "terra-new-water-wipes-24s",
             "product_image": "shopify://shop_images/Mask_group-1.png",
             "text_color": "#ffffff",
             "background_color": "#293c83",
             "heading": "Gentle touch, clear eyes",
             "text": "",
             "promo_text_color": "",
-            "desktop_image": "shopify://shop_images/Mask_group-2.png",
+            "desktop_image": "shopify://shop_images/Mask_group-2_1.png",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "center",
             "mobile_text_horizontal_position": "center"
@@ -789,14 +796,14 @@
         "product_Q9tBEQ": {
           "type": "product",
           "settings": {
-            "slider_product": "terra-pet-wipes",
-            "product_image": "shopify://shop_images/pet.png",
+            "slider_product": "terra-new-water-wipes-24s",
+            "product_image": "shopify://shop_images/pet_1.png",
             "text_color": "",
             "background_color": "#008bc1",
             "heading": "Tail-wagging clean in seconds",
             "text": "",
             "promo_text_color": "#ffffff",
-            "desktop_image": "shopify://shop_images/pet_wi.png",
+            "desktop_image": "shopify://shop_images/pet_wi_1.png",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "center",
             "mobile_text_horizontal_position": "center"
@@ -831,7 +838,7 @@
         "button_select": "link",
         "button_horizontal_position": "center",
         "button_label": "View All Pet products",
-        "button_link": "shopify://collections/pet-care",
+        "button_link": "shopify://collections/pet",
         "margin-top": 40,
         "margin-bottom": 40,
         "background_color": "#daeef2"
@@ -890,7 +897,6 @@
         "color-body-text": "#ffffff",
         "color-overlay": "rgba(0,0,0,0)",
         "color-overlay-opacity": 0,
-        "desktop_image": "shopify://shop_images/front_mockup_2025_2.png",
         "desktop_text_vertical_position": "bottom",
         "desktop_text_horizontal_position": "center",
         "mobile_text_vertical_position": "bottom",
@@ -906,7 +912,6 @@
           "type": "column",
           "settings": {
             "collection": "skincare",
-            "image_collection": "shopify://shop_images/homepage_pupulor_collection_image_openfile.png",
             "heading": "Your Everyday Essentials",
             "color-body-text": "#151515",
             "background_color": "#c5d99e"
@@ -915,8 +920,7 @@
         "column_WADziW": {
           "type": "column",
           "settings": {
-            "collection": "beauty-care",
-            "image_collection": "shopify://shop_images/your_glowcare.png",
+            "collection": "skincare-collection",
             "heading": "Your Glow Care",
             "color-body-text": "#000000",
             "background_color": "#e29c87"
@@ -925,8 +929,7 @@
         "column_zWrYmm": {
           "type": "column",
           "settings": {
-            "collection": "kids-care",
-            "image_collection": "shopify://shop_images/your_littles.png",
+            "collection": "kids",
             "heading": "For Your Littles",
             "color-body-text": "#000000",
             "background_color": "#5bc6aa"
@@ -936,7 +939,6 @@
           "type": "column",
           "settings": {
             "collection": "accessories",
-            "image_collection": "shopify://shop_images/your_circle.png",
             "heading": "For Your Circle",
             "color-body-text": "#000000",
             "background_color": "#c2de48"
@@ -992,7 +994,7 @@
       ],
       "settings": {
         "heading": "",
-        "desktop_image": "shopify://shop_images/intimacy-3_7e993b72-5b5e-4373-9b60-5fa6cf9f3097.jpg",
+        "desktop_image": "shopify://shop_images/intimacy-3_7e993b72-5b5e-4373-9b60-5fa6cf9f3097_1.jpg",
         "full-width-enabled": true,
         "show_vendor": true,
         "color-body-text": "rgba(0,0,0,0)",
@@ -1008,7 +1010,7 @@
         "button_select": "link",
         "button_horizontal_position": "center",
         "button_label": "View All Intimacy products",
-        "button_link": "shopify://collections/intimate-care",
+        "button_link": "shopify://collections/intimacy",
         "margin-top": 40,
         "margin-bottom": 40,
         "background_color": "#f1ebf0"
@@ -1029,7 +1031,7 @@
             "button_disable_on_mobile": false,
             "button_link": "shopify://products/terra-kids-insect-repellent-wipes",
             "button_link_in_new_window": false,
-            "desktop_image": "shopify://shop_images/Terra_Kids_Insect_Repellent_Wipes_Lifestyle.jpg"
+            "desktop_image": "shopify://shop_images/Terra_Kids_Insect_Repellent_Wipes_Lifestyle_1.jpg"
           }
         },
         "16457014517af02773-1": {
@@ -1044,7 +1046,7 @@
             "button_disable_on_mobile": false,
             "button_link": "shopify://products/terra-after-sun-wipes",
             "button_link_in_new_window": false,
-            "desktop_image": "shopify://shop_images/Terra_After_Sun_Wipes_Lifestyle.jpg"
+            "desktop_image": "shopify://shop_images/Terra_After_Sun_Wipes_Lifestyle_1.jpg"
           }
         },
         "16457014517af02773-2": {
@@ -1059,7 +1061,7 @@
             "button_disable_on_mobile": false,
             "button_link": "shopify://products/terra-camping-wipes",
             "button_link_in_new_window": false,
-            "desktop_image": "shopify://shop_images/Terra_Camping_Wipes_Lifestyle3.jpg"
+            "desktop_image": "shopify://shop_images/Terra_Camping_Wipes_Lifestyle3_1.jpg"
           }
         }
       },
@@ -1139,7 +1141,7 @@
         "164580331573ddb00a-0": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/1_f87d10f0-3b59-4e30-a4fa-ad318fc798b3.png",
+            "desktop_image": "shopify://shop_images/1_f87d10f0-3b59-4e30-a4fa-ad318fc798b3_1.png",
             "select_icon": "bars",
             "heading": "Gentle",
             "text": "<p>Safe for kids, families, and everyday use.</p>",
@@ -1149,7 +1151,7 @@
         "164580331573ddb00a-2": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/1.png",
+            "desktop_image": "shopify://shop_images/1_1_533a24cd-1d4e-48ac-90f3-dbc9fd93d17c.png",
             "select_icon": "bag",
             "heading": "Natural",
             "text": "<p>We only use the finest natural ingredients.</p>",
@@ -1159,7 +1161,7 @@
         "164580331573ddb00a-3": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/arrow___recycling.png",
+            "desktop_image": "shopify://shop_images/arrow___recycling_1.png",
             "select_icon": "bag",
             "heading": "Recyclable",
             "text": "<p>All packaging is recyclable and eco conscious.</p>",
@@ -1169,7 +1171,6 @@
         "164580331573ddb00a-1": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/6a90c69c7951b6cfdeed415b17557f9f.png",
             "select_icon": "bars",
             "heading": "Free Shipping",
             "text": "<p>Orders over $90 within NZ.</p>",
@@ -1246,7 +1247,7 @@
         "title": "Featured collection",
         "disable_on_mobile": false,
         "hide_empty_section": false,
-        "collection": "outdoor-care",
+        "collection": "kids-collection",
         "product_list": [],
         "products_to_show": 4,
         "enable_stack_products": false,
