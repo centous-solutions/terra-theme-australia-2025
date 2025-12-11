@@ -73,6 +73,8 @@
       "settings": {
         "heading": "",
         "full-width-enabled": true,
+        "video_hosted": "shopify://files/videos/Terra Secret Recipe 2023_666dc369-d81c-4d66-aa0b-bd322521905e.mp4",
+        "mobile_video_hosted": "shopify://files/videos/Terra Secret Recipe 2023_666dc369-d81c-4d66-aa0b-bd322521905e.mp4",
         "autoplay": true,
         "video_controls": false,
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
@@ -249,6 +251,7 @@
         "slide_height": "fixed_height",
         "desktop_fixed_height": 560,
         "mobile_fixed_height": 460,
+        "video_hosted": "shopify://files/videos/terra nappy compost bin1.5.mp4",
         "video_hosted_mobile": "shopify://files/videos/terra nappy compost bin1.5.mp4",
         "video_url": "",
         "layout_mobile": "video",
@@ -259,10 +262,9 @@
         "color-body-text": "#ffffff",
         "color-overlay": "rgba(0,0,0,0)",
         "color-overlay-opacity": 100,
-        "desktop_image": "shopify://shop_images/Screenshot_2025-10-22_at_1.44.07_PM.jpg",
+        "desktop_image": "shopify://shop_images/Screenshot_2025-10-22_at_1.44.07_PM_1.jpg",
         "desktop_text_vertical_position": "bottom",
         "desktop_text_horizontal_position": "right",
-        "mobile_image": "shopify://shop_images/terra.jpg",
         "mobile_text_vertical_position": "center",
         "mobile_text_horizontal_position": "center",
         "margin-top": 0,
@@ -300,10 +302,9 @@
         "slide_height": "fixed_height",
         "desktop_fixed_height": 500,
         "mobile_fixed_height": 440,
-        "desktop_image": "shopify://shop_images/Screenshot_2025-10-22_at_2.33.13_PM.jpg",
+        "desktop_image": "shopify://shop_images/Screenshot_2025-10-22_at_2.33.13_PM_1.jpg",
         "desktop_text_vertical_position": "center",
         "desktop_text_horizontal_position": "right",
-        "mobile_image": "shopify://shop_images/Screenshot_2025-11-04_at_11.28.30_AM.jpg",
         "mobile_text_vertical_position": "center",
         "mobile_text_horizontal_position": "center",
         "color-heading": "#ffffff",
@@ -366,7 +367,7 @@
         "title": "",
         "layout": "image_first",
         "before_image": "shopify://shop_images/Terra_Walker_16s_3_folded_-02.png",
-        "after_image": "shopify://shop_images/Terra_Walker_16s_3_folded_-01.png",
+        "after_image": "shopify://shop_images/Terra_Walker_16s_3_folded_-01_1.png",
         "desktop-percentage-image-width": 53,
         "full-width-enabled": true,
         "slide_height": "adapt_to_first_image",
@@ -414,7 +415,7 @@
         "image_VGUkeA": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/Terra_Nappy_Junior_14s-03.svg",
+            "desktop_image": "shopify://shop_images/Terra_Nappy_Junior_14s-03_1.svg",
             "select_icon": "bag",
             "heading": "",
             "text": "<p>Sustainably Crafted from Plant-Based Fibers</p>",
@@ -424,7 +425,7 @@
         "image_b3UnVc": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/Terra_Nappy_Junior_14s-05.svg",
+            "desktop_image": "shopify://shop_images/Terra_Nappy_Junior_14s-05_1.svg",
             "select_icon": "bag",
             "heading": "",
             "text": "<p>Plant-based Wetness Indicator</p>",
@@ -488,6 +489,8 @@
         "slide_height": "adapt_to_first_image",
         "desktop_fixed_height": 340,
         "mobile_fixed_height": 460,
+        "video_hosted": "shopify://files/videos/Terra Wipe In Sea Water March 2025_f84ddc63-2748-41b1-ae94-4576917dde47.mp4",
+        "video_hosted_mobile": "shopify://files/videos/Terra Wipe In Sea Water March 2025_f84ddc63-2748-41b1-ae94-4576917dde47.mp4",
         "video_url": "",
         "layout_mobile": "video",
         "layout": "video_first",
@@ -497,7 +500,7 @@
         "color-body-text": "#ffffff",
         "color-overlay": "rgba(0,0,0,0)",
         "color-overlay-opacity": 100,
-        "desktop_image": "shopify://shop_images/terra_we.jpg",
+        "desktop_image": "shopify://shop_images/terra_we_1.jpg",
         "desktop_text_vertical_position": "bottom",
         "desktop_text_horizontal_position": "left",
         "mobile_text_vertical_position": "center",
@@ -526,7 +529,6 @@
         "color-body-text": "rgba(0,0,0,0)",
         "color-overlay": "rgba(0,0,0,0)",
         "color-overlay-opacity": 100,
-        "desktop_image": "shopify://shop_images/baby_wipes.jpg",
         "desktop_text_vertical_position": "center",
         "desktop_text_horizontal_position": "center",
         "mobile_text_vertical_position": "center",
@@ -541,7 +543,7 @@
         "image_EEi9xG": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/DNF_TERRA_Kiwifruit_70s_US-2024-03.svg",
+            "desktop_image": "shopify://shop_images/DNF_TERRA_Kiwifruit_70s_US-2024-03_1.svg",
             "select_icon": "bag",
             "heading": "",
             "text": "<p>100% BAMBOO\u0003FIBRE</p>",
@@ -551,7 +553,7 @@
         "image_K8h7hq": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/DNF_TERRA_Kiwifruit_70s_US-2024-01.svg",
+            "desktop_image": "shopify://shop_images/DNF_TERRA_Kiwifruit_70s_US-2024-01_1.svg",
             "select_icon": "bag",
             "heading": "",
             "text": "<p>ALL NATURAL\u0003INGREDIENTS</p>",
@@ -561,7 +563,7 @@
         "image_mn7Hdh": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/1892729.png",
+            "desktop_image": "shopify://shop_images/1892729_1.png",
             "select_icon": "bin",
             "heading": "",
             "text": "<p>PLANT-BASED & RECYCLED LID</p>",
@@ -571,7 +573,7 @@
         "image_8LCC4P": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/DNF_TERRA_Kiwifruit_70s_US-2024-04.svg",
+            "desktop_image": "shopify://shop_images/DNF_TERRA_Kiwifruit_70s_US-2024-04_1.svg",
             "select_icon": "bag",
             "heading": "",
             "text": "<p>NO PARABENS</p>",
@@ -609,7 +611,7 @@
         "title": "WE’RE PROUD - AND SO ARE YOU",
         "disable_on_mobile": false,
         "hide_empty_section": false,
-        "collection": "bamboo-wipes",
+        "collection": "nappies",
         "product_list": [],
         "products_to_show": 6,
         "enable_stack_products": false,
@@ -729,7 +731,6 @@
         "heading_yfJBLV",
         "text_bKAL6j"
       ],
-      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "section_width": "regular",
@@ -899,8 +900,8 @@
       ],
       "name": "Read More Faqs",
       "settings": {
-        "heading_faq": "Frequently Asked Questions",
-        "subheading_faq": "Explore answers to the most common questions about Terra products, crafted to give you clarity and confidence.",
+        "heading_faq": "",
+        "subheading_faq": "",
         "color-body-text": "rgba(0,0,0,0)",
         "background_color": "rgba(0,0,0,0)",
         "compact-size-enabled": true,
