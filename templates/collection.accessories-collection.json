@@ -51,7 +51,7 @@
         "slide_height": "fixed_height",
         "desktop_fixed_height": 600,
         "mobile_fixed_height": 360,
-        "desktop_image": "shopify://shop_images/bowl-1.jpg",
+        "desktop_image": "shopify://shop_images/bowl-1_1.jpg",
         "desktop_text_vertical_position": "center",
         "desktop_text_horizontal_position": "center",
         "mobile_text_vertical_position": "center",
@@ -92,7 +92,7 @@
           "settings": {
             "button_select": "primary",
             "button_label": "Button label",
-            "button_link": "",
+            "button_link": "/",
             "disable_on_mobile": false
           }
         }
@@ -117,10 +117,10 @@
         "color-body-text": "#ffffff",
         "color-overlay": "rgba(0,0,0,0)",
         "color-overlay-opacity": 100,
-        "desktop_image": "shopify://shop_images/bowl-long.jpg",
+        "desktop_image": "shopify://shop_images/bowl-1_1_8171fe6c-7c9a-46a2-a522-ea2a7770021c.jpg",
         "desktop_text_vertical_position": "center",
         "desktop_text_horizontal_position": "center",
-        "mobile_image": "shopify://shop_images/bowl-5.png",
+        "mobile_image": "shopify://shop_images/bowl-1_2.jpg",
         "mobile_text_horizontal_position": "center",
         "margin-top": 0,
         "margin-bottom": 0
@@ -132,7 +132,7 @@
         "product_7kmgxi": {
           "type": "product",
           "settings": {
-            "slider_product": "terra-essence-pouch-verdant-sage",
+            "slider_product": "terra-water-wipes-mini-pack",
             "text_color": "#ffffff",
             "background_color": "#243f30",
             "heading": "Pocket-Sized Convenience",
@@ -153,7 +153,6 @@
             "heading": "On-the-Go Ease",
             "text": "",
             "promo_text_color": "",
-            "desktop_image": "shopify://shop_images/banner-pouch-outdoor.jpg",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "center",
             "mobile_text_horizontal_position": "center"
@@ -251,7 +250,7 @@
         "title": "",
         "disable_on_mobile": false,
         "hide_empty_section": false,
-        "collection": "accessories",
+        "collection": "nappies",
         "product_list": [],
         "products_to_show": 7,
         "enable_stack_products": false,
@@ -281,35 +280,35 @@
         "image_MKXEt4": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/Group_46.png",
+            "desktop_image": "shopify://shop_images/Group_46.webp",
             "link": ""
           }
         },
         "image_iYqg3y": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/Group_51.png",
+            "desktop_image": "shopify://shop_images/Group_51.webp",
             "link": ""
           }
         },
         "image_UXXfgb": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/Group_50.png",
+            "desktop_image": "shopify://shop_images/Group_50.webp",
+            "link": ""
+          }
+        },
+        "image_zrJdxa": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_453_89e915bc-dff5-4838-807e-c2a5964e97ad.webp",
             "link": ""
           }
         },
         "image_MbwDLA": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/Group_453.png",
-            "link": ""
-          }
-        },
-        "image_TDbiRU": {
-          "type": "image",
-          "settings": {
-            "desktop_image": "shopify://shop_images/Group_47.png",
+            "desktop_image": "shopify://shop_images/Group_47.webp",
             "link": ""
           }
         }
@@ -318,8 +317,8 @@
         "image_MKXEt4",
         "image_iYqg3y",
         "image_UXXfgb",
-        "image_MbwDLA",
-        "image_TDbiRU"
+        "image_zrJdxa",
+        "image_MbwDLA"
       ],
       "name": "t:sections.brands.settings.presets.name",
       "settings": {
@@ -357,9 +356,9 @@
             "button_select": "link",
             "button_label": "",
             "button_disable_on_mobile": false,
-            "button_link": "shopify://collections/baby-care",
+            "button_link": "shopify://collections/baby-2025",
             "button_link_in_new_window": false,
-            "desktop_image": "shopify://shop_images/Screenshot_2025-11-20_at_2.22.34_PM.jpg"
+            "desktop_image": "shopify://shop_images/Screenshot_2025-11-20_at_2.22.34_PM.webp"
           }
         },
         "column_qjBE93": {
@@ -372,9 +371,9 @@
             "button_select": "link",
             "button_label": "",
             "button_disable_on_mobile": false,
-            "button_link": "shopify://collections/outdoor-care",
+            "button_link": "shopify://collections/kids-collection",
             "button_link_in_new_window": false,
-            "desktop_image": "shopify://shop_images/outdoor.jpg"
+            "desktop_image": "shopify://shop_images/outdoor_1.jpg"
           }
         },
         "column_kh4Bab": {
@@ -387,9 +386,9 @@
             "button_select": "link",
             "button_label": "",
             "button_disable_on_mobile": false,
-            "button_link": "shopify://collections/kids-care",
+            "button_link": "shopify://collections/kids",
             "button_link_in_new_window": false,
-            "desktop_image": "shopify://shop_images/kids-insect-14.png"
+            "desktop_image": "shopify://shop_images/kids-insect-14_1.png"
           }
         }
       },
@@ -418,7 +417,7 @@
         "image_LpU9LC": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/1_f87d10f0-3b59-4e30-a4fa-ad318fc798b3.png",
+            "desktop_image": "shopify://shop_images/1_f87d10f0-3b59-4e30-a4fa-ad318fc798b3_1.png",
             "select_icon": "bag",
             "heading": "Gentle",
             "text": "<p>Safe for kids, families, and everyday use.</p>",
@@ -428,7 +427,7 @@
         "image_CKCXhM": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/1.png",
+            "desktop_image": "shopify://shop_images/1_1_533a24cd-1d4e-48ac-90f3-dbc9fd93d17c.png",
             "select_icon": "bag",
             "heading": "Natural",
             "text": "<p>We only use the finest natural ingredients.</p>",
@@ -438,7 +437,7 @@
         "image_McECbz": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/arrow___recycling.png",
+            "desktop_image": "shopify://shop_images/arrow___recycling_1.png",
             "select_icon": "bag",
             "heading": "Recyclable",
             "text": "<p>All packaging is recyclable and eco-conscious.</p>",
@@ -448,7 +447,7 @@
         "image_VGUkeA": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/6a90c69c7951b6cfdeed415b17557f9f.png",
+            "desktop_image": "shopify://shop_images/6a90c69c7951b6cfdeed415b17557f9f_1.png",
             "select_icon": "bag",
             "heading": "Free Shipping",
             "text": "<p>Orders over $90 within NZ.</p>",
@@ -580,189 +579,6 @@
         "margin-top": 100,
         "margin-bottom": 100
       }
-    },
-    "read_more_faqs_NBE4kB": {
-      "type": "read-more-faqs",
-      "blocks": {
-        "collapsible_tab_Fxhc4A": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "What is the TERRA Essence Pouch made of?",
-            "content": "<p>The pouch is crafted from high-quality, <strong>luxurious</strong> microfibre. It's soft, durable, and cruelty-free, offering a luxurious texture while being sustainable and reusable. Its premium construction ensures long-lasting use without compromising on elegance or environmental responsibility.</p>",
-            "page": "",
-            "icon": "check_mark"
-          }
-        },
-        "collapsible_tab_byWykJ": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Can I use it for storing cosmetics or wipes?",
-            "content": "<p>Absolutely, the TERRA Essence Pouch is designed to hold a variety of items, including wipes, skincare sachets, minor cosmetics, or accessories. Its versatile structure makes it ideal for everyday use, keeping your essentials organised and stylishly stored wherever you go.</p>",
-            "page": "",
-            "icon": "check_mark"
-          }
-        },
-        "collapsible_tab_pk9cDH": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Is the TERRA Essence Pouch luxurious?",
-            "content": "<p>Yes, every <strong>TERRA Essence Pouch</strong> is a testament to <strong>conscious craftsmanship</strong> made from sustainably sourced, cruelty-free microfiber that embodies both <strong>elegance and environmental care</strong>. It offers a <strong>luxurious </strong>alternative to ordinary pouches, proving that true style is mindful at heart.</p>",
-            "page": "",
-            "icon": "check_mark"
-          }
-        },
-        "collapsible_tab_U3KETV": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "How should I clean my TERRA Essence Pouch?",
-            "content": "<p>Simply wipe the surface with a soft, damp cloth. Avoid soaking, machine washing, or using harsh detergents, as these can damage the microfibre texture. Let it air dry thoroughly before reusing for optimal care and longevity.</p>",
-            "page": "",
-            "icon": "check_mark"
-          }
-        },
-        "collapsible_tab_FzVAiR": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "What can I store in the pouch?",
-            "content": "<p>The pouch is perfect for skincare sachets, cosmetics, jewellery, wipes, cards, or other small daily essentials. It's designed to fit conveniently inside handbags or travel kits while maintaining a sleek, minimal aesthetic.</p>",
-            "page": "",
-            "icon": "check_mark"
-          }
-        },
-        "collapsible_tab_cfiNb3": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Is it suitable for gifting?",
-            "content": "<p>Yes, the TERRA Essence Pouch comes in a beautifully designed drawer-style box with the tagline \"Stash, swipe and shine.\" It's the perfect premium gift for eco-conscious individuals or those who value functional luxury.</p>",
-            "page": "",
-            "icon": "check_mark"
-          }
-        },
-        "collapsible_tab_V6aNcG": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Does the pouch come in different colours?",
-            "content": "<p>Yes, the <strong>TERRA Essence Pouch</strong> is now available in a stunning palette inspired by nature's hues and timeless elegance. Each shade reflects a unique mood and moment, allowing you to choose one that resonates with your personal style.</p><ul><li><strong>Seafoam Moss</strong> - Soft, serene, and refreshing, a whisper of calm for your everyday essentials.</li><li><strong>Abyssal Blue</strong> - Deep and sophisticated, echoing the quiet strength of ocean depths.</li><li><strong>Royal Mulberry</strong> - Rich and regal, a statement of bold individuality and refined taste.</li><li><strong>Amber Glow</strong> - Warm and radiant, capturing the golden essence of sunlit mornings.</li><li><strong>Verdant Sage</strong> - Earthy and balanced, embodying TERRA's connection to nature and mindful living.</li></ul>",
-            "page": "",
-            "icon": "check_mark"
-          }
-        },
-        "collapsible_tab_tWV3ht": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "What makes this pouch different from regular ones?",
-            "content": "<p>Unlike regular pouches, the TERRA Essence Pouch blends premium design with sustainable values. Its soft, luxurious microfibre, minimalist aesthetic, and refined packaging make it a statement accessory that stands for both elegance and environmental mindfulness.</p>",
-            "page": "",
-            "icon": "check_mark"
-          }
-        },
-        "collapsible_tab_wPYcmt": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "What is the TERRA Essence Bowl used for?",
-            "content": "<p>The Terra Essence Bowl is designed to hold both TERRA sachet wipes and other small essentials, making it a versatile and elegant addition to any space.</p>",
-            "page": "",
-            "icon": "check_mark"
-          }
-        },
-        "collapsible_tab_4YX7PL": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Is the TERRA Essence Bowl made of glass or plastic?",
-            "content": "<p>The Terra Essence Bowl is crafted from a premium acrylic–glass composite, offering exceptional clarity, durability, and a refined, luxury finish.</p>",
-            "page": "",
-            "icon": "check_mark"
-          }
-        },
-        "collapsible_tab_E3mmcD": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "How many TERRA Wipe Sachets can it hold?",
-            "content": "<p>It comfortably holds up to <strong>200 TERRA wipe sachets</strong>.</p>",
-            "page": "",
-            "icon": "check_mark"
-          }
-        },
-        "collapsible_tab_CbJ9ME": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Is the TERRA Essence Bowl dishwasher-safe?",
-            "content": "<p>For best results, we recommend gentle handwashing with mild soap and water to preserve its clarity.</p>",
-            "page": "",
-            "icon": "check_mark"
-          }
-        },
-        "collapsible_tab_xpXrxG": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Where can I place the TERRA Essence Bowl?",
-            "content": "<p>You can place it anywhere you want a touch of elegance - on your bedroom side table, home vanity, or any space where organisation and style matter.</p>",
-            "page": "",
-            "icon": "check_mark"
-          }
-        },
-        "collapsible_tab_6AmVrm": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "How do I clean the TERRA Essence Bowl without leaving marks?",
-            "content": "<p>Just wipe it gently with a soft microfiber cloth and avoid harsh cleaners. This keeps the bowl clear, spotless, and looking like new.</p>",
-            "page": "",
-            "icon": "check_mark"
-          }
-        },
-        "collapsible_tab_kkcXB7": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "What makes it special compared to regular containers?",
-            "content": "<p>The TERRA Essence Bowl stands apart with its blend of practicality and refined design. It embodies quiet luxury and thoughtful craftsmanship, reflecting TERRA's philosophy of mindful, elevated living far beyond what ordinary containers offer.</p>",
-            "page": "",
-            "icon": "check_mark"
-          }
-        }
-      },
-      "block_order": [
-        "collapsible_tab_Fxhc4A",
-        "collapsible_tab_byWykJ",
-        "collapsible_tab_pk9cDH",
-        "collapsible_tab_U3KETV",
-        "collapsible_tab_FzVAiR",
-        "collapsible_tab_cfiNb3",
-        "collapsible_tab_V6aNcG",
-        "collapsible_tab_tWV3ht",
-        "collapsible_tab_wPYcmt",
-        "collapsible_tab_4YX7PL",
-        "collapsible_tab_E3mmcD",
-        "collapsible_tab_CbJ9ME",
-        "collapsible_tab_xpXrxG",
-        "collapsible_tab_6AmVrm",
-        "collapsible_tab_kkcXB7"
-      ],
-      "name": "Read More Faqs",
-      "settings": {
-        "heading_faq": "Frequently Asked Questions",
-        "subheading_faq": "Explore answers to the most common questions about Terra Accessories Collection, crafted to give you clarity and confidence.",
-        "color-body-text": "rgba(0,0,0,0)",
-        "background_color": "rgba(0,0,0,0)",
-        "compact-size-enabled": true,
-        "margin-top": 20,
-        "margin-bottom": 20
-      }
-    },
-    "collection_description_RL4zEJ": {
-      "type": "collection-description",
-      "name": "Collection Description",
-      "settings": {
-        "rich_content": "",
-        "read_more_label": "Read More",
-        "read_less_label": "Read Less",
-        "background_color": "#ffffff",
-        "padding_top": 80,
-        "padding_bottom": 80,
-        "padding_top_mobile": 40,
-        "padding_bottom_mobile": 40,
-        "collapsed_height_desktop": 160,
-        "collapsed_height_mobile": 120
-      }
     }
   },
   "order": [
@@ -780,8 +596,6 @@
     "features_banner_48DfGA",
     "rich_text_U6LTzA",
     "read_more_faqs_KYiF7f",
-    "newsletter_KQitJE",
-    "read_more_faqs_NBE4kB",
-    "collection_description_RL4zEJ"
+    "newsletter_KQitJE"
   ]
 }
