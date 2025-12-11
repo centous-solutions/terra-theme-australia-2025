@@ -320,40 +320,43 @@
         "margin-bottom": 48
       }
     },
-    "features_banner_48DfGA": {
+    "features_banner_LKEzdB": {
       "type": "features-banner",
       "blocks": {
-        "image_LpU9LC": {
+        "image_wYaiXD": {
           "type": "image",
           "settings": {
+            "desktop_image": "shopify://shop_images/1_f87d10f0-3b59-4e30-a4fa-ad318fc798b3_1.png",
             "select_icon": "bag",
             "heading": "Gentle",
             "text": "<p>Safe for kids, families, and everyday use.</p>",
             "link": ""
           }
         },
-        "image_CKCXhM": {
+        "image_dk4KCx": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/1.png",
+            "desktop_image": "shopify://shop_images/1_1_533a24cd-1d4e-48ac-90f3-dbc9fd93d17c.png",
             "select_icon": "bag",
             "heading": "Natural",
             "text": "<p>We only use the finest natural ingredients.</p>",
             "link": ""
           }
         },
-        "image_McECbz": {
+        "image_mHGJbV": {
           "type": "image",
           "settings": {
+            "desktop_image": "shopify://shop_images/arrow___recycling_1.png",
             "select_icon": "bag",
             "heading": "Recyclable",
             "text": "<p>All packaging is recyclable and eco-conscious.</p>",
             "link": ""
           }
         },
-        "image_VGUkeA": {
+        "image_6fLrF4": {
           "type": "image",
           "settings": {
+            "desktop_image": "shopify://shop_images/6a90c69c7951b6cfdeed415b17557f9f_1.png",
             "select_icon": "bag",
             "heading": "Free Shipping",
             "text": "<p>Orders over $90 within NZ.</p>",
@@ -362,10 +365,10 @@
         }
       },
       "block_order": [
-        "image_LpU9LC",
-        "image_CKCXhM",
-        "image_McECbz",
-        "image_VGUkeA"
+        "image_wYaiXD",
+        "image_dk4KCx",
+        "image_mHGJbV",
+        "image_6fLrF4"
       ],
       "settings": {
         "heading": "",
@@ -688,7 +691,7 @@
     "brands_7qtPXe",
     "separator_qkXpB7",
     "multicolumn_BLNpDn",
-    "features_banner_48DfGA",
+    "features_banner_LKEzdB",
     "newsletter_KQitJE",
     "rich_text_U6LTzA",
     "read_more_faqs_b3RXRz",
