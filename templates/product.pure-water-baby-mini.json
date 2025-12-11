@@ -1,1 +1,560 @@
-{"sections":{"breadcrumbs":{"type":"main-breadcrumbs","settings":{"full-width-enabled":true,"text_color":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":12,"margin-bottom":12}},"main":{"type":"main-product","blocks":{"title":{"type":"title","settings":{"brand":"","size_text":180,"size_text_mobile":160}},"text_aDHKCn":{"type":"text","settings":{"heading":"","content":"<p>TERRA Water Baby Wipes are made with 99.7% pure New Zealand water and ultra-soft biodegradable bamboo fibre, giving your baby a gentle, simple, and soothing clean. Free from fragrances, alcohol, and harsh chemicals, they're ideal for delicate and sensitive skin, everyday care made pure and effortless.<\/p>","page":""}},"rating":{"type":"rating","settings":{}},"feature_tags_44iTGm":{"type":"feature_tags","settings":{"metafield":"custom.feature_tags","limit":4,"text_color":"rgba(0,0,0,0)","border_color":"rgba(0,0,0,0)"}},"separator_Qt7zAY":{"type":"separator","settings":{"show-separator-line":false,"color-background":"#000000","margin-top":8,"margin-bottom":8}},"price":{"type":"price","settings":{"show_tax_included":false,"show_shipping_policy":true,"size_text":120,"size_text_mobile":140}},"variant_picker":{"type":"variant_picker","settings":{"picker_type":"button","color_swatch_names":"","variant_picture_swatch_names":"","thumb_size":60,"radius":"default","border_radius":0,"dropdown_swatch_names":"","margin-top":8,"margin-bottom":8}},"bold_subscriptions_bsub_widget_block_9jTtfA":{"type":"shopify:\/\/apps\/bold-subscriptions\/blocks\/bsub-widget-block\/9ceb49f0-5fe5-4b5e-943d-f8af8985167d","settings":{"default_subscribe":true,"primary_color":"","secondary_color":"#5433eb","background_color":"","border_radius":4,"header_text":"Purchase Options","one_time_text":"One-time Purchase","recurring_text":"Subscribe and Save","prepaid_recurring_text":"Prepaid Subscribe and Save","discount_summary_text":"(Save {discount})","discount_summary_plural_text":"(Save up to {discount})","frequency_header":"Delivery Frequency","frequency_text":"delivery","prepaid_checkbox_label_text":"Prepay for subscription","billing_frequency_header":"Billing Frequency","billing_frequency_text":"{count} Orders","delivery_frequency_discount_text":"({discount} off {regular_price})","billing_frequency_discount_text":"({discount} off {regular_price})","prepaid_total_text":"Billed {price} today","prepaid_continue_as_prepaid_text":"Prepaid order will auto-renew after {count} orders","prepaid_continue_as_standard_text":"Becomes a regular subscription after {count} orders","convertible_header":"Converts to","eligible_for_subscription_header":"Eligible for Subscription","initial_dynamic_discount_text":"Save {initial_percent_discount}% ({initial_fixed_discount})","subsequent_dynamic_discounts_text":"{subsequent_percent_discount}% ({subsequent_fixed_discount}) after {order_count} order(s)"}},"buy_buttons":{"type":"buy_buttons","settings":{"show_dynamic_checkout":false,"show_gift_card_recipient":true,"show_qty_selector":true,"text_color":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)"}},"promo_67ttgj":{"type":"promo","disabled":true,"settings":{"content":"<p>🎟️ Use code \"Beauty\" for 10% OFF!<\/p>","text_alignment":"center","color-body-text":"#a04848","background_color":"#f6f2ea"}},"payments_badge_EFynmG":{"type":"payments_badge","disabled":true,"settings":{"content":"","desktop_text_horizontal_position":"center","badge_type":"payment_icons","color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)"}},"separator_DwMham":{"type":"separator","settings":{"show-separator-line":false,"color-background":"#000000","margin-top":8,"margin-bottom":8}},"e23830b4-3ca6-452f-a7d1-cb245a3e9282":{"type":"bulletpoints","settings":{"metafield":"custom.features","default_text":""}},"00841757-ace4-48f5-8edb-08c8c579a24f":{"type":"separator","settings":{"show-separator-line":true,"color-background":"#e0dedb","margin-top":0,"margin-bottom":0}},"description":{"type":"description","settings":{"is_open":false,"icon":"chat_bubble"}},"a8e9c281-a34c-4fe4-94a1-ea9a3880dc33":{"type":"separator","settings":{"show-separator-line":true,"color-background":"#e0dedb","margin-top":0,"margin-bottom":0}},"1c9b0bb2-fe62-4649-9439-76836162d773":{"type":"collapsible_tab","settings":{"heading":"How to use","content":"<ol><li>Open the safety lid and gently pull out a wipe.<\/li><li>Clean the desired area using soft, sweeping motions.<\/li><li>Use additional wipes if needed for thorough cleaning.<\/li><li>Close the lid tightly after each use to keep wipes fresh and hydrated.<\/li><li>Dispose of the used wipe in household waste, do not flush.<\/li><\/ol>","metafield_variables":"","page":"","icon":"question_mark"}},"2ce0b4b1-3440-40cd-92c2-15d46e61dfca":{"type":"separator","settings":{"show-separator-line":true,"color-background":"#e0dedb","margin-top":0,"margin-bottom":0}},"5fed6e0f-fb7e-4874-8ba9-3321623fc828":{"type":"collapsible_tab","settings":{"heading":"Ingredients ","content":"<ul><li>Pure New Zealand Purified Water.<\/li><li>Biodegradable FSC Certified Bamboo Fibre.<\/li><li>Benzalkonium Chloride (Antibacterial Agent).<\/li><li>Chamomilla Recutita (Chamomile) Flower Extract (Calms and Comforts Skin).<\/li><li>Avena Sativa (Oat) Kernel Extract (Soothes and Protects Sensitive Skin).<\/li><li>Tocopherol (Vitamin E) (Provides Antioxidant and Moisturising Care).<\/li><li>Glycerin (Maintains Skin Hydration and Softness).<\/li><li>Caprylyl Glycol (Natural Preservative and Skin Conditioner).<\/li><li>Levulinic Acid & Sodium Levulinate (Natural Antimicrobial Stabilisers).<\/li><\/ul>","metafield_variables":"","page":"","icon":"leaf"}},"78809992-2318-4893-9402-6cfd49f50b6a":{"type":"separator","settings":{"show-separator-line":true,"color-background":"#e0dedb","margin-top":0,"margin-bottom":0}}},"block_order":["title","text_aDHKCn","rating","feature_tags_44iTGm","separator_Qt7zAY","price","variant_picker","bold_subscriptions_bsub_widget_block_9jTtfA","buy_buttons","promo_67ttgj","payments_badge_EFynmG","separator_DwMham","e23830b4-3ca6-452f-a7d1-cb245a3e9282","00841757-ace4-48f5-8edb-08c8c579a24f","description","a8e9c281-a34c-4fe4-94a1-ea9a3880dc33","1c9b0bb2-fe62-4649-9439-76836162d773","2ce0b4b1-3440-40cd-92c2-15d46e61dfca","5fed6e0f-fb7e-4874-8ba9-3321623fc828","78809992-2318-4893-9402-6cfd49f50b6a"],"settings":{"enable_sticky_buy_button":true,"full-width-enabled":false,"desktop-media-size":"normal","desktop-layout":"carousel-vertical","desktop-image-ratio":"square","enable_video_looping":false,"enable-preselected-variant":true,"enable-image-zoom":true,"mobile-image":"small","text_color":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":4,"margin-bottom":28}},"video_section_VqzFwk":{"type":"video-section","blocks":{"heading_PCrVbJ":{"type":"heading","settings":{"heading":"Kind to the Ocean.","disable_on_mobile":true,"size_heading":140,"size_heading_mobile":140}},"text_aUBMtJ":{"type":"text","settings":{"text":"<p>See how our wipes safely biodegrade in marine environments, protecting waterways and sea life.<\/p>","disable_on_mobile":true}}},"block_order":["heading_PCrVbJ","text_aUBMtJ"],"name":"t:sections.video.settings.presets.name","settings":{"heading":"","full-width-enabled":true,"content_position":"over_image","slide_height":"adapt_to_first_image","desktop_fixed_height":340,"mobile_fixed_height":460,"video_hosted":"","video_hosted_mobile":"","video_url":"","layout_mobile":"video","layout":"video_first","color-heading-text":"rgba(0,0,0,0)","section-color-overlay":"rgba(0,0,0,0)","section-color-overlay-opacity":100,"color-body-text":"#ffffff","color-overlay":"rgba(0,0,0,0)","color-overlay-opacity":100,"desktop_image":"shopify:\/\/shop_images\/terra_we.jpg","desktop_text_vertical_position":"bottom","desktop_text_horizontal_position":"left","mobile_image":"shopify:\/\/shop_images\/terra_we.jpg","mobile_text_vertical_position":"center","mobile_text_horizontal_position":"left","margin-top":0,"margin-bottom":0}},"featured_collection_9QhkVb":{"type":"featured-collection","name":"t:sections.featured-collection.presets.name","settings":{"title":"Baby Wipes","disable_on_mobile":false,"hide_empty_section":false,"collection":"bamboo-wipes","product_list":[],"products_to_show":4,"enable_stack_products":false,"show_view_all":true,"button_select":"link","number_of_column_desktop":4,"spacing_desktop":"16","make_products_full_width":true,"number_of_column_mobile":2.1,"spacing_mobile":"16","text_alignment":"left","image_ratio":"square","show_video":false,"show_secondary_image":false,"show_vendor":false,"show_product_rating":true,"enable_quick_add_button":false,"color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":20,"margin-bottom":20}},"featured_collection_FyQqrL":{"type":"featured-collection","name":"t:sections.featured-collection.presets.name","settings":{"title":"Try our Baby Nappies","disable_on_mobile":false,"hide_empty_section":false,"collection":"nappies","product_list":[],"products_to_show":4,"enable_stack_products":false,"show_view_all":true,"button_select":"link","number_of_column_desktop":4,"spacing_desktop":"16","make_products_full_width":true,"number_of_column_mobile":2.1,"spacing_mobile":"16","text_alignment":"left","image_ratio":"square","show_video":false,"show_secondary_image":false,"show_vendor":true,"show_product_rating":true,"enable_quick_add_button":false,"color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":20,"margin-bottom":20}},"apps_P3MnbH":{"type":"apps","blocks":{"judge_me_reviews_testimonials_carousel_product_iwAbFy":{"type":"shopify:\/\/apps\/judge-me-reviews\/blocks\/testimonials_carousel_product\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8","settings":{"show_sample_reviews":true,"reviews_selection":"all","products":["new-nz-water-70s"],"star_rating":"all","max_reviews":20,"quote_marks_size":"small","product_name_text_size":"small","verified_badge_style":"icon","card_height":"medium","text_size":"small","stars_size":"medium","arrows_position":"bottom","max_width":1100,"corner_styling":"soft","quote_marks_style":"serif","card_color":"#ffffff","stars_and_quote_marks_color":"#108474","text_color":"#000000","arrows_color":"#000000","show_border":false,"border_color":"#108474","show_drop_shadow":false,"transition_speed":5,"header_text":"Customers are saying","show_average_rating":true}}},"block_order":["judge_me_reviews_testimonials_carousel_product_iwAbFy"],"settings":{"include_margins":true}},"testimonial_video_reels_M3AHHV":{"type":"testimonial-video-reels","blocks":{"video_UEGXMT":{"type":"video","settings":{"video_hosted":"","rating":"5","testimonial":"<p>\"This is exactly what I needed. It exceeded my expectations in every way.\"<\/p>","author":"John Doe"}},"video_B6zT8k":{"type":"video","settings":{"video_hosted":"shopify:\/\/files\/videos\/You bought the wipes for messes, but your baby sees a sensory toy collection instead 💚Thankfull.mp4","rating":"4.5","testimonial":"<p>\"This is exactly what I needed. It exceeded my expectations in every way.\"<\/p>","author":"John Doe"}},"video_JKNHDw":{"type":"video","settings":{"video_hosted":"","rating":"4.5","testimonial":"<p>\"This is exactly what I needed. It exceeded my expectations in every way.\"<\/p>","author":"John Doe"}},"video_ULW8tC":{"type":"video","settings":{"video_hosted":"","rating":"4.5","testimonial":"<p>\"This is exactly what I needed. It exceeded my expectations in every way.\"<\/p>","author":"John Doe"}},"video_BciqjV":{"type":"video","settings":{"video_hosted":"","rating":"4.5","testimonial":"<p>\"This is exactly what I needed. It exceeded my expectations in every way.\"<\/p>","author":"John Doe"}}},"block_order":["video_UEGXMT","video_B6zT8k","video_JKNHDw","video_ULW8tC","video_BciqjV"],"name":"t:sections.testimonial-video-reels.name","settings":{"heading":"Testimonial video reels","video_button":false,"text_alignment":"center","text_style":"body","color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":20,"margin-bottom":20}},"read_more_faqs_baHMnL":{"type":"read-more-faqs","blocks":{"collapsible_tab_YwizRw":{"type":"collapsible_tab","settings":{"heading":"What materials are the wipes made from?","content":"<p>Each wipe is crafted from 100% biodegradable, FSC-certified bamboo fibre and contains 99.7% purified New Zealand water.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_pDdxPz":{"type":"collapsible_tab","settings":{"heading":"How many Terra wipes come in the mini pack?","content":"<p>Each Terra mini pack contains 10 full-sized wipes, making it perfect for nappy bags, travel, quick errands, and unexpected clean-ups when you're out and about.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_i6Wqmi":{"type":"collapsible_tab","settings":{"heading":"Can I use these wipes on my baby's face and body?","content":"<p>Yes, they are gentle enough for full-body use, including the face, hands, and nappy area.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_yBfUBN":{"type":"collapsible_tab","settings":{"heading":"How often can I safely use Terra Wipes?","content":"<p>Terra Wipes are designed for daily use and can be used multiple times per day whenever needed. Their plant-based, skin-friendly formulation ensures they remain gentle even with frequent use.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_fq6cGh":{"type":"collapsible_tab","settings":{"heading":"Are Terra Wipes cruelty-free?","content":"<p>Yes, all Terra products, including our wipes, are 100% cruelty-free and never tested on animals.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_cQJhHz":{"type":"collapsible_tab","settings":{"heading":"Where are Terra Wipes manufactured?","content":"<p>Terra Wipes are proudly made in New Zealand, following the highest international safety and quality standards.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_G4wkx6":{"type":"collapsible_tab","settings":{"heading":"How should I dispose of Terra Wipes?","content":"<p>Terra Wipes should not be flushed. Please dispose of them in your household waste or compost bin, if suitable and available.<\/p>","page":"","icon":"check_mark"}}},"block_order":["collapsible_tab_YwizRw","collapsible_tab_pDdxPz","collapsible_tab_i6Wqmi","collapsible_tab_yBfUBN","collapsible_tab_fq6cGh","collapsible_tab_cQJhHz","collapsible_tab_G4wkx6"],"name":"Read More Faqs","settings":{"heading_faq":"Frequently Asked Questions","subheading_faq":"Explore answers to the most common questions about Terra Water Baby Wipes, crafted to give you clarity and confidence.","color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","compact-size-enabled":true,"margin-top":48,"margin-bottom":48}}},"order":["breadcrumbs","main","video_section_VqzFwk","featured_collection_9QhkVb","featured_collection_FyQqrL","apps_P3MnbH","testimonial_video_reels_M3AHHV","read_more_faqs_baHMnL"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "breadcrumbs": {
+      "type": "main-breadcrumbs",
+      "settings": {
+        "full-width-enabled": true,
+        "text_color": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 12,
+        "margin-bottom": 12
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "brand": "",
+            "size_text": 180,
+            "size_text_mobile": 160
+          }
+        },
+        "text_aDHKCn": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "content": "<p>TERRA Dry Baby Wipes are made from 100% biodegradable bamboo fibre, offering ultra-soft, thick, and highly absorbent care for delicate skin. Free from chemicals, dyes, and preservatives, these dermatologist-safe wipes provide gentle cleansing and natural antibacterial protection. Ideal for newborns and multipurpose use, they deliver pure, soothing care with every wipe.</p>",
+            "page": ""
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {}
+        },
+        "feature_tags_44iTGm": {
+          "type": "feature_tags",
+          "settings": {
+            "metafield": "custom.feature_tags",
+            "limit": 4,
+            "text_color": "rgba(0,0,0,0)",
+            "border_color": "rgba(0,0,0,0)"
+          }
+        },
+        "separator_Qt7zAY": {
+          "type": "separator",
+          "settings": {
+            "show-separator-line": false,
+            "color-background": "#000000",
+            "margin-top": 8,
+            "margin-bottom": 8
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_included": false,
+            "show_shipping_policy": true,
+            "size_text": 120,
+            "size_text_mobile": 140
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "color_swatch_names": "",
+            "variant_picture_swatch_names": "",
+            "thumb_size": 60,
+            "radius": "default",
+            "border_radius": 0,
+            "dropdown_swatch_names": "",
+            "margin-top": 8,
+            "margin-bottom": 8
+          }
+        },
+        "bold_subscriptions_bsub_widget_block_9jTtfA": {
+          "type": "shopify://apps/bold-subscriptions/blocks/bsub-widget-block/9ceb49f0-5fe5-4b5e-943d-f8af8985167d",
+          "settings": {
+            "default_subscribe": true,
+            "primary_color": "",
+            "secondary_color": "#5433eb",
+            "background_color": "",
+            "border_radius": 4,
+            "header_text": "Purchase Options",
+            "one_time_text": "One-time Purchase",
+            "recurring_text": "Subscribe and Save",
+            "prepaid_recurring_text": "Prepaid Subscribe and Save",
+            "discount_summary_text": "(Save {discount})",
+            "discount_summary_plural_text": "(Save up to {discount})",
+            "frequency_header": "Delivery Frequency",
+            "frequency_text": "delivery",
+            "prepaid_checkbox_label_text": "Prepay for subscription",
+            "billing_frequency_header": "Billing Frequency",
+            "billing_frequency_text": "{count} Orders",
+            "delivery_frequency_discount_text": "({discount} off {regular_price})",
+            "billing_frequency_discount_text": "({discount} off {regular_price})",
+            "prepaid_total_text": "Billed {price} today",
+            "prepaid_continue_as_prepaid_text": "Prepaid order will auto-renew after {count} orders",
+            "prepaid_continue_as_standard_text": "Becomes a regular subscription after {count} orders",
+            "convertible_header": "Converts to",
+            "eligible_for_subscription_header": "Eligible for Subscription",
+            "initial_dynamic_discount_text": "Save {initial_percent_discount}% ({initial_fixed_discount})",
+            "subsequent_dynamic_discounts_text": "{subsequent_percent_discount}% ({subsequent_fixed_discount}) after {order_count} order(s)"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true,
+            "show_qty_selector": true,
+            "text_color": "rgba(0,0,0,0)",
+            "background_color": "rgba(0,0,0,0)"
+          }
+        },
+        "promo_67ttgj": {
+          "type": "promo",
+          "disabled": true,
+          "settings": {
+            "content": "<p>🎟️ Use code \"Beauty\" for 10% OFF!</p>",
+            "text_alignment": "center",
+            "color-body-text": "#a04848",
+            "background_color": "#f6f2ea"
+          }
+        },
+        "payments_badge_EFynmG": {
+          "type": "payments_badge",
+          "disabled": true,
+          "settings": {
+            "content": "",
+            "desktop_text_horizontal_position": "center",
+            "badge_type": "payment_icons",
+            "color-body-text": "rgba(0,0,0,0)",
+            "background_color": "rgba(0,0,0,0)"
+          }
+        },
+        "separator_DwMham": {
+          "type": "separator",
+          "settings": {
+            "show-separator-line": false,
+            "color-background": "#000000",
+            "margin-top": 8,
+            "margin-bottom": 8
+          }
+        },
+        "e23830b4-3ca6-452f-a7d1-cb245a3e9282": {
+          "type": "bulletpoints",
+          "settings": {
+            "metafield": "custom.features",
+            "default_text": ""
+          }
+        },
+        "00841757-ace4-48f5-8edb-08c8c579a24f": {
+          "type": "separator",
+          "settings": {
+            "show-separator-line": true,
+            "color-background": "#e0dedb",
+            "margin-top": 0,
+            "margin-bottom": 0
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_open": false,
+            "icon": "chat_bubble"
+          }
+        },
+        "a8e9c281-a34c-4fe4-94a1-ea9a3880dc33": {
+          "type": "separator",
+          "settings": {
+            "show-separator-line": true,
+            "color-background": "#e0dedb",
+            "margin-top": 0,
+            "margin-bottom": 0
+          }
+        },
+        "1c9b0bb2-fe62-4649-9439-76836162d773": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "How to use",
+            "content": "<ol><li>Open the safety lid and gently pull out a wipe.</li><li>Clean the desired area using soft, sweeping motions.</li><li>Use additional wipes if needed for thorough cleaning.</li><li>Close the lid tightly after each use to keep wipes fresh and hydrated.</li><li>Dispose of the used wipe in household waste, do not flush.</li></ol>",
+            "metafield_variables": "",
+            "page": "",
+            "icon": "question_mark"
+          }
+        },
+        "2ce0b4b1-3440-40cd-92c2-15d46e61dfca": {
+          "type": "separator",
+          "settings": {
+            "show-separator-line": true,
+            "color-background": "#e0dedb",
+            "margin-top": 0,
+            "margin-bottom": 0
+          }
+        },
+        "5fed6e0f-fb7e-4874-8ba9-3321623fc828": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Ingredients ",
+            "content": "<ul><li>Absorbent core made with premium Japanese materials for superior dryness.</li><li>100% FSC-certified natural wood pulp from the USA.</li><li>Soft tissue layers for extra comfort and absorption.</li><li>Breathable backsheet made from biodegradable bamboo fibre.</li><li>Gentle leg cuffs made from biodegradable bamboo fibre (not bamboo viscose).</li><li>Leak-proof layer made from eco-friendly corn starch.</li><li>Front tape made from baby-safe, food-grade material.</li><li>Soft topsheet made from food-grade material.</li><li>Wetness indicator made from 100% plant-based materials.</li><li>Printed with non-toxic, food-grade inks.</li><li>Recyclable kraft paper packaging with rice-based materials.</li></ul>",
+            "metafield_variables": "",
+            "page": "",
+            "icon": "leaf"
+          }
+        },
+        "78809992-2318-4893-9402-6cfd49f50b6a": {
+          "type": "separator",
+          "settings": {
+            "show-separator-line": true,
+            "color-background": "#e0dedb",
+            "margin-top": 0,
+            "margin-bottom": 0
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "text_aDHKCn",
+        "rating",
+        "feature_tags_44iTGm",
+        "separator_Qt7zAY",
+        "price",
+        "variant_picker",
+        "bold_subscriptions_bsub_widget_block_9jTtfA",
+        "buy_buttons",
+        "promo_67ttgj",
+        "payments_badge_EFynmG",
+        "separator_DwMham",
+        "e23830b4-3ca6-452f-a7d1-cb245a3e9282",
+        "00841757-ace4-48f5-8edb-08c8c579a24f",
+        "description",
+        "a8e9c281-a34c-4fe4-94a1-ea9a3880dc33",
+        "1c9b0bb2-fe62-4649-9439-76836162d773",
+        "2ce0b4b1-3440-40cd-92c2-15d46e61dfca",
+        "5fed6e0f-fb7e-4874-8ba9-3321623fc828",
+        "78809992-2318-4893-9402-6cfd49f50b6a"
+      ],
+      "settings": {
+        "enable_sticky_buy_button": true,
+        "full-width-enabled": false,
+        "desktop-media-size": "normal",
+        "desktop-layout": "carousel-vertical",
+        "desktop-image-ratio": "square",
+        "enable_video_looping": false,
+        "enable-preselected-variant": true,
+        "enable-image-zoom": true,
+        "mobile-image": "small",
+        "text_color": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 4,
+        "margin-bottom": 28
+      }
+    },
+    "image_with_text_WxXpEB": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_WcihaF": {
+          "type": "heading",
+          "settings": {
+            "heading": "Your Daily Routine",
+            "disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 100
+          }
+        },
+        "text_gYtHLC": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Discover products for daily care.</p>",
+            "text_style": "body",
+            "disable_on_mobile": false
+          }
+        },
+        "button_KUwMHB": {
+          "type": "button",
+          "settings": {
+            "button_select": "primary",
+            "button_label": "Check now",
+            "button_link": "/",
+            "disable_on_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_WcihaF",
+        "text_gYtHLC",
+        "button_KUwMHB"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "layout": "image_first",
+        "desktop-percentage-image-width": 50,
+        "full-width-enabled": true,
+        "slide_height": "adapt_to_first_image",
+        "desktop_fixed_height": 320,
+        "mobile_fixed_height": 460,
+        "section-color-body-text": "rgba(0,0,0,0)",
+        "section-color-overlay": "rgba(0,0,0,0)",
+        "section-color-overlay-opacity": 100,
+        "color-body-text": "rgba(0,0,0,0)",
+        "color-overlay": "#e5f8f8",
+        "color-overlay-opacity": 100,
+        "desktop_text_vertical_position": "center",
+        "desktop_text_horizontal_position": "center",
+        "mobile_text_horizontal_position": "center",
+        "margin-top": 0,
+        "margin-bottom": 60
+      }
+    },
+    "testimonial_video_reels_M3AHHV": {
+      "type": "testimonial-video-reels",
+      "blocks": {
+        "video_UEGXMT": {
+          "type": "video",
+          "settings": {
+            "rating": "5",
+            "testimonial": "<p>\"This is exactly what I needed. It exceeded my expectations in every way.\"</p>",
+            "author": "John Doe"
+          }
+        },
+        "video_B6zT8k": {
+          "type": "video",
+          "settings": {
+            "rating": "4.5",
+            "testimonial": "<p>\"This is exactly what I needed. It exceeded my expectations in every way.\"</p>",
+            "author": "John Doe"
+          }
+        },
+        "video_JKNHDw": {
+          "type": "video",
+          "settings": {
+            "rating": "4.5",
+            "testimonial": "<p>\"This is exactly what I needed. It exceeded my expectations in every way.\"</p>",
+            "author": "John Doe"
+          }
+        },
+        "video_ULW8tC": {
+          "type": "video",
+          "settings": {
+            "rating": "4.5",
+            "testimonial": "<p>\"This is exactly what I needed. It exceeded my expectations in every way.\"</p>",
+            "author": "John Doe"
+          }
+        },
+        "video_BciqjV": {
+          "type": "video",
+          "settings": {
+            "rating": "4.5",
+            "testimonial": "<p>\"This is exactly what I needed. It exceeded my expectations in every way.\"</p>",
+            "author": "John Doe"
+          }
+        }
+      },
+      "block_order": [
+        "video_UEGXMT",
+        "video_B6zT8k",
+        "video_JKNHDw",
+        "video_ULW8tC",
+        "video_BciqjV"
+      ],
+      "name": "t:sections.testimonial-video-reels.name",
+      "settings": {
+        "heading": "Testimonial video reels",
+        "video_button": false,
+        "text_alignment": "center",
+        "text_style": "body",
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 20,
+        "margin-bottom": 20
+      }
+    },
+    "image_with_text_YWV7tF": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_R8bJRV": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Tell you story",
+            "subheading_disable_on_mobile": false
+          }
+        },
+        "heading_9P7pqC": {
+          "type": "heading",
+          "settings": {
+            "heading": "100% BIODEGRADABLE WIPES",
+            "disable_on_mobile": false,
+            "size_heading": 100,
+            "size_heading_mobile": 100
+          }
+        },
+        "text_daer8X": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Every time you use TERRA wipes, you will feel proud that you’re helping the environment, as TERRA wipes are 100% biodegradable and packaged in recycled plastic.</p>",
+            "text_style": "body",
+            "disable_on_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "subheading_R8bJRV",
+        "heading_9P7pqC",
+        "text_daer8X"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "title": "",
+        "layout": "image_first",
+        "desktop-percentage-image-width": 49,
+        "full-width-enabled": false,
+        "slide_height": "adapt_to_first_image",
+        "desktop_fixed_height": 200,
+        "mobile_fixed_height": 460,
+        "section-color-body-text": "rgba(0,0,0,0)",
+        "section-color-overlay": "rgba(0,0,0,0)",
+        "section-color-overlay-opacity": 100,
+        "color-body-text": "rgba(0,0,0,0)",
+        "color-overlay": "rgba(0,0,0,0)",
+        "color-overlay-opacity": 100,
+        "desktop_image": "shopify://shop_images/Mask_Group_7.webp",
+        "desktop_text_vertical_position": "center",
+        "desktop_text_horizontal_position": "center",
+        "mobile_text_horizontal_position": "center",
+        "margin-top": 20,
+        "margin-bottom": 20
+      }
+    },
+    "featured_collection_FyQqrL": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "You May Also Like",
+        "disable_on_mobile": false,
+        "hide_empty_section": false,
+        "collection": "baby-care",
+        "product_list": [],
+        "products_to_show": 4,
+        "enable_stack_products": false,
+        "show_view_all": true,
+        "button_select": "primary",
+        "number_of_column_desktop": 4,
+        "spacing_desktop": "16",
+        "make_products_full_width": true,
+        "number_of_column_mobile": 2.1,
+        "spacing_mobile": "16",
+        "text_alignment": "left",
+        "image_ratio": "square",
+        "show_video": false,
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_product_rating": true,
+        "enable_quick_add_button": false,
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 20,
+        "margin-bottom": 20
+      }
+    },
+    "read_more_faqs_baHMnL": {
+      "type": "read-more-faqs",
+      "blocks": {
+        "collapsible_tab_kyF7Yx": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Are TERRA Dry Baby Wipes safe for newborns?",
+            "content": "<p>Yes, they are made from 100% natural bamboo fibre and contain no chemicals, dyes, or preservatives, making them suitable for newborn and sensitive skin.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_DaCC8J": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Do the Terra wipes contain any fragrance or lotion?",
+            "content": "<p>No, these are completely dry wipes with no added fragrance, lotion, or synthetic ingredients.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_BXxiia": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "How can I use Terra dry baby wipes?",
+            "content": "<p>They can be used as-is for gentle cleansing or paired with water for a soft, soothing wipe. They are also ideal for multipurpose household and personal care needs.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_eddbGh": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Are TERRA Dry Baby Wipes biodegradable?",
+            "content": "<p>Yes, they are crafted from 100% biodegradable bamboo fibre, making them eco-friendly and sustainable.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_cYcAmD": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Are the Terra wipes thick and absorbent?",
+            "content": "<p>Yes, the wipes are ultra-soft, thick, and highly absorbent, designed for effective cleaning without irritating delicate skin.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_TzAcPw": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Can I flush Terra wipes?",
+            "content": "<p>No, these wipes should not be flushed. Dispose of them with household waste.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_tab_kyF7Yx",
+        "collapsible_tab_DaCC8J",
+        "collapsible_tab_BXxiia",
+        "collapsible_tab_eddbGh",
+        "collapsible_tab_cYcAmD",
+        "collapsible_tab_TzAcPw"
+      ],
+      "name": "Read More Faqs",
+      "settings": {
+        "heading_faq": "Frequently Asked Questions",
+        "subheading_faq": "Explore answers to the most common questions about Terra Wipes, crafted to give you clarity and confidence.",
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "compact-size-enabled": true,
+        "margin-top": 48,
+        "margin-bottom": 48
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs",
+    "main",
+    "image_with_text_WxXpEB",
+    "testimonial_video_reels_M3AHHV",
+    "image_with_text_YWV7tF",
+    "featured_collection_FyQqrL",
+    "read_more_faqs_baHMnL"
+  ]
+}
