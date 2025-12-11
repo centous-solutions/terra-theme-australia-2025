@@ -364,6 +364,7 @@
       "name": "t:sections.shoppable-image.settings.presets.name",
       "settings": {
         "heading": "",
+        "desktop_image": "shopify://shop_images/pet-scene-5_1.jpg",
         "full-width-enabled": true,
         "show_vendor": true,
         "color-body-text": "rgba(0,0,0,0)",
