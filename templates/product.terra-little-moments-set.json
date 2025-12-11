@@ -1,1 +1,923 @@
-{"sections":{"breadcrumbs":{"type":"main-breadcrumbs","settings":{"full-width-enabled":true,"text_color":"#ffffff","background_color":"#036242","margin-top":12,"margin-bottom":12}},"main":{"type":"main-product","blocks":{"title":{"type":"title","settings":{"brand":"","size_text":180,"size_text_mobile":160}},"text_7fqhaD":{"type":"text","settings":{"heading":"","content":"<p>The <strong>Terra Little Moments Set<\/strong> is thoughtfully curated for your child's everyday needs, offering gentle care, safe protection, and effortless cleanliness. With wipes for delicate eyes, toys, and outdoor adventures, paired with the Verdant Sage Terra Essence Pouch, this set supports every precious moment with purity, comfort, and calm confidence.<\/p>","page":""}},"rating":{"type":"rating","settings":{}},"feature_tags_44iTGm":{"type":"feature_tags","settings":{"metafield":"custom.feature_tags","limit":4,"text_color":"rgba(0,0,0,0)","border_color":"rgba(0,0,0,0)"}},"separator_Qt7zAY":{"type":"separator","settings":{"show-separator-line":false,"color-background":"#000000","margin-top":8,"margin-bottom":8}},"price":{"type":"price","settings":{"show_tax_included":true,"show_shipping_policy":true,"size_text":140,"size_text_mobile":140}},"variant_picker":{"type":"variant_picker","settings":{"picker_type":"button","color_swatch_names":"","variant_picture_swatch_names":"","thumb_size":60,"radius":"default","border_radius":1,"dropdown_swatch_names":"","margin-top":8,"margin-bottom":8}},"bold_subscriptions_bsub_widget_block_PAwCLA":{"type":"shopify:\/\/apps\/bold-subscriptions\/blocks\/bsub-widget-block\/9ceb49f0-5fe5-4b5e-943d-f8af8985167d","settings":{"default_subscribe":true,"primary_color":"","secondary_color":"#5433eb","background_color":"","border_radius":4,"header_text":"Purchase Options","one_time_text":"One-time Purchase","recurring_text":"Subscribe and Save","prepaid_recurring_text":"Prepaid Subscribe and Save","discount_summary_text":"(Save {discount})","discount_summary_plural_text":"(Save up to {discount})","frequency_header":"Delivery Frequency","frequency_text":"delivery","prepaid_checkbox_label_text":"Prepay for subscription","billing_frequency_header":"Billing Frequency","billing_frequency_text":"{count} Orders","delivery_frequency_discount_text":"({discount} off {regular_price})","billing_frequency_discount_text":"({discount} off {regular_price})","prepaid_total_text":"Billed {price} today","prepaid_continue_as_prepaid_text":"Prepaid order will auto-renew after {count} orders","prepaid_continue_as_standard_text":"Becomes a regular subscription after {count} orders","convertible_header":"Converts to","eligible_for_subscription_header":"Eligible for Subscription","initial_dynamic_discount_text":"Save {initial_percent_discount}% ({initial_fixed_discount})","subsequent_dynamic_discounts_text":"{subsequent_percent_discount}% ({subsequent_fixed_discount}) after {order_count} order(s)"}},"buy_buttons":{"type":"buy_buttons","settings":{"show_dynamic_checkout":false,"show_gift_card_recipient":true,"show_qty_selector":true,"text_color":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)"}},"promo_67ttgj":{"type":"promo","disabled":true,"settings":{"content":"<p>🎟️ Use code \"Beauty\" for 10% OFF!<\/p>","text_alignment":"center","color-body-text":"#a04848","background_color":"#f6f2ea"}},"payments_badge_EFynmG":{"type":"payments_badge","disabled":true,"settings":{"content":"","desktop_text_horizontal_position":"center","badge_type":"payment_icons","color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)"}},"separator_DwMham":{"type":"separator","settings":{"show-separator-line":false,"color-background":"#000000","margin-top":8,"margin-bottom":8}},"e23830b4-3ca6-452f-a7d1-cb245a3e9282":{"type":"bulletpoints","settings":{"metafield":"custom.features","default_text":""}},"00841757-ace4-48f5-8edb-08c8c579a24f":{"type":"separator","settings":{"show-separator-line":true,"color-background":"#e0dedb","margin-top":0,"margin-bottom":0}},"description":{"type":"description","settings":{"is_open":false,"icon":"chat_bubble"}},"a8e9c281-a34c-4fe4-94a1-ea9a3880dc33":{"type":"separator","settings":{"show-separator-line":true,"color-background":"#e0dedb","margin-top":0,"margin-bottom":0}},"2ce0b4b1-3440-40cd-92c2-15d46e61dfca":{"type":"separator","settings":{"show-separator-line":true,"color-background":"#e0dedb","margin-top":0,"margin-bottom":0}},"5fed6e0f-fb7e-4874-8ba9-3321623fc828":{"type":"collapsible_tab","settings":{"heading":"Ingredients ","content":"<p><strong>Baby Eye Wipes -<br\/><\/strong>Aqua (Water), Sodium Chloride, Glycerin, Caprylyl Glycol, Levulinic Acid, Sodium Levulinate.<\/p><p><strong>Kids Toy Cleaning Wipes -<br\/><\/strong>Aqua (Water), Citric Acid, Sodium Citrate, Glycerin, Sodium Bicarbonate, Benzalkonium Chloride, Maris Sal (Sea Salt), Caprylyl Glycol, Levulinic Acid, Sodium Levulinate.<\/p><p><strong>Kids Insect Repellent Wipes -<br\/><\/strong>Aqua (Water), Cymbopogon Nardus (Citronella) Oil, Sorbitan Oleate Decylglucoside Crosspolymer, Glycerin, Caprylyl Glycol, Cymbopogon Citratus (Lemongrass) Oil, Levulinic Acid, Sodium Levulinate, Aloe Barbadensis Leaf Extract, Eugenia Caryophyllus (Clove) Oil, Sweet Almond Oil, Vanilla Fruit Oil.<\/p>","metafield_variables":"","page":"","icon":"leaf"}},"78809992-2318-4893-9402-6cfd49f50b6a":{"type":"separator","settings":{"show-separator-line":true,"color-background":"#e0dedb","margin-top":0,"margin-bottom":0}},"collapsible_tab_DfwThn":{"type":"collapsible_tab","settings":{"heading":"What’s Inside","content":"<ul><li><strong>Baby Eye Wipes (30s) ×1<\/strong><\/li><li><strong>Kids Insect Repellent Wipes (30s) ×1<\/strong><\/li><li><strong>Kids Toy Cleaning Wipes (30s) ×1<\/strong><\/li><li><strong>Terra Essence Pouch - Verdant Sage ×1<\/strong><\/li><\/ul>","metafield_variables":"","page":"","icon":"box"}}},"block_order":["title","text_7fqhaD","rating","feature_tags_44iTGm","separator_Qt7zAY","price","variant_picker","bold_subscriptions_bsub_widget_block_PAwCLA","buy_buttons","promo_67ttgj","payments_badge_EFynmG","separator_DwMham","e23830b4-3ca6-452f-a7d1-cb245a3e9282","00841757-ace4-48f5-8edb-08c8c579a24f","description","a8e9c281-a34c-4fe4-94a1-ea9a3880dc33","2ce0b4b1-3440-40cd-92c2-15d46e61dfca","5fed6e0f-fb7e-4874-8ba9-3321623fc828","78809992-2318-4893-9402-6cfd49f50b6a","collapsible_tab_DfwThn"],"settings":{"enable_sticky_buy_button":true,"full-width-enabled":false,"desktop-media-size":"normal","desktop-layout":"carousel-vertical","desktop-image-ratio":"square","enable_video_looping":false,"enable-preselected-variant":true,"enable-image-zoom":true,"mobile-image":"small","text_color":"#ffffff","background_color":"#036242","margin-top":4,"margin-bottom":32}},"benefits_product_qcrgbE":{"type":"benefits-product","blocks":{"benefit_B8mXdQ":{"type":"benefit","settings":{"item_heading":"Soothes & Protects Sensitive Eyes","text":"<p>Baby Eye Wipes hydrate gently without irritation.<\/p>"}},"benefit_37L8PP":{"type":"benefit","settings":{"item_heading":"Keeps Playtime Cleaner","text":"<p>Toy Cleaning Wipes remove dirt, grime, and sticky messes easily.<\/p>"}},"benefit_8Ttr4K":{"type":"benefit","settings":{"item_heading":"Safe Outdoor Shield","text":"<p>Insect Repellent Wipes help protect little ones with natural oils.<\/p>"}},"benefit_c8BR3k":{"type":"benefit","settings":{"item_heading":"Soft on Skin, Strong on Care","text":"<p>Formulated with gentle ingredients suitable for daily use.<\/p>"}},"benefit_baeMqb":{"type":"benefit","settings":{"item_heading":"Travel-Friendly Essentials","text":"<p>Lightweight and organised for prams, bags, car trips, and on-the-go parenting.<\/p>"}},"benefit_EML6qc":{"type":"benefit","settings":{"item_heading":"A Thoughtful Gift for New Parents","text":"<p>Beautifully packaged and practical for everyday family life.<\/p>"}}},"block_order":["benefit_B8mXdQ","benefit_37L8PP","benefit_8Ttr4K","benefit_c8BR3k","benefit_baeMqb","benefit_EML6qc"],"disabled":true,"name":"t:sections.benefits_product.name","settings":{"heading":"","full-width-enabled":false,"mobile_image":"shopify:\/\/shop_images\/little_moments_set.gif","desktop_image":"shopify:\/\/shop_images\/little_moments_set.gif","desktop_width":37,"desktop_max_width":1600,"button_label":"","button_link":"","quick_buy_product":"","button_select":"primary","size_heading":130,"size_heading_mobile":100,"color-body-heading":"rgba(0,0,0,0)","color-overlay":"#036242","color-overlay-opacity":100,"color-body-text":"#ffffff","margin-top":24,"margin-bottom":84}},"image_with_text_WxXpEB":{"type":"image-with-text","blocks":{"heading_WcihaF":{"type":"heading","settings":{"heading":"Cradled in purity, wrapped in care. Delicate protection for tender skin, thoughtfully designed to nurture every precious moment.","disable_on_mobile":false,"size_heading":100,"size_heading_mobile":80}}},"block_order":["heading_WcihaF"],"settings":{"title":"","layout":"text_first","desktop-percentage-image-width":43,"full-width-enabled":true,"slide_height":"adapt_to_first_image","desktop_fixed_height":320,"mobile_fixed_height":460,"section-color-body-text":"rgba(0,0,0,0)","section-color-overlay":"rgba(0,0,0,0)","section-color-overlay-opacity":100,"color-body-text":"#ffffff","color-overlay":"#036242","color-overlay-opacity":100,"desktop_image":"shopify:\/\/shop_images\/kids-set-inside.jpg","desktop_text_vertical_position":"center","desktop_text_horizontal_position":"center","mobile_text_horizontal_position":"center","margin-top":0,"margin-bottom":20}},"features_banner_CH6Hxw":{"type":"features-banner","blocks":{"image_irCfBb":{"type":"image","settings":{"desktop_image":"shopify:\/\/shop_images\/icon-distributor-1.png","select_icon":"bag","heading":"100% Plant-Based Ingredients","text":"<p><em>Pure, biodegradable wipes - created by nature, returned to nature.<\/em><\/p>","link":""}},"image_LQfLW9":{"type":"image","settings":{"desktop_image":"shopify:\/\/shop_images\/icon-everyday-2.png","select_icon":"bag","heading":"Pocket-Sized Rescue","text":"<p><em>Card-sized sachets made for life in motion - freshness that fits right in your pocket.<\/em><\/p>","link":""}},"image_amTdPe":{"type":"image","settings":{"desktop_image":"shopify:\/\/shop_images\/icon-everyday-4.png","select_icon":"bag","heading":"Anywhere, Anytime Care","text":"<p><em>Wherever you are, one wipe delivers quick freshness - no water, no worry, no pause.<\/em><\/p>","link":""}}},"block_order":["image_irCfBb","image_LQfLW9","image_amTdPe"],"name":"t:sections.features-banner.settings.presets.name","settings":{"heading":"","size_heading_mobile":60,"size_heading":60,"icon_width_mobile":36,"icon_width_desktop":48,"icon_layout":"center","columns_desktop":"3","icon_layout_mobile":"slider","color_body_icon":"rgba(0,0,0,0)","color_background_icon":"rgba(0,0,0,0)","color_body_text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":20,"margin-bottom":32}},"apps_xxbQ7t":{"type":"apps","blocks":{"quinn_shoppable_reel_app_cards_block_QRLJjt":{"type":"shopify:\/\/apps\/quinn-shoppable-reel\/blocks\/app-cards-block\/483fa771-9c4d-49e4-8c0d-0155f4b872d6","settings":{"custom_metaobject_handle":"null","background_color":"#ffffff","margin_desktop":"10px 0px 0px 0px","margin_mobile":"5px 0px 0px 0px","padding_desktop":"10px 10px 10px 10px","padding_mobile":"10px 5px 10px 5px"}}},"block_order":["quinn_shoppable_reel_app_cards_block_QRLJjt"],"settings":{"include_margins":true}},"collage_QXU4Uk":{"type":"collage","blocks":{"image_Ab7JH8":{"type":"image","settings":{"heading":"Designed for the Modern You","heading_disable_on_mobile":false,"size_heading":100,"size_heading_mobile":100,"text":"<p>Smart Pull Box!! Because Today’s You Deserves Smarter Design<\/p>","text_disable_on_mobile":false,"button_select":"primary","button_label":"","button_disable_on_mobile":false,"button_link":"","desktop_image":"shopify:\/\/shop_images\/S1_TSI.webp","desktop_text_vertical_position":"bottom","desktop_text_horizontal_position":"left","mobile_text_vertical_position":"top","mobile_text_horizontal_position":"left","color-body-text":"rgba(0,0,0,0)","color-overlay":"rgba(0,0,0,0)","color-overlay-opacity":100}},"image_XKgTdf":{"type":"image","settings":{"heading":"Dual-Textured","heading_disable_on_mobile":false,"size_heading":100,"size_heading_mobile":110,"text":"<p>for the Perfect Clean Every Time<\/p>","text_disable_on_mobile":false,"button_select":"primary","button_label":"","button_disable_on_mobile":false,"button_link":"","desktop_image":"shopify:\/\/shop_images\/ChatGPT_Image_Nov_3_2025_01_17_53_PM.png","desktop_text_vertical_position":"center","desktop_text_horizontal_position":"center","mobile_text_vertical_position":"center","mobile_text_horizontal_position":"center","color-body-text":"rgba(0,0,0,0)","color-overlay":"rgba(0,0,0,0)","color-overlay-opacity":100}},"image_t9qEhX":{"type":"image","settings":{"heading":"Individually Packaged","heading_disable_on_mobile":false,"size_heading":100,"size_heading_mobile":100,"text":"<p>Handy for every move, wherever you go<\/p>","text_disable_on_mobile":false,"button_select":"secondary","button_label":"","button_disable_on_mobile":false,"button_link":"","desktop_image":"shopify:\/\/shop_images\/Untitled_design_18.png","desktop_text_vertical_position":"center","desktop_text_horizontal_position":"center","mobile_text_vertical_position":"center","mobile_text_horizontal_position":"center","color-body-text":"rgba(0,0,0,0)","color-overlay":"rgba(0,0,0,0)","color-overlay-opacity":0}}},"block_order":["image_Ab7JH8","image_XKgTdf","image_t9qEhX"],"disabled":true,"name":"t:sections.collage.settings.presets.name","settings":{"heading":"","full-width-enabled":false,"desktop_layout":"row","color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":20,"margin-bottom":20}},"rich_text_UwJYhb":{"type":"rich-text","blocks":{"heading_HUrfHU":{"type":"heading","settings":{"heading":"Pure ingredients. Proven care","disable_on_mobile":false,"size_heading":100,"size_heading_mobile":100}},"text_WLx6W7":{"type":"text","settings":{"text":"<p>Every Terra wipe is crafted with care and tested to meet highest international standards, delivering consistent quality, uncompromising safety, and gentle care you can trust.<\/p>","disable_on_mobile":false}}},"block_order":["heading_HUrfHU","text_WLx6W7"],"name":"t:sections.rich-text.presets.name","settings":{"section_width":"regular","desktop_text_horizontal_position":"center","padding_settings":true,"color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":0,"margin-bottom":0}},"brands_Af367K":{"type":"brands","blocks":{"image_rMm69R":{"type":"image","settings":{"desktop_image":"shopify:\/\/shop_images\/Group_46.png","link":""}},"image_QXBK7e":{"type":"image","settings":{"desktop_image":"shopify:\/\/shop_images\/Group_51.png","link":""}},"image_EQJEjn":{"type":"image","settings":{"desktop_image":"shopify:\/\/shop_images\/Group_50.png","link":""}},"image_HRHMLn":{"type":"image","settings":{"desktop_image":"shopify:\/\/shop_images\/Group_453.png","link":""}},"image_x6x6en":{"type":"image","settings":{"desktop_image":"shopify:\/\/shop_images\/Group_47.png","link":""}}},"block_order":["image_rMm69R","image_QXBK7e","image_EQJEjn","image_HRHMLn","image_x6x6en"],"name":"t:sections.brands.settings.presets.name","settings":{"heading":"","animation":"swipe","animation_speed":"100","color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":0,"margin-bottom":0}},"image_banner_79GmEt":{"type":"image-banner","blocks":{"heading_NmRNwm":{"type":"heading","settings":{"heading":"CRADLED IN PURITY, WRAPPED IN CARE.","disable_on_mobile":false,"size_heading":120,"size_heading_mobile":120}}},"block_order":["heading_NmRNwm"],"name":"t:sections.image-banner.presets.name","settings":{"heading":"","full-width-enabled":true,"slide_height":"fixed_height","desktop_fixed_height":540,"mobile_fixed_height":280,"desktop_image":"shopify:\/\/shop_images\/banner-gift-kids.jpg","desktop_text_vertical_position":"center","desktop_text_horizontal_position":"center","mobile_text_vertical_position":"center","mobile_text_horizontal_position":"center","color-heading":"#ffffff","section-color-overlay":"rgba(0,0,0,0)","section-color-overlay-opacity":100,"color-body-text":"#ffffff","text-container-color":"rgba(0,0,0,0)","color-overlay-opacity":100,"margin-top":0,"margin-bottom":0}},"featured_collection_7bazQq":{"type":"featured-collection","name":"t:sections.featured-collection.presets.name","settings":{"title":"","disable_on_mobile":false,"hide_empty_section":false,"collection":"kids-care","product_list":[],"products_to_show":4,"enable_stack_products":false,"show_view_all":false,"button_select":"primary","number_of_column_desktop":4,"spacing_desktop":"16","make_products_full_width":true,"number_of_column_mobile":2.1,"spacing_mobile":"16","text_alignment":"left","image_ratio":"square","show_video":false,"show_secondary_image":true,"show_vendor":false,"show_product_rating":true,"enable_quick_add_button":false,"color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":20,"margin-bottom":20}},"apps_zaNMW7":{"type":"apps","blocks":{"judge_me_reviews_testimonials_carousel_product_NyKzNW":{"type":"shopify:\/\/apps\/judge-me-reviews\/blocks\/testimonials_carousel_product\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8","settings":{"show_sample_reviews":true,"reviews_selection":"all","products":["terra-little-moments-set"],"star_rating":"all","max_reviews":20,"quote_marks_size":"small","product_name_text_size":"small","verified_badge_style":"icon","card_height":"medium","text_size":"small","stars_size":"medium","arrows_position":"bottom","max_width":1100,"corner_styling":"soft","quote_marks_style":"serif","card_color":"#ffffff","stars_and_quote_marks_color":"#108474","text_color":"#000000","arrows_color":"#000000","show_border":false,"border_color":"#108474","show_drop_shadow":false,"transition_speed":5,"header_text":"Customers are saying","show_average_rating":true}}},"block_order":["judge_me_reviews_testimonials_carousel_product_NyKzNW"],"settings":{"include_margins":true}},"rich_text_kECCxF":{"type":"rich-text","blocks":{"heading_m7K4YM":{"type":"heading","settings":{"heading":"Frequently Asked Questions","disable_on_mobile":false,"size_heading":100,"size_heading_mobile":100}},"text_gYj7kL":{"type":"text","settings":{"text":"<p>Explore answers to the most common questions about the Terra Little Moments Set, crafted to give you clarity and confidence.<\/p>","disable_on_mobile":false}}},"block_order":["heading_m7K4YM","text_gYj7kL"],"disabled":true,"name":"t:sections.rich-text.presets.name","settings":{"section_width":"regular","desktop_text_horizontal_position":"center","padding_settings":true,"color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":0,"margin-bottom":0}},"read_more_faqs_QLiY4W":{"type":"read-more-faqs","blocks":{"collapsible_tab_3iD8dj":{"type":"collapsible_tab","settings":{"heading":"Is this set safe for newborns and infants?","content":"<p>Yes, the Baby Eye Wipes are fragrance-free and remarkably gentle, suitable for newborns and sensitive skin. Other wipes are designed for toddlers and young children under supervision.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_MwTykt":{"type":"collapsible_tab","settings":{"heading":"Are the insect repellent wipes safe for kids' skin?","content":"<p>They use natural oils like citronella and lemongrass, making them gentle and effective. Avoid applying to infants under 6 months unless advised by a doctor.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_TiQrtQ":{"type":"collapsible_tab","settings":{"heading":"Can the Toy Cleaning Wipes be used on all toys?","content":"<p>Yes, plastic, rubber, silicone, and most hard surfaces. They're great for quick cleaning after playdates, outings, or meals.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_KBbBrQ":{"type":"collapsible_tab","settings":{"heading":"Do the wipes contain artificial fragrances?","content":"<p>No, Baby Eye Wipes are completely fragrance-free. Toy Cleaning Wipes and Insect Repellent Wipes use only natural scent components from botanicals.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_wRzRpU":{"type":"collapsible_tab","settings":{"heading":"Are these wipes travel-friendly?","content":"<p>Absolutely, they're compact and light, designed for diaper bags, backpacks, prams, or car compartments.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_DLYaDq":{"type":"collapsible_tab","settings":{"heading":"How often can I use the Baby Eye Wipes?","content":"<p>They are gentle enough for multiple daily uses, especially during teething, colds, or allergy seasons.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_WK46n7":{"type":"collapsible_tab","settings":{"heading":"Will the insect repellent wipes leave a sticky residue?","content":"<p>No, they absorb quickly and leave skin feeling comfortable, not greasy or sticky.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_TDrMJG":{"type":"collapsible_tab","settings":{"heading":"Are the Toy Cleaning Wipes food-safe?","content":"<p>They are safe for cleaning surfaces and toys, but should not be used directly on food. Allow toys to air dry before children handle them.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_jqE9JN":{"type":"collapsible_tab","settings":{"heading":"Is the Terra Essence Pouch washable?","content":"<p>Yes, hand wash gently and air dry to maintain its structure and finish.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_c6bzMc":{"type":"collapsible_tab","settings":{"heading":"Is this set good for gifting?","content":"<p>Definitely, it's a nurturing, practical, and beautifully presented gift, perfect for new parents, baby showers, birthdays, or thoughtful care packages.<\/p>","page":"","icon":"check_mark"}}},"block_order":["collapsible_tab_3iD8dj","collapsible_tab_MwTykt","collapsible_tab_TiQrtQ","collapsible_tab_KBbBrQ","collapsible_tab_wRzRpU","collapsible_tab_DLYaDq","collapsible_tab_WK46n7","collapsible_tab_TDrMJG","collapsible_tab_jqE9JN","collapsible_tab_c6bzMc"],"name":"Read More Faqs","settings":{"heading_faq":"Frequently Asked Questions","subheading_faq":"Explore answers to the most common questions about the Terra Little Moments Set, crafted to give you clarity and confidence.","color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","compact-size-enabled":true,"margin-top":20,"margin-bottom":20}}},"order":["breadcrumbs","main","benefits_product_qcrgbE","image_with_text_WxXpEB","features_banner_CH6Hxw","apps_xxbQ7t","collage_QXU4Uk","rich_text_UwJYhb","brands_Af367K","image_banner_79GmEt","featured_collection_7bazQq","apps_zaNMW7","rich_text_kECCxF","read_more_faqs_QLiY4W"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "breadcrumbs": {
+      "type": "main-breadcrumbs",
+      "settings": {
+        "full-width-enabled": true,
+        "text_color": "#ffffff",
+        "background_color": "#036242",
+        "margin-top": 12,
+        "margin-bottom": 12
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "brand": "",
+            "size_text": 180,
+            "size_text_mobile": 160
+          }
+        },
+        "text_7fqhaD": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "content": "<p>The <strong>Terra Little Moments Set</strong> is thoughtfully curated for your child's everyday needs, offering gentle care, safe protection, and effortless cleanliness. With wipes for delicate eyes, toys, and outdoor adventures, paired with the Verdant Sage Terra Essence Pouch, this set supports every precious moment with purity, comfort, and calm confidence.</p>",
+            "page": ""
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {}
+        },
+        "feature_tags_44iTGm": {
+          "type": "feature_tags",
+          "settings": {
+            "metafield": "custom.feature_tags",
+            "limit": 4,
+            "text_color": "rgba(0,0,0,0)",
+            "border_color": "rgba(0,0,0,0)"
+          }
+        },
+        "separator_Qt7zAY": {
+          "type": "separator",
+          "settings": {
+            "show-separator-line": false,
+            "color-background": "#000000",
+            "margin-top": 8,
+            "margin-bottom": 8
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_included": true,
+            "show_shipping_policy": true,
+            "size_text": 140,
+            "size_text_mobile": 140
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "color_swatch_names": "",
+            "variant_picture_swatch_names": "",
+            "thumb_size": 60,
+            "radius": "default",
+            "border_radius": 1,
+            "dropdown_swatch_names": "",
+            "margin-top": 8,
+            "margin-bottom": 8
+          }
+        },
+        "bold_subscriptions_bsub_widget_block_PAwCLA": {
+          "type": "shopify://apps/bold-subscriptions/blocks/bsub-widget-block/9ceb49f0-5fe5-4b5e-943d-f8af8985167d",
+          "settings": {
+            "default_subscribe": true,
+            "primary_color": "",
+            "secondary_color": "#5433eb",
+            "background_color": "",
+            "border_radius": 4,
+            "header_text": "Purchase Options",
+            "one_time_text": "One-time Purchase",
+            "recurring_text": "Subscribe and Save",
+            "prepaid_recurring_text": "Prepaid Subscribe and Save",
+            "discount_summary_text": "(Save {discount})",
+            "discount_summary_plural_text": "(Save up to {discount})",
+            "frequency_header": "Delivery Frequency",
+            "frequency_text": "delivery",
+            "prepaid_checkbox_label_text": "Prepay for subscription",
+            "billing_frequency_header": "Billing Frequency",
+            "billing_frequency_text": "{count} Orders",
+            "delivery_frequency_discount_text": "({discount} off {regular_price})",
+            "billing_frequency_discount_text": "({discount} off {regular_price})",
+            "prepaid_total_text": "Billed {price} today",
+            "prepaid_continue_as_prepaid_text": "Prepaid order will auto-renew after {count} orders",
+            "prepaid_continue_as_standard_text": "Becomes a regular subscription after {count} orders",
+            "convertible_header": "Converts to",
+            "eligible_for_subscription_header": "Eligible for Subscription",
+            "initial_dynamic_discount_text": "Save {initial_percent_discount}% ({initial_fixed_discount})",
+            "subsequent_dynamic_discounts_text": "{subsequent_percent_discount}% ({subsequent_fixed_discount}) after {order_count} order(s)"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true,
+            "show_qty_selector": true,
+            "text_color": "rgba(0,0,0,0)",
+            "background_color": "rgba(0,0,0,0)"
+          }
+        },
+        "promo_67ttgj": {
+          "type": "promo",
+          "disabled": true,
+          "settings": {
+            "content": "<p>🎟️ Use code \"Beauty\" for 10% OFF!</p>",
+            "text_alignment": "center",
+            "color-body-text": "#a04848",
+            "background_color": "#f6f2ea"
+          }
+        },
+        "payments_badge_EFynmG": {
+          "type": "payments_badge",
+          "disabled": true,
+          "settings": {
+            "content": "",
+            "desktop_text_horizontal_position": "center",
+            "badge_type": "payment_icons",
+            "color-body-text": "rgba(0,0,0,0)",
+            "background_color": "rgba(0,0,0,0)"
+          }
+        },
+        "separator_DwMham": {
+          "type": "separator",
+          "settings": {
+            "show-separator-line": false,
+            "color-background": "#000000",
+            "margin-top": 8,
+            "margin-bottom": 8
+          }
+        },
+        "e23830b4-3ca6-452f-a7d1-cb245a3e9282": {
+          "type": "bulletpoints",
+          "settings": {
+            "metafield": "custom.features",
+            "default_text": ""
+          }
+        },
+        "00841757-ace4-48f5-8edb-08c8c579a24f": {
+          "type": "separator",
+          "settings": {
+            "show-separator-line": true,
+            "color-background": "#e0dedb",
+            "margin-top": 0,
+            "margin-bottom": 0
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_open": false,
+            "icon": "chat_bubble"
+          }
+        },
+        "a8e9c281-a34c-4fe4-94a1-ea9a3880dc33": {
+          "type": "separator",
+          "settings": {
+            "show-separator-line": true,
+            "color-background": "#e0dedb",
+            "margin-top": 0,
+            "margin-bottom": 0
+          }
+        },
+        "2ce0b4b1-3440-40cd-92c2-15d46e61dfca": {
+          "type": "separator",
+          "settings": {
+            "show-separator-line": true,
+            "color-background": "#e0dedb",
+            "margin-top": 0,
+            "margin-bottom": 0
+          }
+        },
+        "5fed6e0f-fb7e-4874-8ba9-3321623fc828": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Ingredients ",
+            "content": "<p><strong>Baby Eye Wipes -<br/></strong>Aqua (Water), Sodium Chloride, Glycerin, Caprylyl Glycol, Levulinic Acid, Sodium Levulinate.</p><p><strong>Kids Toy Cleaning Wipes -<br/></strong>Aqua (Water), Citric Acid, Sodium Citrate, Glycerin, Sodium Bicarbonate, Benzalkonium Chloride, Maris Sal (Sea Salt), Caprylyl Glycol, Levulinic Acid, Sodium Levulinate.</p><p><strong>Kids Insect Repellent Wipes -<br/></strong>Aqua (Water), Cymbopogon Nardus (Citronella) Oil, Sorbitan Oleate Decylglucoside Crosspolymer, Glycerin, Caprylyl Glycol, Cymbopogon Citratus (Lemongrass) Oil, Levulinic Acid, Sodium Levulinate, Aloe Barbadensis Leaf Extract, Eugenia Caryophyllus (Clove) Oil, Sweet Almond Oil, Vanilla Fruit Oil.</p>",
+            "metafield_variables": "",
+            "page": "",
+            "icon": "leaf"
+          }
+        },
+        "78809992-2318-4893-9402-6cfd49f50b6a": {
+          "type": "separator",
+          "settings": {
+            "show-separator-line": true,
+            "color-background": "#e0dedb",
+            "margin-top": 0,
+            "margin-bottom": 0
+          }
+        },
+        "collapsible_tab_DfwThn": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "What’s Inside",
+            "content": "<ul><li><strong>Baby Eye Wipes (30s) ×1</strong></li><li><strong>Kids Insect Repellent Wipes (30s) ×1</strong></li><li><strong>Kids Toy Cleaning Wipes (30s) ×1</strong></li><li><strong>Terra Essence Pouch - Verdant Sage ×1</strong></li></ul>",
+            "metafield_variables": "",
+            "page": "",
+            "icon": "box"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "text_7fqhaD",
+        "rating",
+        "feature_tags_44iTGm",
+        "separator_Qt7zAY",
+        "price",
+        "variant_picker",
+        "bold_subscriptions_bsub_widget_block_PAwCLA",
+        "buy_buttons",
+        "promo_67ttgj",
+        "payments_badge_EFynmG",
+        "separator_DwMham",
+        "e23830b4-3ca6-452f-a7d1-cb245a3e9282",
+        "00841757-ace4-48f5-8edb-08c8c579a24f",
+        "description",
+        "a8e9c281-a34c-4fe4-94a1-ea9a3880dc33",
+        "2ce0b4b1-3440-40cd-92c2-15d46e61dfca",
+        "5fed6e0f-fb7e-4874-8ba9-3321623fc828",
+        "78809992-2318-4893-9402-6cfd49f50b6a",
+        "collapsible_tab_DfwThn"
+      ],
+      "settings": {
+        "enable_sticky_buy_button": true,
+        "full-width-enabled": false,
+        "desktop-media-size": "normal",
+        "desktop-layout": "carousel-vertical",
+        "desktop-image-ratio": "square",
+        "enable_video_looping": false,
+        "enable-preselected-variant": true,
+        "enable-image-zoom": true,
+        "mobile-image": "small",
+        "text_color": "#ffffff",
+        "background_color": "#036242",
+        "margin-top": 4,
+        "margin-bottom": 32
+      }
+    },
+    "benefits_product_qcrgbE": {
+      "type": "benefits-product",
+      "blocks": {
+        "benefit_B8mXdQ": {
+          "type": "benefit",
+          "settings": {
+            "item_heading": "Soothes & Protects Sensitive Eyes",
+            "text": "<p>Baby Eye Wipes hydrate gently without irritation.</p>"
+          }
+        },
+        "benefit_37L8PP": {
+          "type": "benefit",
+          "settings": {
+            "item_heading": "Keeps Playtime Cleaner",
+            "text": "<p>Toy Cleaning Wipes remove dirt, grime, and sticky messes easily.</p>"
+          }
+        },
+        "benefit_8Ttr4K": {
+          "type": "benefit",
+          "settings": {
+            "item_heading": "Safe Outdoor Shield",
+            "text": "<p>Insect Repellent Wipes help protect little ones with natural oils.</p>"
+          }
+        },
+        "benefit_c8BR3k": {
+          "type": "benefit",
+          "settings": {
+            "item_heading": "Soft on Skin, Strong on Care",
+            "text": "<p>Formulated with gentle ingredients suitable for daily use.</p>"
+          }
+        },
+        "benefit_baeMqb": {
+          "type": "benefit",
+          "settings": {
+            "item_heading": "Travel-Friendly Essentials",
+            "text": "<p>Lightweight and organised for prams, bags, car trips, and on-the-go parenting.</p>"
+          }
+        },
+        "benefit_EML6qc": {
+          "type": "benefit",
+          "settings": {
+            "item_heading": "A Thoughtful Gift for New Parents",
+            "text": "<p>Beautifully packaged and practical for everyday family life.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "benefit_B8mXdQ",
+        "benefit_37L8PP",
+        "benefit_8Ttr4K",
+        "benefit_c8BR3k",
+        "benefit_baeMqb",
+        "benefit_EML6qc"
+      ],
+      "disabled": true,
+      "name": "t:sections.benefits_product.name",
+      "settings": {
+        "heading": "",
+        "full-width-enabled": false,
+        "mobile_image": "shopify://shop_images/little_moments_set.gif",
+        "desktop_image": "shopify://shop_images/little_moments_set.gif",
+        "desktop_width": 37,
+        "desktop_max_width": 1600,
+        "button_label": "",
+        "button_link": "",
+        "quick_buy_product": "",
+        "button_select": "primary",
+        "size_heading": 130,
+        "size_heading_mobile": 100,
+        "color-body-heading": "rgba(0,0,0,0)",
+        "color-overlay": "#036242",
+        "color-overlay-opacity": 100,
+        "color-body-text": "#ffffff",
+        "margin-top": 24,
+        "margin-bottom": 84
+      }
+    },
+    "image_with_text_WxXpEB": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_WcihaF": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cradled in purity, wrapped in care. Delicate protection for tender skin, thoughtfully designed to nurture every precious moment.",
+            "disable_on_mobile": false,
+            "size_heading": 100,
+            "size_heading_mobile": 80
+          }
+        }
+      },
+      "block_order": [
+        "heading_WcihaF"
+      ],
+      "settings": {
+        "title": "",
+        "layout": "text_first",
+        "desktop-percentage-image-width": 43,
+        "full-width-enabled": true,
+        "slide_height": "adapt_to_first_image",
+        "desktop_fixed_height": 320,
+        "mobile_fixed_height": 460,
+        "section-color-body-text": "rgba(0,0,0,0)",
+        "section-color-overlay": "rgba(0,0,0,0)",
+        "section-color-overlay-opacity": 100,
+        "color-body-text": "#ffffff",
+        "color-overlay": "#036242",
+        "color-overlay-opacity": 100,
+        "desktop_image": "shopify://shop_images/kids-set-inside.jpg",
+        "desktop_text_vertical_position": "center",
+        "desktop_text_horizontal_position": "center",
+        "mobile_text_horizontal_position": "center",
+        "margin-top": 0,
+        "margin-bottom": 20
+      }
+    },
+    "features_banner_CH6Hxw": {
+      "type": "features-banner",
+      "blocks": {
+        "image_irCfBb": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/icon-distributor-1.png",
+            "select_icon": "bag",
+            "heading": "100% Plant-Based Ingredients",
+            "text": "<p><em>Pure, biodegradable wipes - created by nature, returned to nature.</em></p>",
+            "link": ""
+          }
+        },
+        "image_LQfLW9": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/icon-everyday-2.png",
+            "select_icon": "bag",
+            "heading": "Pocket-Sized Rescue",
+            "text": "<p><em>Card-sized sachets made for life in motion - freshness that fits right in your pocket.</em></p>",
+            "link": ""
+          }
+        },
+        "image_amTdPe": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/icon-everyday-4.png",
+            "select_icon": "bag",
+            "heading": "Anywhere, Anytime Care",
+            "text": "<p><em>Wherever you are, one wipe delivers quick freshness - no water, no worry, no pause.</em></p>",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_irCfBb",
+        "image_LQfLW9",
+        "image_amTdPe"
+      ],
+      "name": "t:sections.features-banner.settings.presets.name",
+      "settings": {
+        "heading": "",
+        "size_heading_mobile": 60,
+        "size_heading": 60,
+        "icon_width_mobile": 36,
+        "icon_width_desktop": 48,
+        "icon_layout": "center",
+        "columns_desktop": "3",
+        "icon_layout_mobile": "slider",
+        "color_body_icon": "rgba(0,0,0,0)",
+        "color_background_icon": "rgba(0,0,0,0)",
+        "color_body_text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 20,
+        "margin-bottom": 32
+      }
+    },
+    "apps_xxbQ7t": {
+      "type": "apps",
+      "blocks": {
+        "quinn_shoppable_reel_app_cards_block_QRLJjt": {
+          "type": "shopify://apps/quinn-shoppable-reel/blocks/app-cards-block/483fa771-9c4d-49e4-8c0d-0155f4b872d6",
+          "settings": {
+            "custom_metaobject_handle": "null",
+            "background_color": "#ffffff",
+            "margin_desktop": "10px 0px 0px 0px",
+            "margin_mobile": "5px 0px 0px 0px",
+            "padding_desktop": "10px 10px 10px 10px",
+            "padding_mobile": "10px 5px 10px 5px"
+          }
+        }
+      },
+      "block_order": [
+        "quinn_shoppable_reel_app_cards_block_QRLJjt"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "collage_QXU4Uk": {
+      "type": "collage",
+      "blocks": {
+        "image_Ab7JH8": {
+          "type": "image",
+          "settings": {
+            "heading": "Designed for the Modern You",
+            "heading_disable_on_mobile": false,
+            "size_heading": 100,
+            "size_heading_mobile": 100,
+            "text": "<p>Smart Pull Box!! Because Today’s You Deserves Smarter Design</p>",
+            "text_disable_on_mobile": false,
+            "button_select": "primary",
+            "button_label": "",
+            "button_disable_on_mobile": false,
+            "button_link": "",
+            "desktop_image": "shopify://shop_images/S1_TSI.webp",
+            "desktop_text_vertical_position": "bottom",
+            "desktop_text_horizontal_position": "left",
+            "mobile_text_vertical_position": "top",
+            "mobile_text_horizontal_position": "left",
+            "color-body-text": "rgba(0,0,0,0)",
+            "color-overlay": "rgba(0,0,0,0)",
+            "color-overlay-opacity": 100
+          }
+        },
+        "image_XKgTdf": {
+          "type": "image",
+          "settings": {
+            "heading": "Dual-Textured",
+            "heading_disable_on_mobile": false,
+            "size_heading": 100,
+            "size_heading_mobile": 110,
+            "text": "<p>for the Perfect Clean Every Time</p>",
+            "text_disable_on_mobile": false,
+            "button_select": "primary",
+            "button_label": "",
+            "button_disable_on_mobile": false,
+            "button_link": "",
+            "desktop_image": "shopify://shop_images/ChatGPT_Image_Nov_3_2025_01_17_53_PM.png",
+            "desktop_text_vertical_position": "center",
+            "desktop_text_horizontal_position": "center",
+            "mobile_text_vertical_position": "center",
+            "mobile_text_horizontal_position": "center",
+            "color-body-text": "rgba(0,0,0,0)",
+            "color-overlay": "rgba(0,0,0,0)",
+            "color-overlay-opacity": 100
+          }
+        },
+        "image_t9qEhX": {
+          "type": "image",
+          "settings": {
+            "heading": "Individually Packaged",
+            "heading_disable_on_mobile": false,
+            "size_heading": 100,
+            "size_heading_mobile": 100,
+            "text": "<p>Handy for every move, wherever you go</p>",
+            "text_disable_on_mobile": false,
+            "button_select": "secondary",
+            "button_label": "",
+            "button_disable_on_mobile": false,
+            "button_link": "",
+            "desktop_image": "shopify://shop_images/Untitled_design_18.png",
+            "desktop_text_vertical_position": "center",
+            "desktop_text_horizontal_position": "center",
+            "mobile_text_vertical_position": "center",
+            "mobile_text_horizontal_position": "center",
+            "color-body-text": "rgba(0,0,0,0)",
+            "color-overlay": "rgba(0,0,0,0)",
+            "color-overlay-opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_Ab7JH8",
+        "image_XKgTdf",
+        "image_t9qEhX"
+      ],
+      "disabled": true,
+      "name": "t:sections.collage.settings.presets.name",
+      "settings": {
+        "heading": "",
+        "full-width-enabled": false,
+        "desktop_layout": "row",
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 20,
+        "margin-bottom": 20
+      }
+    },
+    "rich_text_UwJYhb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HUrfHU": {
+          "type": "heading",
+          "settings": {
+            "heading": "Pure ingredients. Proven care",
+            "disable_on_mobile": false,
+            "size_heading": 100,
+            "size_heading_mobile": 100
+          }
+        },
+        "text_WLx6W7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Every Terra wipe is crafted with care and tested to meet highest international standards, delivering consistent quality, uncompromising safety, and gentle care you can trust.</p>",
+            "disable_on_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_HUrfHU",
+        "text_WLx6W7"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "section_width": "regular",
+        "desktop_text_horizontal_position": "center",
+        "padding_settings": true,
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 0,
+        "margin-bottom": 0
+      }
+    },
+    "brands_Af367K": {
+      "type": "brands",
+      "blocks": {
+        "image_rMm69R": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_46.png",
+            "link": ""
+          }
+        },
+        "image_QXBK7e": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_51.png",
+            "link": ""
+          }
+        },
+        "image_EQJEjn": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_50.png",
+            "link": ""
+          }
+        },
+        "image_HRHMLn": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_453.png",
+            "link": ""
+          }
+        },
+        "image_x6x6en": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_47.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_rMm69R",
+        "image_QXBK7e",
+        "image_EQJEjn",
+        "image_HRHMLn",
+        "image_x6x6en"
+      ],
+      "name": "t:sections.brands.settings.presets.name",
+      "settings": {
+        "heading": "",
+        "animation": "swipe",
+        "animation_speed": "100",
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 0,
+        "margin-bottom": 0
+      }
+    },
+    "image_banner_79GmEt": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_NmRNwm": {
+          "type": "heading",
+          "settings": {
+            "heading": "CRADLED IN PURITY, WRAPPED IN CARE.",
+            "disable_on_mobile": false,
+            "size_heading": 120,
+            "size_heading_mobile": 120
+          }
+        }
+      },
+      "block_order": [
+        "heading_NmRNwm"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "heading": "",
+        "full-width-enabled": true,
+        "slide_height": "fixed_height",
+        "desktop_fixed_height": 540,
+        "mobile_fixed_height": 280,
+        "desktop_image": "shopify://shop_images/banner-gift-kids.jpg",
+        "desktop_text_vertical_position": "center",
+        "desktop_text_horizontal_position": "center",
+        "mobile_text_vertical_position": "center",
+        "mobile_text_horizontal_position": "center",
+        "color-heading": "#ffffff",
+        "section-color-overlay": "rgba(0,0,0,0)",
+        "section-color-overlay-opacity": 100,
+        "color-body-text": "#ffffff",
+        "text-container-color": "rgba(0,0,0,0)",
+        "color-overlay-opacity": 100,
+        "margin-top": 0,
+        "margin-bottom": 0
+      }
+    },
+    "featured_collection_7bazQq": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "",
+        "disable_on_mobile": false,
+        "hide_empty_section": false,
+        "collection": "kids-care",
+        "product_list": [],
+        "products_to_show": 4,
+        "enable_stack_products": false,
+        "show_view_all": false,
+        "button_select": "primary",
+        "number_of_column_desktop": 4,
+        "spacing_desktop": "16",
+        "make_products_full_width": true,
+        "number_of_column_mobile": 2.1,
+        "spacing_mobile": "16",
+        "text_alignment": "left",
+        "image_ratio": "square",
+        "show_video": false,
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_product_rating": true,
+        "enable_quick_add_button": false,
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 20,
+        "margin-bottom": 20
+      }
+    },
+    "apps_zaNMW7": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_testimonials_carousel_product_NyKzNW": {
+          "type": "shopify://apps/judge-me-reviews/blocks/testimonials_carousel_product/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "show_sample_reviews": true,
+            "reviews_selection": "all",
+            "products": [
+              "terra-little-moments-set"
+            ],
+            "star_rating": "all",
+            "max_reviews": 20,
+            "quote_marks_size": "small",
+            "product_name_text_size": "small",
+            "verified_badge_style": "icon",
+            "card_height": "medium",
+            "text_size": "small",
+            "stars_size": "medium",
+            "arrows_position": "bottom",
+            "max_width": 1100,
+            "corner_styling": "soft",
+            "quote_marks_style": "serif",
+            "card_color": "#ffffff",
+            "stars_and_quote_marks_color": "#108474",
+            "text_color": "#000000",
+            "arrows_color": "#000000",
+            "show_border": false,
+            "border_color": "#108474",
+            "show_drop_shadow": false,
+            "transition_speed": 5,
+            "header_text": "Customers are saying",
+            "show_average_rating": true
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_testimonials_carousel_product_NyKzNW"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "rich_text_kECCxF": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_m7K4YM": {
+          "type": "heading",
+          "settings": {
+            "heading": "Frequently Asked Questions",
+            "disable_on_mobile": false,
+            "size_heading": 100,
+            "size_heading_mobile": 100
+          }
+        },
+        "text_gYj7kL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Explore answers to the most common questions about the Terra Little Moments Set, crafted to give you clarity and confidence.</p>",
+            "disable_on_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_m7K4YM",
+        "text_gYj7kL"
+      ],
+      "disabled": true,
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "section_width": "regular",
+        "desktop_text_horizontal_position": "center",
+        "padding_settings": true,
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 0,
+        "margin-bottom": 0
+      }
+    },
+    "read_more_faqs_QLiY4W": {
+      "type": "read-more-faqs",
+      "blocks": {
+        "collapsible_tab_3iD8dj": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Is this set safe for newborns and infants?",
+            "content": "<p>Yes, the Baby Eye Wipes are fragrance-free and remarkably gentle, suitable for newborns and sensitive skin. Other wipes are designed for toddlers and young children under supervision.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_MwTykt": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Are the insect repellent wipes safe for kids' skin?",
+            "content": "<p>They use natural oils like citronella and lemongrass, making them gentle and effective. Avoid applying to infants under 6 months unless advised by a doctor.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_TiQrtQ": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Can the Toy Cleaning Wipes be used on all toys?",
+            "content": "<p>Yes, plastic, rubber, silicone, and most hard surfaces. They're great for quick cleaning after playdates, outings, or meals.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_KBbBrQ": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Do the wipes contain artificial fragrances?",
+            "content": "<p>No, Baby Eye Wipes are completely fragrance-free. Toy Cleaning Wipes and Insect Repellent Wipes use only natural scent components from botanicals.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_wRzRpU": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Are these wipes travel-friendly?",
+            "content": "<p>Absolutely, they're compact and light, designed for diaper bags, backpacks, prams, or car compartments.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_DLYaDq": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "How often can I use the Baby Eye Wipes?",
+            "content": "<p>They are gentle enough for multiple daily uses, especially during teething, colds, or allergy seasons.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_WK46n7": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Will the insect repellent wipes leave a sticky residue?",
+            "content": "<p>No, they absorb quickly and leave skin feeling comfortable, not greasy or sticky.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_TDrMJG": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Are the Toy Cleaning Wipes food-safe?",
+            "content": "<p>They are safe for cleaning surfaces and toys, but should not be used directly on food. Allow toys to air dry before children handle them.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_jqE9JN": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Is the Terra Essence Pouch washable?",
+            "content": "<p>Yes, hand wash gently and air dry to maintain its structure and finish.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_c6bzMc": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Is this set good for gifting?",
+            "content": "<p>Definitely, it's a nurturing, practical, and beautifully presented gift, perfect for new parents, baby showers, birthdays, or thoughtful care packages.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_tab_3iD8dj",
+        "collapsible_tab_MwTykt",
+        "collapsible_tab_TiQrtQ",
+        "collapsible_tab_KBbBrQ",
+        "collapsible_tab_wRzRpU",
+        "collapsible_tab_DLYaDq",
+        "collapsible_tab_WK46n7",
+        "collapsible_tab_TDrMJG",
+        "collapsible_tab_jqE9JN",
+        "collapsible_tab_c6bzMc"
+      ],
+      "name": "Read More Faqs",
+      "settings": {
+        "heading_faq": "Frequently Asked Questions",
+        "subheading_faq": "Explore answers to the most common questions about the Terra Little Moments Set, crafted to give you clarity and confidence.",
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "compact-size-enabled": true,
+        "margin-top": 20,
+        "margin-bottom": 20
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs",
+    "main",
+    "benefits_product_qcrgbE",
+    "image_with_text_WxXpEB",
+    "features_banner_CH6Hxw",
+    "apps_xxbQ7t",
+    "collage_QXU4Uk",
+    "rich_text_UwJYhb",
+    "brands_Af367K",
+    "image_banner_79GmEt",
+    "featured_collection_7bazQq",
+    "apps_zaNMW7",
+    "rich_text_kECCxF",
+    "read_more_faqs_QLiY4W"
+  ]
+}

@@ -1,1 +1,948 @@
-{"sections":{"breadcrumbs":{"type":"main-breadcrumbs","settings":{"full-width-enabled":true,"text_color":"#151515","background_color":"#bfdc44","margin-top":12,"margin-bottom":12}},"main":{"type":"main-product","blocks":{"title":{"type":"title","settings":{"brand":"","size_text":180,"size_text_mobile":160}},"text_wC4pxW":{"type":"text","settings":{"heading":"","content":"<p>TERRA Travel Wipes are designed to cleanse and refresh your skin anytime, anywhere. Each wipe is infused with natural plant-based cleansers, Cucumber, Witch Hazel, Oat Extract, and Vitamin E to remove dirt and sweat while providing hydration, soothing care, and lasting freshness during travel.<\/p>","page":""}},"rating":{"type":"rating","settings":{}},"feature_tags_44iTGm":{"type":"feature_tags","settings":{"metafield":"custom.feature_tags","limit":4,"text_color":"rgba(0,0,0,0)","border_color":"rgba(0,0,0,0)"}},"separator_Qt7zAY":{"type":"separator","settings":{"show-separator-line":false,"color-background":"#000000","margin-top":8,"margin-bottom":8}},"price":{"type":"price","settings":{"show_tax_included":true,"show_shipping_policy":true,"size_text":140,"size_text_mobile":140}},"variant_picker":{"type":"variant_picker","settings":{"picker_type":"button","color_swatch_names":"","variant_picture_swatch_names":"","thumb_size":60,"radius":"default","border_radius":1,"dropdown_swatch_names":"","margin-top":8,"margin-bottom":8}},"bold_subscriptions_bsub_widget_block_eyT6in":{"type":"shopify:\/\/apps\/bold-subscriptions\/blocks\/bsub-widget-block\/9ceb49f0-5fe5-4b5e-943d-f8af8985167d","settings":{"default_subscribe":true,"primary_color":"","secondary_color":"#5433eb","background_color":"","border_radius":4,"header_text":"Purchase Options","one_time_text":"One-time Purchase","recurring_text":"Subscribe and Save","prepaid_recurring_text":"Prepaid Subscribe and Save","discount_summary_text":"(Save {discount})","discount_summary_plural_text":"(Save up to {discount})","frequency_header":"Delivery Frequency","frequency_text":"delivery","prepaid_checkbox_label_text":"Prepay for subscription","billing_frequency_header":"Billing Frequency","billing_frequency_text":"{count} Orders","delivery_frequency_discount_text":"({discount} off {regular_price})","billing_frequency_discount_text":"({discount} off {regular_price})","prepaid_total_text":"Billed {price} today","prepaid_continue_as_prepaid_text":"Prepaid order will auto-renew after {count} orders","prepaid_continue_as_standard_text":"Becomes a regular subscription after {count} orders","convertible_header":"Converts to","eligible_for_subscription_header":"Eligible for Subscription","initial_dynamic_discount_text":"Save {initial_percent_discount}% ({initial_fixed_discount})","subsequent_dynamic_discounts_text":"{subsequent_percent_discount}% ({subsequent_fixed_discount}) after {order_count} order(s)"}},"buy_buttons":{"type":"buy_buttons","settings":{"show_dynamic_checkout":false,"show_gift_card_recipient":true,"show_qty_selector":true,"text_color":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)"}},"promo_67ttgj":{"type":"promo","disabled":true,"settings":{"content":"<p>🎟️ Use code \"Beauty\" for 10% OFF!<\/p>","text_alignment":"center","color-body-text":"#a04848","background_color":"#f6f2ea"}},"payments_badge_EFynmG":{"type":"payments_badge","disabled":true,"settings":{"content":"","desktop_text_horizontal_position":"center","badge_type":"payment_icons","color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)"}},"separator_DwMham":{"type":"separator","settings":{"show-separator-line":false,"color-background":"#000000","margin-top":8,"margin-bottom":8}},"e23830b4-3ca6-452f-a7d1-cb245a3e9282":{"type":"bulletpoints","settings":{"metafield":"custom.features","default_text":""}},"00841757-ace4-48f5-8edb-08c8c579a24f":{"type":"separator","settings":{"show-separator-line":true,"color-background":"#e0dedb","margin-top":0,"margin-bottom":0}},"description":{"type":"description","settings":{"is_open":false,"icon":"chat_bubble"}},"a8e9c281-a34c-4fe4-94a1-ea9a3880dc33":{"type":"separator","settings":{"show-separator-line":true,"color-background":"#e0dedb","margin-top":0,"margin-bottom":0}},"1c9b0bb2-fe62-4649-9439-76836162d773":{"type":"collapsible_tab","settings":{"heading":"How to use","content":"<ol><li>Peel open the TERRA wipe sachet and take out a wipe.<\/li><li>Wipe the desired area using gentle, smooth motions.<\/li><li>Use additional wipes as needed for complete cleaning.<\/li><li>Dispose of the used wipe responsibly, do not flush.<\/li><\/ol>","metafield_variables":"","page":"","icon":"question_mark"}},"2ce0b4b1-3440-40cd-92c2-15d46e61dfca":{"type":"separator","settings":{"show-separator-line":true,"color-background":"#e0dedb","margin-top":0,"margin-bottom":0}},"5fed6e0f-fb7e-4874-8ba9-3321623fc828":{"type":"collapsible_tab","settings":{"heading":"Ingredients ","content":"<ul><li>Pure New Zealand Purified Water<\/li><li>Biodegradable FSC Certified Bamboo Fibre<\/li><li>Cucumber Extract (hydrates, cools, and refreshes skin)<\/li><li>Witch Hazel (tones and calms to reduce redness and soothe irritation)<\/li><li>Oat Kernel Extract (softens and comforts, ideal for sensitive skin)<\/li><\/ul>","metafield_variables":"","page":"","icon":"leaf"}},"78809992-2318-4893-9402-6cfd49f50b6a":{"type":"separator","settings":{"show-separator-line":true,"color-background":"#e0dedb","margin-top":0,"margin-bottom":0}}},"block_order":["title","text_wC4pxW","rating","feature_tags_44iTGm","separator_Qt7zAY","price","variant_picker","bold_subscriptions_bsub_widget_block_eyT6in","buy_buttons","promo_67ttgj","payments_badge_EFynmG","separator_DwMham","e23830b4-3ca6-452f-a7d1-cb245a3e9282","00841757-ace4-48f5-8edb-08c8c579a24f","description","a8e9c281-a34c-4fe4-94a1-ea9a3880dc33","1c9b0bb2-fe62-4649-9439-76836162d773","2ce0b4b1-3440-40cd-92c2-15d46e61dfca","5fed6e0f-fb7e-4874-8ba9-3321623fc828","78809992-2318-4893-9402-6cfd49f50b6a"],"settings":{"enable_sticky_buy_button":true,"full-width-enabled":false,"desktop-media-size":"normal","desktop-layout":"carousel-vertical","desktop-image-ratio":"square","enable_video_looping":false,"enable-preselected-variant":true,"enable-image-zoom":true,"mobile-image":"small","text_color":"#151515","background_color":"#bfdc44","margin-top":4,"margin-bottom":32}},"benefits_product_dxPiTY":{"type":"benefits-product","blocks":{"benefit_FdMQVk":{"type":"benefit","settings":{"image":"shopify:\/\/shop_images\/11_1196f230-5912-4074-ac85-91e8122d0ce3.png","item_heading":"Crystal-Clean Care","text":"<p>Pure New Zealand Purified Water.<\/p>"}},"benefit_d7APNF":{"type":"benefit","settings":{"image":"shopify:\/\/shop_images\/12_c3f5274d-a259-4e53-97b0-5cf9e6864fe0.png","item_heading":"Eco-Soft Touch","text":"<p>Gentle, refreshing clean with biodegradable bamboo fibre.<\/p>"}},"benefit_BGNw8f":{"type":"benefit","settings":{"image":"shopify:\/\/shop_images\/40.webp","item_heading":"Gentle Cleansing","text":"<p>Removes dirt, sweat, and impurities without drying skin.<\/p>"}},"benefit_3wDUnH":{"type":"benefit","settings":{"image":"shopify:\/\/shop_images\/49.webp","item_heading":"Soothes & Calms","text":"<p>Witch Hazel helps ease travel-induced dryness & sensitivity.<\/p>"}},"benefit_z7ayDX":{"type":"benefit","settings":{"image":"shopify:\/\/shop_images\/21_5565711d-01eb-4864-a0fa-5c3ef79bd0f6.webp","item_heading":"Cooling Comfort","text":"<p>Cucumber and botanicals provide instant freshness.<\/p>"}},"benefit_rfTRww":{"type":"benefit","settings":{"image":"shopify:\/\/shop_images\/30_73328577-fa93-46b3-a2cb-0d0b269b6fcd.png","item_heading":"Vitamin E Protection","text":"<p>Shields skin from daily environmental stress.<\/p>"}}},"block_order":["benefit_FdMQVk","benefit_d7APNF","benefit_BGNw8f","benefit_3wDUnH","benefit_z7ayDX","benefit_rfTRww"],"name":"t:sections.benefits_product.name","settings":{"heading":"","full-width-enabled":false,"mobile_image":"shopify:\/\/shop_images\/Terra_Travel_Refresh_Wipes.gif","desktop_image":"shopify:\/\/shop_images\/Terra_Travel_Refresh_Wipes.gif","desktop_width":44,"desktop_max_width":1600,"button_label":"","button_link":"","quick_buy_product":"","button_select":"primary","size_heading":120,"size_heading_mobile":100,"color-body-heading":"rgba(0,0,0,0)","color-overlay":"#bfdc44","color-overlay-opacity":100,"color-body-text":"#151515","margin-top":16,"margin-bottom":20}},"image_with_text_WxXpEB":{"type":"image-with-text","blocks":{"heading_WcihaF":{"type":"heading","settings":{"heading":"Make the next trip a no-dry zone. Enjoy a dose of hydration-in-your-hand to keep your skin feeling fresh and soft. Perfect for keeping comfortable on any journey, over air, land, or sea.","disable_on_mobile":false,"size_heading":100,"size_heading_mobile":80}}},"block_order":["heading_WcihaF"],"settings":{"title":"","layout":"text_first","desktop-percentage-image-width":43,"full-width-enabled":true,"slide_height":"adapt_to_first_image","desktop_fixed_height":320,"mobile_fixed_height":460,"section-color-body-text":"rgba(0,0,0,0)","section-color-overlay":"rgba(0,0,0,0)","section-color-overlay-opacity":100,"color-body-text":"#151515","color-overlay":"#bfdc44","color-overlay-opacity":100,"desktop_image":"shopify:\/\/shop_images\/Terra_Travel_Refresh_Wipes_Lifestyle.jpg","desktop_text_vertical_position":"center","desktop_text_horizontal_position":"center","mobile_text_horizontal_position":"center","margin-top":0,"margin-bottom":20}},"features_banner_TVyU8D":{"type":"features-banner","blocks":{"image_mhNKkd":{"type":"image","settings":{"desktop_image":"shopify:\/\/shop_images\/icon-distributor-1.png","select_icon":"bag","heading":"100% Plant-Based Ingredients","text":"<p>Pure, biodegradable wipes - created by nature, returned to nature <\/p>","link":""}},"image_8tB3Ph":{"type":"image","settings":{"desktop_image":"shopify:\/\/shop_images\/icon-everyday-2.png","select_icon":"bag","heading":"Pocket-Sized Rescue","text":"<p>Card-sized sachets made for life in motion - freshness that fits right in your pocket.<\/p>","link":""}},"image_iKjDD3":{"type":"image","settings":{"desktop_image":"shopify:\/\/shop_images\/icon-everyday-4.png","select_icon":"bag","heading":"Anywhere, Anytime Care","text":"<p>Wherever you are, one wipe delivers quick freshness - no water, no worry, no pause.<\/p>","link":""}}},"block_order":["image_mhNKkd","image_8tB3Ph","image_iKjDD3"],"name":"t:sections.features-banner.settings.presets.name","settings":{"heading":"","size_heading_mobile":60,"size_heading":60,"icon_width_mobile":36,"icon_width_desktop":48,"icon_layout":"center","columns_desktop":"3","icon_layout_mobile":"slider","color_body_icon":"rgba(0,0,0,0)","color_background_icon":"rgba(0,0,0,0)","color_body_text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":20,"margin-bottom":32}},"apps_HCd6PJ":{"type":"apps","blocks":{"quinn_shoppable_reel_app_cards_block_3HeQk6":{"type":"shopify:\/\/apps\/quinn-shoppable-reel\/blocks\/app-cards-block\/483fa771-9c4d-49e4-8c0d-0155f4b872d6","settings":{"custom_metaobject_handle":"null","background_color":"#ffffff","margin_desktop":"10px 0px 0px 0px","margin_mobile":"5px 0px 0px 0px","padding_desktop":"10px 10px 10px 10px","padding_mobile":"10px 5px 10px 5px"}}},"block_order":["quinn_shoppable_reel_app_cards_block_3HeQk6"],"settings":{"include_margins":true}},"collage_9iiTJ6":{"type":"collage","blocks":{"image_RULC3G":{"type":"image","settings":{"heading":"Designed for the Modern You","heading_disable_on_mobile":false,"size_heading":100,"size_heading_mobile":100,"text":"<p>Smart Pull Box!! Because Today’s You Deserves Smarter Design<\/p>","text_disable_on_mobile":false,"button_select":"primary","button_label":"","button_disable_on_mobile":false,"button_link":"","desktop_image":"shopify:\/\/shop_images\/S1_TSI.webp","desktop_text_vertical_position":"bottom","desktop_text_horizontal_position":"left","mobile_text_vertical_position":"top","mobile_text_horizontal_position":"left","color-body-text":"rgba(0,0,0,0)","color-overlay":"rgba(0,0,0,0)","color-overlay-opacity":100}},"image_i3VEG4":{"type":"image","settings":{"heading":"Dual-Textured","heading_disable_on_mobile":false,"size_heading":100,"size_heading_mobile":110,"text":"<p>for the Perfect Clean Every Time<\/p>","text_disable_on_mobile":false,"button_select":"primary","button_label":"","button_disable_on_mobile":false,"button_link":"","desktop_image":"shopify:\/\/shop_images\/ChatGPT_Image_Nov_3_2025_01_17_53_PM.png","desktop_text_vertical_position":"center","desktop_text_horizontal_position":"center","mobile_text_vertical_position":"center","mobile_text_horizontal_position":"center","color-body-text":"rgba(0,0,0,0)","color-overlay":"rgba(0,0,0,0)","color-overlay-opacity":100}},"image_zWcYe9":{"type":"image","settings":{"heading":"Individually Packaged","heading_disable_on_mobile":false,"size_heading":100,"size_heading_mobile":100,"text":"<p>Handy for every move, wherever you go<\/p>","text_disable_on_mobile":false,"button_select":"secondary","button_label":"","button_disable_on_mobile":false,"button_link":"","desktop_image":"shopify:\/\/shop_images\/Untitled_design_18.png","desktop_text_vertical_position":"center","desktop_text_horizontal_position":"center","mobile_text_vertical_position":"center","mobile_text_horizontal_position":"center","color-body-text":"rgba(0,0,0,0)","color-overlay":"rgba(0,0,0,0)","color-overlay-opacity":0}}},"block_order":["image_RULC3G","image_i3VEG4","image_zWcYe9"],"disabled":true,"name":"t:sections.collage.settings.presets.name","settings":{"heading":"","full-width-enabled":false,"desktop_layout":"row","color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":20,"margin-bottom":20}},"rich_text_zh44YE":{"type":"rich-text","blocks":{"heading_LYTHfB":{"type":"heading","settings":{"heading":"Pure ingredients. Proven care","disable_on_mobile":false,"size_heading":100,"size_heading_mobile":100}},"text_49hKH4":{"type":"text","settings":{"text":"<p>Every Terra wipe is crafted with care and tested to meet highest international standards, delivering consistent quality, uncompromising safety, and gentle care you can trust.<\/p>","disable_on_mobile":false}}},"block_order":["heading_LYTHfB","text_49hKH4"],"name":"t:sections.rich-text.presets.name","settings":{"section_width":"regular","desktop_text_horizontal_position":"center","padding_settings":true,"color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":0,"margin-bottom":0}},"brands_Af367K":{"type":"brands","blocks":{"image_rMm69R":{"type":"image","settings":{"desktop_image":"shopify:\/\/shop_images\/Group_46.png","link":""}},"image_QXBK7e":{"type":"image","settings":{"desktop_image":"shopify:\/\/shop_images\/Group_51.png","link":""}},"image_EQJEjn":{"type":"image","settings":{"desktop_image":"shopify:\/\/shop_images\/Group_50.png","link":""}},"image_HRHMLn":{"type":"image","settings":{"desktop_image":"shopify:\/\/shop_images\/Group_453.png","link":""}},"image_x6x6en":{"type":"image","settings":{"desktop_image":"shopify:\/\/shop_images\/Group_47.png","link":""}}},"block_order":["image_rMm69R","image_QXBK7e","image_EQJEjn","image_HRHMLn","image_x6x6en"],"name":"t:sections.brands.settings.presets.name","settings":{"heading":"","animation":"swipe","animation_speed":"100","color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":20,"margin-bottom":20}},"image_banner_79GmEt":{"type":"image-banner","blocks":{"heading_NmRNwm":{"type":"heading","settings":{"heading":"YOUR POCKET-SIZED FRESHNESS.","disable_on_mobile":false,"size_heading":120,"size_heading_mobile":120}}},"block_order":["heading_NmRNwm"],"name":"t:sections.image-banner.presets.name","settings":{"heading":"","full-width-enabled":true,"slide_height":"fixed_height","desktop_fixed_height":540,"mobile_fixed_height":280,"desktop_image":"shopify:\/\/shop_images\/banner-trravel-fresh.jpg","desktop_text_vertical_position":"center","desktop_text_horizontal_position":"center","mobile_text_vertical_position":"center","mobile_text_horizontal_position":"center","color-heading":"#ffffff","section-color-overlay":"rgba(0,0,0,0)","section-color-overlay-opacity":100,"color-body-text":"#ffffff","text-container-color":"rgba(0,0,0,0)","color-overlay-opacity":100,"margin-top":0,"margin-bottom":0}},"featured_collection_7bazQq":{"type":"featured-collection","name":"t:sections.featured-collection.presets.name","settings":{"title":"","disable_on_mobile":false,"hide_empty_section":false,"collection":"outdoor-care","product_list":[],"products_to_show":4,"enable_stack_products":false,"show_view_all":false,"button_select":"primary","number_of_column_desktop":4,"spacing_desktop":"16","make_products_full_width":true,"number_of_column_mobile":2.1,"spacing_mobile":"16","text_alignment":"left","image_ratio":"square","show_video":false,"show_secondary_image":true,"show_vendor":false,"show_product_rating":true,"enable_quick_add_button":false,"color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":20,"margin-bottom":20}},"apps_63HBPB":{"type":"apps","blocks":{"judge_me_reviews_testimonials_carousel_product_Arc9jf":{"type":"shopify:\/\/apps\/judge-me-reviews\/blocks\/testimonials_carousel_product\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8","settings":{"show_sample_reviews":true,"reviews_selection":"all","products":["terra-travel-refresh-wipes"],"star_rating":"all","max_reviews":20,"quote_marks_size":"small","product_name_text_size":"small","verified_badge_style":"icon","card_height":"medium","text_size":"small","stars_size":"medium","arrows_position":"bottom","max_width":1100,"corner_styling":"soft","quote_marks_style":"serif","card_color":"#ffffff","stars_and_quote_marks_color":"#108474","text_color":"#000000","arrows_color":"#000000","show_border":false,"border_color":"#108474","show_drop_shadow":false,"transition_speed":5,"header_text":"Customers are saying","show_average_rating":true}}},"block_order":["judge_me_reviews_testimonials_carousel_product_Arc9jf"],"settings":{"include_margins":true}},"rich_text_EDyRgi":{"type":"rich-text","blocks":{"heading_8Yc7jK":{"type":"heading","settings":{"heading":"Frequently Asked Questions","disable_on_mobile":false,"size_heading":100,"size_heading_mobile":100}},"text_FFtday":{"type":"text","settings":{"text":"<p>Explore answers to the most common questions about Terra Travel Refresh Wipes, crafted to give you clarity and confidence.<\/p>","disable_on_mobile":false}}},"block_order":["heading_8Yc7jK","text_FFtday"],"disabled":true,"name":"t:sections.rich-text.presets.name","settings":{"section_width":"regular","desktop_text_horizontal_position":"center","padding_settings":true,"color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":0,"margin-bottom":0}},"read_more_faqs_daUDjp":{"type":"read-more-faqs","blocks":{"collapsible_tab_YhptCY":{"type":"collapsible_tab","settings":{"heading":"Can travel wipes be used on both face and body?","content":"<p>Yes, Travel wipes are generally safe for both, and TERRA Travel Wipes are formulated with gentle plant-based cleansers and soothing extracts suitable for face and body use.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_R4gLiQ":{"type":"collapsible_tab","settings":{"heading":"Are TERRA Travel Wipes safe for sensitive skin?","content":"<p>Yes, with ingredients like Cucumber, Witch Hazel, Oat Extract, and Vitamin E, TERRA Travel Wipes calm irritation, reduce sensitivity, and provide comfort for delicate skin.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_q74wbf":{"type":"collapsible_tab","settings":{"heading":"Do travel wipes help remove sweat and dirt during long journeys?","content":"<p>Yes, Travel wipes are designed to lift away dirt and sweat when you don't have access to water. TERRA Travel Wipes provide instant freshness without over-drying.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_YUEVMh":{"type":"collapsible_tab","settings":{"heading":"Can TERRA Travel Wipes replace a shower while travelling?","content":"<p>TERRA Travel Wipes are a convenient alternative when showering isn't possible, offering instant freshness and cleanliness. For deep cleansing, regular washing is still recommended when available.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_memH9p":{"type":"collapsible_tab","settings":{"heading":"Do TERRA Travel Wipes keep skin hydrated?","content":"<p>Yes, enriched with Cucumber, Oat, and Vitamin E, TERRA Travel Wipes hydrate and soften skin while cleansing, preventing dryness.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_hyWBYx":{"type":"collapsible_tab","settings":{"heading":"Do TERRA Travel Wipes have a strong fragrance?","content":"<p>No, TERRA Travel Wipes feature a balanced, refreshing aroma from Frankincense & Myrrh, combined with natural freshness from Cucumber, without being overpowering.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_ejrCBn":{"type":"collapsible_tab","settings":{"heading":"Can I carry TERRA Travel Wipes in my hand luggage on flights?","content":"<p>Yes, TERRA Travel Wipes are compact and travel-friendly, making them ideal for carrying in hand luggage or personal bags during flights.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_PDeCyG":{"type":"collapsible_tab","settings":{"heading":"Are TERRA Travel Wipes suitable for children as well as adults?","content":"<p>Yes, the gentle, plant-based formula makes TERRA Travel Wipes suitable for the whole family, including children.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_X8tK8z":{"type":"collapsible_tab","settings":{"heading":"Do TERRA Travel Wipes leave any sticky residue after use?","content":"<p>No, TERRA Travel Wipes cleanse effectively while leaving skin fresh and comfortable, without any sticky or greasy feel.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_wCdEVc":{"type":"collapsible_tab","settings":{"heading":"Are TERRA Travel Wipes eco-friendly and biodegradable?","content":"<p>Yes, Made with 100% plant-based biodegradable fabric and 0% plastic, TERRA Travel Wipes are safe for your skin and kind to the environment.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_nWfeYi":{"type":"collapsible_tab","settings":{"heading":"Do TERRA Travel Wipes help soothe skin irritation caused by travel?","content":"<p>Yes, Witch Hazel and Oat Extract in TERRA Travel Wipes help calm irritation, reduce redness, and keep skin comfortable during long journeys.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_VMtnU8":{"type":"collapsible_tab","settings":{"heading":"Can TERRA Travel Wipes be used daily, not just while travelling?","content":"<p>Yes, TERRA Travel Wipes are safe and gentle enough for everyday use whenever skin needs a quick refresh, whether travelling, commuting, or at home.<\/p>","page":"","icon":"check_mark"}}},"block_order":["collapsible_tab_YhptCY","collapsible_tab_R4gLiQ","collapsible_tab_q74wbf","collapsible_tab_YUEVMh","collapsible_tab_memH9p","collapsible_tab_hyWBYx","collapsible_tab_ejrCBn","collapsible_tab_PDeCyG","collapsible_tab_X8tK8z","collapsible_tab_wCdEVc","collapsible_tab_nWfeYi","collapsible_tab_VMtnU8"],"name":"Read More Faqs","settings":{"heading_faq":"Frequently Asked Questions","subheading_faq":"Explore answers to the most common questions about Terra Travel Refresh Wipes, crafted to give you clarity and confidence.","color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","compact-size-enabled":true,"margin-top":20,"margin-bottom":20}}},"order":["breadcrumbs","main","benefits_product_dxPiTY","image_with_text_WxXpEB","features_banner_TVyU8D","apps_HCd6PJ","collage_9iiTJ6","rich_text_zh44YE","brands_Af367K","image_banner_79GmEt","featured_collection_7bazQq","apps_63HBPB","rich_text_EDyRgi","read_more_faqs_daUDjp"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "breadcrumbs": {
+      "type": "main-breadcrumbs",
+      "settings": {
+        "full-width-enabled": true,
+        "text_color": "#151515",
+        "background_color": "#bfdc44",
+        "margin-top": 12,
+        "margin-bottom": 12
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "brand": "",
+            "size_text": 180,
+            "size_text_mobile": 160
+          }
+        },
+        "text_wC4pxW": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "content": "<p>TERRA Travel Wipes are designed to cleanse and refresh your skin anytime, anywhere. Each wipe is infused with natural plant-based cleansers, Cucumber, Witch Hazel, Oat Extract, and Vitamin E to remove dirt and sweat while providing hydration, soothing care, and lasting freshness during travel.</p>",
+            "page": ""
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {}
+        },
+        "feature_tags_44iTGm": {
+          "type": "feature_tags",
+          "settings": {
+            "metafield": "custom.feature_tags",
+            "limit": 4,
+            "text_color": "rgba(0,0,0,0)",
+            "border_color": "rgba(0,0,0,0)"
+          }
+        },
+        "separator_Qt7zAY": {
+          "type": "separator",
+          "settings": {
+            "show-separator-line": false,
+            "color-background": "#000000",
+            "margin-top": 8,
+            "margin-bottom": 8
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_included": true,
+            "show_shipping_policy": true,
+            "size_text": 140,
+            "size_text_mobile": 140
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "color_swatch_names": "",
+            "variant_picture_swatch_names": "",
+            "thumb_size": 60,
+            "radius": "default",
+            "border_radius": 1,
+            "dropdown_swatch_names": "",
+            "margin-top": 8,
+            "margin-bottom": 8
+          }
+        },
+        "bold_subscriptions_bsub_widget_block_eyT6in": {
+          "type": "shopify://apps/bold-subscriptions/blocks/bsub-widget-block/9ceb49f0-5fe5-4b5e-943d-f8af8985167d",
+          "settings": {
+            "default_subscribe": true,
+            "primary_color": "",
+            "secondary_color": "#5433eb",
+            "background_color": "",
+            "border_radius": 4,
+            "header_text": "Purchase Options",
+            "one_time_text": "One-time Purchase",
+            "recurring_text": "Subscribe and Save",
+            "prepaid_recurring_text": "Prepaid Subscribe and Save",
+            "discount_summary_text": "(Save {discount})",
+            "discount_summary_plural_text": "(Save up to {discount})",
+            "frequency_header": "Delivery Frequency",
+            "frequency_text": "delivery",
+            "prepaid_checkbox_label_text": "Prepay for subscription",
+            "billing_frequency_header": "Billing Frequency",
+            "billing_frequency_text": "{count} Orders",
+            "delivery_frequency_discount_text": "({discount} off {regular_price})",
+            "billing_frequency_discount_text": "({discount} off {regular_price})",
+            "prepaid_total_text": "Billed {price} today",
+            "prepaid_continue_as_prepaid_text": "Prepaid order will auto-renew after {count} orders",
+            "prepaid_continue_as_standard_text": "Becomes a regular subscription after {count} orders",
+            "convertible_header": "Converts to",
+            "eligible_for_subscription_header": "Eligible for Subscription",
+            "initial_dynamic_discount_text": "Save {initial_percent_discount}% ({initial_fixed_discount})",
+            "subsequent_dynamic_discounts_text": "{subsequent_percent_discount}% ({subsequent_fixed_discount}) after {order_count} order(s)"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true,
+            "show_qty_selector": true,
+            "text_color": "rgba(0,0,0,0)",
+            "background_color": "rgba(0,0,0,0)"
+          }
+        },
+        "promo_67ttgj": {
+          "type": "promo",
+          "disabled": true,
+          "settings": {
+            "content": "<p>🎟️ Use code \"Beauty\" for 10% OFF!</p>",
+            "text_alignment": "center",
+            "color-body-text": "#a04848",
+            "background_color": "#f6f2ea"
+          }
+        },
+        "payments_badge_EFynmG": {
+          "type": "payments_badge",
+          "disabled": true,
+          "settings": {
+            "content": "",
+            "desktop_text_horizontal_position": "center",
+            "badge_type": "payment_icons",
+            "color-body-text": "rgba(0,0,0,0)",
+            "background_color": "rgba(0,0,0,0)"
+          }
+        },
+        "separator_DwMham": {
+          "type": "separator",
+          "settings": {
+            "show-separator-line": false,
+            "color-background": "#000000",
+            "margin-top": 8,
+            "margin-bottom": 8
+          }
+        },
+        "e23830b4-3ca6-452f-a7d1-cb245a3e9282": {
+          "type": "bulletpoints",
+          "settings": {
+            "metafield": "custom.features",
+            "default_text": ""
+          }
+        },
+        "00841757-ace4-48f5-8edb-08c8c579a24f": {
+          "type": "separator",
+          "settings": {
+            "show-separator-line": true,
+            "color-background": "#e0dedb",
+            "margin-top": 0,
+            "margin-bottom": 0
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_open": false,
+            "icon": "chat_bubble"
+          }
+        },
+        "a8e9c281-a34c-4fe4-94a1-ea9a3880dc33": {
+          "type": "separator",
+          "settings": {
+            "show-separator-line": true,
+            "color-background": "#e0dedb",
+            "margin-top": 0,
+            "margin-bottom": 0
+          }
+        },
+        "1c9b0bb2-fe62-4649-9439-76836162d773": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "How to use",
+            "content": "<ol><li>Peel open the TERRA wipe sachet and take out a wipe.</li><li>Wipe the desired area using gentle, smooth motions.</li><li>Use additional wipes as needed for complete cleaning.</li><li>Dispose of the used wipe responsibly, do not flush.</li></ol>",
+            "metafield_variables": "",
+            "page": "",
+            "icon": "question_mark"
+          }
+        },
+        "2ce0b4b1-3440-40cd-92c2-15d46e61dfca": {
+          "type": "separator",
+          "settings": {
+            "show-separator-line": true,
+            "color-background": "#e0dedb",
+            "margin-top": 0,
+            "margin-bottom": 0
+          }
+        },
+        "5fed6e0f-fb7e-4874-8ba9-3321623fc828": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Ingredients ",
+            "content": "<ul><li>Pure New Zealand Purified Water</li><li>Biodegradable FSC Certified Bamboo Fibre</li><li>Cucumber Extract (hydrates, cools, and refreshes skin)</li><li>Witch Hazel (tones and calms to reduce redness and soothe irritation)</li><li>Oat Kernel Extract (softens and comforts, ideal for sensitive skin)</li></ul>",
+            "metafield_variables": "",
+            "page": "",
+            "icon": "leaf"
+          }
+        },
+        "78809992-2318-4893-9402-6cfd49f50b6a": {
+          "type": "separator",
+          "settings": {
+            "show-separator-line": true,
+            "color-background": "#e0dedb",
+            "margin-top": 0,
+            "margin-bottom": 0
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "text_wC4pxW",
+        "rating",
+        "feature_tags_44iTGm",
+        "separator_Qt7zAY",
+        "price",
+        "variant_picker",
+        "bold_subscriptions_bsub_widget_block_eyT6in",
+        "buy_buttons",
+        "promo_67ttgj",
+        "payments_badge_EFynmG",
+        "separator_DwMham",
+        "e23830b4-3ca6-452f-a7d1-cb245a3e9282",
+        "00841757-ace4-48f5-8edb-08c8c579a24f",
+        "description",
+        "a8e9c281-a34c-4fe4-94a1-ea9a3880dc33",
+        "1c9b0bb2-fe62-4649-9439-76836162d773",
+        "2ce0b4b1-3440-40cd-92c2-15d46e61dfca",
+        "5fed6e0f-fb7e-4874-8ba9-3321623fc828",
+        "78809992-2318-4893-9402-6cfd49f50b6a"
+      ],
+      "settings": {
+        "enable_sticky_buy_button": true,
+        "full-width-enabled": false,
+        "desktop-media-size": "normal",
+        "desktop-layout": "carousel-vertical",
+        "desktop-image-ratio": "square",
+        "enable_video_looping": false,
+        "enable-preselected-variant": true,
+        "enable-image-zoom": true,
+        "mobile-image": "small",
+        "text_color": "#151515",
+        "background_color": "#bfdc44",
+        "margin-top": 4,
+        "margin-bottom": 32
+      }
+    },
+    "benefits_product_dxPiTY": {
+      "type": "benefits-product",
+      "blocks": {
+        "benefit_FdMQVk": {
+          "type": "benefit",
+          "settings": {
+            "image": "shopify://shop_images/11_1196f230-5912-4074-ac85-91e8122d0ce3.png",
+            "item_heading": "Crystal-Clean Care",
+            "text": "<p>Pure New Zealand Purified Water.</p>"
+          }
+        },
+        "benefit_d7APNF": {
+          "type": "benefit",
+          "settings": {
+            "image": "shopify://shop_images/12_c3f5274d-a259-4e53-97b0-5cf9e6864fe0.png",
+            "item_heading": "Eco-Soft Touch",
+            "text": "<p>Gentle, refreshing clean with biodegradable bamboo fibre.</p>"
+          }
+        },
+        "benefit_BGNw8f": {
+          "type": "benefit",
+          "settings": {
+            "image": "shopify://shop_images/40.webp",
+            "item_heading": "Gentle Cleansing",
+            "text": "<p>Removes dirt, sweat, and impurities without drying skin.</p>"
+          }
+        },
+        "benefit_3wDUnH": {
+          "type": "benefit",
+          "settings": {
+            "image": "shopify://shop_images/49.webp",
+            "item_heading": "Soothes & Calms",
+            "text": "<p>Witch Hazel helps ease travel-induced dryness & sensitivity.</p>"
+          }
+        },
+        "benefit_z7ayDX": {
+          "type": "benefit",
+          "settings": {
+            "image": "shopify://shop_images/21_5565711d-01eb-4864-a0fa-5c3ef79bd0f6.webp",
+            "item_heading": "Cooling Comfort",
+            "text": "<p>Cucumber and botanicals provide instant freshness.</p>"
+          }
+        },
+        "benefit_rfTRww": {
+          "type": "benefit",
+          "settings": {
+            "image": "shopify://shop_images/30_73328577-fa93-46b3-a2cb-0d0b269b6fcd.png",
+            "item_heading": "Vitamin E Protection",
+            "text": "<p>Shields skin from daily environmental stress.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "benefit_FdMQVk",
+        "benefit_d7APNF",
+        "benefit_BGNw8f",
+        "benefit_3wDUnH",
+        "benefit_z7ayDX",
+        "benefit_rfTRww"
+      ],
+      "name": "t:sections.benefits_product.name",
+      "settings": {
+        "heading": "",
+        "full-width-enabled": false,
+        "mobile_image": "shopify://shop_images/Terra_Travel_Refresh_Wipes.gif",
+        "desktop_image": "shopify://shop_images/Terra_Travel_Refresh_Wipes.gif",
+        "desktop_width": 44,
+        "desktop_max_width": 1600,
+        "button_label": "",
+        "button_link": "",
+        "quick_buy_product": "",
+        "button_select": "primary",
+        "size_heading": 120,
+        "size_heading_mobile": 100,
+        "color-body-heading": "rgba(0,0,0,0)",
+        "color-overlay": "#bfdc44",
+        "color-overlay-opacity": 100,
+        "color-body-text": "#151515",
+        "margin-top": 16,
+        "margin-bottom": 20
+      }
+    },
+    "image_with_text_WxXpEB": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_WcihaF": {
+          "type": "heading",
+          "settings": {
+            "heading": "Make the next trip a no-dry zone. Enjoy a dose of hydration-in-your-hand to keep your skin feeling fresh and soft. Perfect for keeping comfortable on any journey, over air, land, or sea.",
+            "disable_on_mobile": false,
+            "size_heading": 100,
+            "size_heading_mobile": 80
+          }
+        }
+      },
+      "block_order": [
+        "heading_WcihaF"
+      ],
+      "settings": {
+        "title": "",
+        "layout": "text_first",
+        "desktop-percentage-image-width": 43,
+        "full-width-enabled": true,
+        "slide_height": "adapt_to_first_image",
+        "desktop_fixed_height": 320,
+        "mobile_fixed_height": 460,
+        "section-color-body-text": "rgba(0,0,0,0)",
+        "section-color-overlay": "rgba(0,0,0,0)",
+        "section-color-overlay-opacity": 100,
+        "color-body-text": "#151515",
+        "color-overlay": "#bfdc44",
+        "color-overlay-opacity": 100,
+        "desktop_image": "shopify://shop_images/Terra_Travel_Refresh_Wipes_Lifestyle.jpg",
+        "desktop_text_vertical_position": "center",
+        "desktop_text_horizontal_position": "center",
+        "mobile_text_horizontal_position": "center",
+        "margin-top": 0,
+        "margin-bottom": 20
+      }
+    },
+    "features_banner_TVyU8D": {
+      "type": "features-banner",
+      "blocks": {
+        "image_mhNKkd": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/icon-distributor-1.png",
+            "select_icon": "bag",
+            "heading": "100% Plant-Based Ingredients",
+            "text": "<p>Pure, biodegradable wipes - created by nature, returned to nature </p>",
+            "link": ""
+          }
+        },
+        "image_8tB3Ph": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/icon-everyday-2.png",
+            "select_icon": "bag",
+            "heading": "Pocket-Sized Rescue",
+            "text": "<p>Card-sized sachets made for life in motion - freshness that fits right in your pocket.</p>",
+            "link": ""
+          }
+        },
+        "image_iKjDD3": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/icon-everyday-4.png",
+            "select_icon": "bag",
+            "heading": "Anywhere, Anytime Care",
+            "text": "<p>Wherever you are, one wipe delivers quick freshness - no water, no worry, no pause.</p>",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_mhNKkd",
+        "image_8tB3Ph",
+        "image_iKjDD3"
+      ],
+      "name": "t:sections.features-banner.settings.presets.name",
+      "settings": {
+        "heading": "",
+        "size_heading_mobile": 60,
+        "size_heading": 60,
+        "icon_width_mobile": 36,
+        "icon_width_desktop": 48,
+        "icon_layout": "center",
+        "columns_desktop": "3",
+        "icon_layout_mobile": "slider",
+        "color_body_icon": "rgba(0,0,0,0)",
+        "color_background_icon": "rgba(0,0,0,0)",
+        "color_body_text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 20,
+        "margin-bottom": 32
+      }
+    },
+    "apps_HCd6PJ": {
+      "type": "apps",
+      "blocks": {
+        "quinn_shoppable_reel_app_cards_block_3HeQk6": {
+          "type": "shopify://apps/quinn-shoppable-reel/blocks/app-cards-block/483fa771-9c4d-49e4-8c0d-0155f4b872d6",
+          "settings": {
+            "custom_metaobject_handle": "null",
+            "background_color": "#ffffff",
+            "margin_desktop": "10px 0px 0px 0px",
+            "margin_mobile": "5px 0px 0px 0px",
+            "padding_desktop": "10px 10px 10px 10px",
+            "padding_mobile": "10px 5px 10px 5px"
+          }
+        }
+      },
+      "block_order": [
+        "quinn_shoppable_reel_app_cards_block_3HeQk6"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "collage_9iiTJ6": {
+      "type": "collage",
+      "blocks": {
+        "image_RULC3G": {
+          "type": "image",
+          "settings": {
+            "heading": "Designed for the Modern You",
+            "heading_disable_on_mobile": false,
+            "size_heading": 100,
+            "size_heading_mobile": 100,
+            "text": "<p>Smart Pull Box!! Because Today’s You Deserves Smarter Design</p>",
+            "text_disable_on_mobile": false,
+            "button_select": "primary",
+            "button_label": "",
+            "button_disable_on_mobile": false,
+            "button_link": "",
+            "desktop_image": "shopify://shop_images/S1_TSI.webp",
+            "desktop_text_vertical_position": "bottom",
+            "desktop_text_horizontal_position": "left",
+            "mobile_text_vertical_position": "top",
+            "mobile_text_horizontal_position": "left",
+            "color-body-text": "rgba(0,0,0,0)",
+            "color-overlay": "rgba(0,0,0,0)",
+            "color-overlay-opacity": 100
+          }
+        },
+        "image_i3VEG4": {
+          "type": "image",
+          "settings": {
+            "heading": "Dual-Textured",
+            "heading_disable_on_mobile": false,
+            "size_heading": 100,
+            "size_heading_mobile": 110,
+            "text": "<p>for the Perfect Clean Every Time</p>",
+            "text_disable_on_mobile": false,
+            "button_select": "primary",
+            "button_label": "",
+            "button_disable_on_mobile": false,
+            "button_link": "",
+            "desktop_image": "shopify://shop_images/ChatGPT_Image_Nov_3_2025_01_17_53_PM.png",
+            "desktop_text_vertical_position": "center",
+            "desktop_text_horizontal_position": "center",
+            "mobile_text_vertical_position": "center",
+            "mobile_text_horizontal_position": "center",
+            "color-body-text": "rgba(0,0,0,0)",
+            "color-overlay": "rgba(0,0,0,0)",
+            "color-overlay-opacity": 100
+          }
+        },
+        "image_zWcYe9": {
+          "type": "image",
+          "settings": {
+            "heading": "Individually Packaged",
+            "heading_disable_on_mobile": false,
+            "size_heading": 100,
+            "size_heading_mobile": 100,
+            "text": "<p>Handy for every move, wherever you go</p>",
+            "text_disable_on_mobile": false,
+            "button_select": "secondary",
+            "button_label": "",
+            "button_disable_on_mobile": false,
+            "button_link": "",
+            "desktop_image": "shopify://shop_images/Untitled_design_18.png",
+            "desktop_text_vertical_position": "center",
+            "desktop_text_horizontal_position": "center",
+            "mobile_text_vertical_position": "center",
+            "mobile_text_horizontal_position": "center",
+            "color-body-text": "rgba(0,0,0,0)",
+            "color-overlay": "rgba(0,0,0,0)",
+            "color-overlay-opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_RULC3G",
+        "image_i3VEG4",
+        "image_zWcYe9"
+      ],
+      "disabled": true,
+      "name": "t:sections.collage.settings.presets.name",
+      "settings": {
+        "heading": "",
+        "full-width-enabled": false,
+        "desktop_layout": "row",
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 20,
+        "margin-bottom": 20
+      }
+    },
+    "rich_text_zh44YE": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_LYTHfB": {
+          "type": "heading",
+          "settings": {
+            "heading": "Pure ingredients. Proven care",
+            "disable_on_mobile": false,
+            "size_heading": 100,
+            "size_heading_mobile": 100
+          }
+        },
+        "text_49hKH4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Every Terra wipe is crafted with care and tested to meet highest international standards, delivering consistent quality, uncompromising safety, and gentle care you can trust.</p>",
+            "disable_on_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_LYTHfB",
+        "text_49hKH4"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "section_width": "regular",
+        "desktop_text_horizontal_position": "center",
+        "padding_settings": true,
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 0,
+        "margin-bottom": 0
+      }
+    },
+    "brands_Af367K": {
+      "type": "brands",
+      "blocks": {
+        "image_rMm69R": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_46.png",
+            "link": ""
+          }
+        },
+        "image_QXBK7e": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_51.png",
+            "link": ""
+          }
+        },
+        "image_EQJEjn": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_50.png",
+            "link": ""
+          }
+        },
+        "image_HRHMLn": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_453.png",
+            "link": ""
+          }
+        },
+        "image_x6x6en": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_47.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_rMm69R",
+        "image_QXBK7e",
+        "image_EQJEjn",
+        "image_HRHMLn",
+        "image_x6x6en"
+      ],
+      "name": "t:sections.brands.settings.presets.name",
+      "settings": {
+        "heading": "",
+        "animation": "swipe",
+        "animation_speed": "100",
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 20,
+        "margin-bottom": 20
+      }
+    },
+    "image_banner_79GmEt": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_NmRNwm": {
+          "type": "heading",
+          "settings": {
+            "heading": "YOUR POCKET-SIZED FRESHNESS.",
+            "disable_on_mobile": false,
+            "size_heading": 120,
+            "size_heading_mobile": 120
+          }
+        }
+      },
+      "block_order": [
+        "heading_NmRNwm"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "heading": "",
+        "full-width-enabled": true,
+        "slide_height": "fixed_height",
+        "desktop_fixed_height": 540,
+        "mobile_fixed_height": 280,
+        "desktop_image": "shopify://shop_images/banner-trravel-fresh.jpg",
+        "desktop_text_vertical_position": "center",
+        "desktop_text_horizontal_position": "center",
+        "mobile_text_vertical_position": "center",
+        "mobile_text_horizontal_position": "center",
+        "color-heading": "#ffffff",
+        "section-color-overlay": "rgba(0,0,0,0)",
+        "section-color-overlay-opacity": 100,
+        "color-body-text": "#ffffff",
+        "text-container-color": "rgba(0,0,0,0)",
+        "color-overlay-opacity": 100,
+        "margin-top": 0,
+        "margin-bottom": 0
+      }
+    },
+    "featured_collection_7bazQq": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "",
+        "disable_on_mobile": false,
+        "hide_empty_section": false,
+        "collection": "outdoor-care",
+        "product_list": [],
+        "products_to_show": 4,
+        "enable_stack_products": false,
+        "show_view_all": false,
+        "button_select": "primary",
+        "number_of_column_desktop": 4,
+        "spacing_desktop": "16",
+        "make_products_full_width": true,
+        "number_of_column_mobile": 2.1,
+        "spacing_mobile": "16",
+        "text_alignment": "left",
+        "image_ratio": "square",
+        "show_video": false,
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_product_rating": true,
+        "enable_quick_add_button": false,
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 20,
+        "margin-bottom": 20
+      }
+    },
+    "apps_63HBPB": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_testimonials_carousel_product_Arc9jf": {
+          "type": "shopify://apps/judge-me-reviews/blocks/testimonials_carousel_product/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "show_sample_reviews": true,
+            "reviews_selection": "all",
+            "products": [
+              "terra-travel-refresh-wipes"
+            ],
+            "star_rating": "all",
+            "max_reviews": 20,
+            "quote_marks_size": "small",
+            "product_name_text_size": "small",
+            "verified_badge_style": "icon",
+            "card_height": "medium",
+            "text_size": "small",
+            "stars_size": "medium",
+            "arrows_position": "bottom",
+            "max_width": 1100,
+            "corner_styling": "soft",
+            "quote_marks_style": "serif",
+            "card_color": "#ffffff",
+            "stars_and_quote_marks_color": "#108474",
+            "text_color": "#000000",
+            "arrows_color": "#000000",
+            "show_border": false,
+            "border_color": "#108474",
+            "show_drop_shadow": false,
+            "transition_speed": 5,
+            "header_text": "Customers are saying",
+            "show_average_rating": true
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_testimonials_carousel_product_Arc9jf"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "rich_text_EDyRgi": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8Yc7jK": {
+          "type": "heading",
+          "settings": {
+            "heading": "Frequently Asked Questions",
+            "disable_on_mobile": false,
+            "size_heading": 100,
+            "size_heading_mobile": 100
+          }
+        },
+        "text_FFtday": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Explore answers to the most common questions about Terra Travel Refresh Wipes, crafted to give you clarity and confidence.</p>",
+            "disable_on_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_8Yc7jK",
+        "text_FFtday"
+      ],
+      "disabled": true,
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "section_width": "regular",
+        "desktop_text_horizontal_position": "center",
+        "padding_settings": true,
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 0,
+        "margin-bottom": 0
+      }
+    },
+    "read_more_faqs_daUDjp": {
+      "type": "read-more-faqs",
+      "blocks": {
+        "collapsible_tab_YhptCY": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Can travel wipes be used on both face and body?",
+            "content": "<p>Yes, Travel wipes are generally safe for both, and TERRA Travel Wipes are formulated with gentle plant-based cleansers and soothing extracts suitable for face and body use.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_R4gLiQ": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Are TERRA Travel Wipes safe for sensitive skin?",
+            "content": "<p>Yes, with ingredients like Cucumber, Witch Hazel, Oat Extract, and Vitamin E, TERRA Travel Wipes calm irritation, reduce sensitivity, and provide comfort for delicate skin.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_q74wbf": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Do travel wipes help remove sweat and dirt during long journeys?",
+            "content": "<p>Yes, Travel wipes are designed to lift away dirt and sweat when you don't have access to water. TERRA Travel Wipes provide instant freshness without over-drying.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_YUEVMh": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Can TERRA Travel Wipes replace a shower while travelling?",
+            "content": "<p>TERRA Travel Wipes are a convenient alternative when showering isn't possible, offering instant freshness and cleanliness. For deep cleansing, regular washing is still recommended when available.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_memH9p": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Do TERRA Travel Wipes keep skin hydrated?",
+            "content": "<p>Yes, enriched with Cucumber, Oat, and Vitamin E, TERRA Travel Wipes hydrate and soften skin while cleansing, preventing dryness.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_hyWBYx": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Do TERRA Travel Wipes have a strong fragrance?",
+            "content": "<p>No, TERRA Travel Wipes feature a balanced, refreshing aroma from Frankincense & Myrrh, combined with natural freshness from Cucumber, without being overpowering.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_ejrCBn": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Can I carry TERRA Travel Wipes in my hand luggage on flights?",
+            "content": "<p>Yes, TERRA Travel Wipes are compact and travel-friendly, making them ideal for carrying in hand luggage or personal bags during flights.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_PDeCyG": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Are TERRA Travel Wipes suitable for children as well as adults?",
+            "content": "<p>Yes, the gentle, plant-based formula makes TERRA Travel Wipes suitable for the whole family, including children.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_X8tK8z": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Do TERRA Travel Wipes leave any sticky residue after use?",
+            "content": "<p>No, TERRA Travel Wipes cleanse effectively while leaving skin fresh and comfortable, without any sticky or greasy feel.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_wCdEVc": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Are TERRA Travel Wipes eco-friendly and biodegradable?",
+            "content": "<p>Yes, Made with 100% plant-based biodegradable fabric and 0% plastic, TERRA Travel Wipes are safe for your skin and kind to the environment.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_nWfeYi": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Do TERRA Travel Wipes help soothe skin irritation caused by travel?",
+            "content": "<p>Yes, Witch Hazel and Oat Extract in TERRA Travel Wipes help calm irritation, reduce redness, and keep skin comfortable during long journeys.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_VMtnU8": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Can TERRA Travel Wipes be used daily, not just while travelling?",
+            "content": "<p>Yes, TERRA Travel Wipes are safe and gentle enough for everyday use whenever skin needs a quick refresh, whether travelling, commuting, or at home.</p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_tab_YhptCY",
+        "collapsible_tab_R4gLiQ",
+        "collapsible_tab_q74wbf",
+        "collapsible_tab_YUEVMh",
+        "collapsible_tab_memH9p",
+        "collapsible_tab_hyWBYx",
+        "collapsible_tab_ejrCBn",
+        "collapsible_tab_PDeCyG",
+        "collapsible_tab_X8tK8z",
+        "collapsible_tab_wCdEVc",
+        "collapsible_tab_nWfeYi",
+        "collapsible_tab_VMtnU8"
+      ],
+      "name": "Read More Faqs",
+      "settings": {
+        "heading_faq": "Frequently Asked Questions",
+        "subheading_faq": "Explore answers to the most common questions about Terra Travel Refresh Wipes, crafted to give you clarity and confidence.",
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "compact-size-enabled": true,
+        "margin-top": 20,
+        "margin-bottom": 20
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs",
+    "main",
+    "benefits_product_dxPiTY",
+    "image_with_text_WxXpEB",
+    "features_banner_TVyU8D",
+    "apps_HCd6PJ",
+    "collage_9iiTJ6",
+    "rich_text_zh44YE",
+    "brands_Af367K",
+    "image_banner_79GmEt",
+    "featured_collection_7bazQq",
+    "apps_63HBPB",
+    "rich_text_EDyRgi",
+    "read_more_faqs_daUDjp"
+  ]
+}

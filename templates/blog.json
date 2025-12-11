@@ -1,1 +1,77 @@
-{"sections":{"main":{"type":"main-blog","settings":{"show_image":true,"show_date":true,"show_author":true,"image_ratio":"square","column_alignment":"left","columns_desktop":"3","button_select":"primary","size_heading":70,"size_heading_mobile":80,"margin-top":20,"margin-bottom":20}},"1764917964f9845ed6":{"type":"_blocks","blocks":{"ai_gen_block_9532b44_KyMWeU":{"type":"ai_gen_block_9532b44","settings":{"heading":"Related Articles","heading_alignment":"center","articles_limit":5,"show_meta":true,"show_excerpt":true,"read_more_text":"Read more","cards_per_row_desktop":35,"card_spacing":20,"section_padding_top":30,"section_padding_bottom":50,"show_navigation":true,"nav_button_bg":"#ffffff","nav_button_border":"#e7e7e7","nav_button_color":"#151515","nav_button_hover_bg":"#151515","nav_button_hover_color":"#ffffff","background_color":"#ffffff","heading_color":"#151515","card_background_color":"#ffffff","card_title_color":"#151515","excerpt_color":"#717171","meta_color":"#717171","link_color":"#016d5c","link_hover_color":"#151515","heading_size":30,"card_title_size":18,"excerpt_size":14,"card_border_radius":4},"blocks":{}}},"block_order":["ai_gen_block_9532b44_KyMWeU"],"disabled":true,"settings":{}}},"order":["main","1764917964f9845ed6"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-blog",
+      "settings": {
+        "show_image": true,
+        "show_date": true,
+        "show_author": true,
+        "image_ratio": "square",
+        "column_alignment": "left",
+        "columns_desktop": "3",
+        "button_select": "primary",
+        "size_heading": 70,
+        "size_heading_mobile": 80,
+        "margin-top": 20,
+        "margin-bottom": 20
+      }
+    },
+    "1764917964f9845ed6": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_9532b44_KyMWeU": {
+          "type": "ai_gen_block_9532b44",
+          "settings": {
+            "heading": "Related Articles",
+            "heading_alignment": "center",
+            "articles_limit": 5,
+            "show_meta": true,
+            "show_excerpt": true,
+            "read_more_text": "Read more",
+            "cards_per_row_desktop": 35,
+            "card_spacing": 20,
+            "section_padding_top": 30,
+            "section_padding_bottom": 50,
+            "show_navigation": true,
+            "nav_button_bg": "#ffffff",
+            "nav_button_border": "#e7e7e7",
+            "nav_button_color": "#151515",
+            "nav_button_hover_bg": "#151515",
+            "nav_button_hover_color": "#ffffff",
+            "background_color": "#ffffff",
+            "heading_color": "#151515",
+            "card_background_color": "#ffffff",
+            "card_title_color": "#151515",
+            "excerpt_color": "#717171",
+            "meta_color": "#717171",
+            "link_color": "#016d5c",
+            "link_hover_color": "#151515",
+            "heading_size": 30,
+            "card_title_size": 18,
+            "excerpt_size": 14,
+            "card_border_radius": 4
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_9532b44_KyMWeU"
+      ],
+      "disabled": true,
+      "settings": {}
+    }
+  },
+  "order": [
+    "main",
+    "1764917964f9845ed6"
+  ]
+}

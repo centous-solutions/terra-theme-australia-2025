@@ -1,1 +1,877 @@
-{"sections":{"image_banner_MBxPeG":{"type":"image-banner","blocks":{"heading_NDrpEA":{"type":"heading","settings":{"heading":"ROOTED IN NATURE.\nDRIVEN BY STYLE.","disable_on_mobile":false,"size_heading":160,"size_heading_mobile":110}}},"block_order":["heading_NDrpEA"],"custom_css":["h2 {margin-top: 300px;}"],"name":"t:sections.image-banner.presets.name","settings":{"heading":"","full-width-enabled":true,"slide_height":"fixed_height","desktop_fixed_height":580,"mobile_fixed_height":200,"desktop_image":"shopify:\/\/shop_images\/sustainability-banner-bg.jpg","desktop_text_vertical_position":"bottom","desktop_text_horizontal_position":"center","mobile_text_vertical_position":"center","mobile_text_horizontal_position":"center","color-heading":"rgba(0,0,0,0)","section-color-overlay":"rgba(0,0,0,0)","section-color-overlay-opacity":100,"color-body-text":"#ffffff","text-container-color":"rgba(0,0,0,0)","color-overlay-opacity":100,"margin-top":0,"margin-bottom":0}},"main":{"type":"main-page","disabled":true,"custom_css":[],"settings":{"compact-size-enabled":true,"size_heading":140,"size_heading_mobile":100,"color-body-text":"#151515","color-bg-overlay":"rgba(0,0,0,0)","color-overlay-opacity":100,"margin-top":60,"margin-bottom":60}},"rich_text_kJVPxC":{"type":"rich-text","blocks":{"text_hPfzng":{"type":"text","settings":{"text":"<p>At Terra, sustainability is not a trend <\/p><p>it’s our foundation. <\/p><p>Every product we create is designed to live beautifully in your hands, and gently return to the Earth. By combining eco-conscious innovation with modern design, we prove that responsibility can be stylish, effortless, and uncompromising.<\/p>","disable_on_mobile":false}}},"block_order":["text_hPfzng"],"name":"t:sections.rich-text.presets.name","settings":{"section_width":"short","desktop_text_horizontal_position":"center","color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":100,"margin-bottom":100}},"rich_text_with_image_RYLQHF":{"type":"rich-text-with-image","blocks":{"text_GMn9Ci":{"type":"text","settings":{"text":"Sustainability is more than a promise, it’s something you can see for yourself.","font_uppercase":"uppercase","disable_on_mobile":false,"size_heading":140,"size_heading_mobile":100,"line_height":1.5,"button_link1":"","button_link2":"","button_link3":""}}},"block_order":["text_GMn9Ci"],"name":"t:sections.rich-text-with-image.presets.name","settings":{"desktop_text_horizontal_position":"center","color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":0,"margin-bottom":0}},"video_section_iM4n4P":{"type":"video-section","blocks":{"heading_FCByb7":{"type":"heading","settings":{"heading":"Naturally Gone","disable_on_mobile":false,"size_heading":140,"size_heading_mobile":140}},"text_TPghwx":{"type":"text","settings":{"text":"<p>Watch how TERRA nappies break down completely, returning gently to nature, leaving nothing behind.<\/p>","disable_on_mobile":false}}},"block_order":["heading_FCByb7","text_TPghwx"],"name":"t:sections.video.settings.presets.name","settings":{"heading":"Biodegradable in Action","full-width-enabled":true,"content_position":"over_image","slide_height":"fixed_height","desktop_fixed_height":560,"mobile_fixed_height":460,"video_hosted":"","video_hosted_mobile":"","video_url":"","layout_mobile":"video","layout":"hero_first","color-heading-text":"rgba(0,0,0,0)","section-color-overlay":"rgba(0,0,0,0)","section-color-overlay-opacity":100,"color-body-text":"#ffffff","color-overlay":"rgba(0,0,0,0)","color-overlay-opacity":100,"desktop_image":"shopify:\/\/shop_images\/Screenshot_2025-10-22_at_1.44.07_PM.jpg","desktop_text_vertical_position":"bottom","desktop_text_horizontal_position":"right","mobile_image":"shopify:\/\/shop_images\/terra.jpg","mobile_text_vertical_position":"center","mobile_text_horizontal_position":"center","margin-top":20,"margin-bottom":0}},"video_section_rzNJYx":{"type":"video-section","blocks":{"heading_wQPbjf":{"type":"heading","settings":{"heading":"Kind to the Ocean.","disable_on_mobile":true,"size_heading":140,"size_heading_mobile":140}},"text_Pha9nz":{"type":"text","settings":{"text":"<p>See how our wipes safely biodegrade in marine environments, protecting waterways and sea life.<\/p>","disable_on_mobile":true}}},"block_order":["heading_wQPbjf","text_Pha9nz"],"name":"t:sections.video.settings.presets.name","settings":{"heading":"","full-width-enabled":true,"content_position":"over_image","slide_height":"adapt_to_first_image","desktop_fixed_height":340,"mobile_fixed_height":460,"video_hosted":"","video_hosted_mobile":"","video_url":"","layout_mobile":"video","layout":"video_first","color-heading-text":"rgba(0,0,0,0)","section-color-overlay":"rgba(0,0,0,0)","section-color-overlay-opacity":100,"color-body-text":"#ffffff","color-overlay":"rgba(0,0,0,0)","color-overlay-opacity":100,"desktop_image":"shopify:\/\/shop_images\/terra_we.jpg","desktop_text_vertical_position":"bottom","desktop_text_horizontal_position":"left","mobile_text_vertical_position":"center","mobile_text_horizontal_position":"left","margin-top":0,"margin-bottom":0}},"rich_text_EpUNVV":{"type":"rich-text","blocks":{"heading_P6apUg":{"type":"heading","settings":{"heading":"PURE TO THE CORE","disable_on_mobile":false,"size_heading":160,"size_heading_mobile":100}},"text_JrVRTa":{"type":"text","settings":{"text":"<p>Experience the purity, our materials burn cleanly, free from toxins or harmful residue.<\/p>","disable_on_mobile":false}}},"block_order":["heading_P6apUg","text_JrVRTa"],"name":"t:sections.rich-text.presets.name","settings":{"section_width":"short","desktop_text_horizontal_position":"center","color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":40,"margin-bottom":44}},"background_video_yJHjQN":{"type":"background-video","blocks":{"button_CPCtRr":{"type":"button","settings":{"button_select":"primary","button_label":"Button label","disable_on_mobile":false,"button_link":"","second_button_select":"primary","second_button_label":"Button label","second_disable_on_mobile":false,"second_button_link":""}}},"block_order":["button_CPCtRr"],"name":"t:sections.background-video.presets.name","settings":{"heading":"","full-width-enabled":false,"video_hosted":"","mobile_video_hosted":"","autoplay":true,"video_controls":false,"video_url":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","original_ratio":"fixed_height","desktop_fixed_height":540,"mobile_fixed_height":220,"color-body-heading":"rgba(0,0,0,0)","color-overlay":"rgba(0,0,0,0)","color-overlay-opacity":100,"color-body-text":"rgba(0,0,0,0)","desktop_text_horizontal_position":"center","mobile_text_horizontal_position":"center","margin-top":0,"margin-bottom":0}},"rich_text_MF4VBG":{"type":"rich-text","blocks":{"heading_qtBWpG":{"type":"heading","settings":{"heading":"OUR COMMITMENTS","disable_on_mobile":false,"size_heading":180,"size_heading_mobile":150}},"text_DDjBPW":{"type":"text","settings":{"text":"<p>From Mother Earth — Naturally Made — Back to Earth<\/p>","disable_on_mobile":false}},"button_NY3eRx":{"type":"button","disabled":true,"settings":{"button_select":"primary","button_label":"Button label","button_link":"\/","disable_on_mobile":false}}},"block_order":["heading_qtBWpG","text_DDjBPW","button_NY3eRx"],"disabled":true,"name":"t:sections.rich-text.presets.name","settings":{"section_width":"regular","desktop_text_horizontal_position":"center","color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":20,"margin-bottom":0}},"background_video_BK97aU":{"type":"background-video","blocks":{"subheading_JiChwM":{"type":"subheading","disabled":true,"settings":{"subheading":"Tell your story","subheading_disable_on_mobile":false}},"heading_Re46L8":{"type":"heading","disabled":true,"settings":{"heading":"Video scene","disable_on_mobile":false,"size_heading":100,"size_heading_mobile":100}},"text_mfhkJF":{"type":"text","disabled":true,"settings":{"text":"<p>Explore in motion<\/p>","disable_on_mobile":false}},"button_zMQUem":{"type":"button","disabled":true,"settings":{"button_select":"primary","button_label":"Button label","disable_on_mobile":false,"button_link":"","second_button_select":"primary","second_button_label":"Button label","second_disable_on_mobile":false,"second_button_link":""}}},"block_order":["subheading_JiChwM","heading_Re46L8","text_mfhkJF","button_zMQUem"],"disabled":true,"name":"t:sections.background-video.presets.name","settings":{"heading":"","full-width-enabled":true,"video_hosted":"","autoplay":true,"video_controls":false,"video_url":"","original_ratio":"fixed_height","desktop_fixed_height":620,"mobile_fixed_height":220,"color-body-heading":"rgba(0,0,0,0)","color-overlay":"rgba(0,0,0,0)","color-overlay-opacity":100,"color-body-text":"rgba(0,0,0,0)","desktop_text_horizontal_position":"center","mobile_text_horizontal_position":"center","margin-top":0,"margin-bottom":20}},"image_banner_rm4X8r":{"type":"image-banner","blocks":{"heading_PitDT6":{"type":"heading","settings":{"heading":"GROWN BY\nNATURE","disable_on_mobile":false,"size_heading":200,"size_heading_mobile":110}},"text_mDWdJT":{"type":"text","settings":{"text":"<p>Every journey begins in the soil. We use sustainably grown bamboo, one of the world’s fastest-renewing plants, harvested without harming root systems, so it regrows naturally and keeps local ecosystems thriving.<\/p>","disable_on_mobile":false}}},"block_order":["heading_PitDT6","text_mDWdJT"],"custom_css":["p {max-width: 80%;}"],"name":"t:sections.image-banner.presets.name","settings":{"heading":"","full-width-enabled":true,"slide_height":"fixed_height","desktop_fixed_height":500,"mobile_fixed_height":280,"desktop_image":"shopify:\/\/shop_images\/sustainability-1.jpg","desktop_text_vertical_position":"center","desktop_text_horizontal_position":"left","mobile_text_vertical_position":"center","mobile_text_horizontal_position":"center","color-heading":"rgba(0,0,0,0)","section-color-overlay":"rgba(0,0,0,0)","section-color-overlay-opacity":100,"color-body-text":"#ffffff","text-container-color":"rgba(0,0,0,0)","color-overlay-opacity":100,"margin-top":24,"margin-bottom":0}},"image_with_text_jz8Yrb":{"type":"image-with-text","blocks":{"subheading_G6HkjC":{"type":"subheading","disabled":true,"settings":{"subheading":"Tell you story","subheading_disable_on_mobile":false}},"heading_XzVmmR":{"type":"heading","settings":{"heading":"MADE THE NATURAL WAY","disable_on_mobile":false,"size_heading":200,"size_heading_mobile":200}},"text_FqKcqn":{"type":"text","settings":{"text":"<p>Most “eco brands” simply place orders with distant factories they’ve never seen.<br\/><br\/>We took a different path — building our own dedicated manufacturing network and long-term local partners, so we know exactly where and how every part is made.<br\/><br\/>We choose only naturally processed materials and source ingredients locally wherever possible, reducing transport miles while ensuring complete traceability, safety, and freshness.<br\/><br\/>This level of control is how we make sure every product truly reflects our values — from the very first fibre to the final pack.<\/p>","text_style":"body","disable_on_mobile":false}},"button_UEbWtT":{"type":"button","disabled":true,"settings":{"button_select":"primary","button_label":"Button label","button_link":"\/","disable_on_mobile":false}}},"block_order":["subheading_G6HkjC","heading_XzVmmR","text_FqKcqn","button_UEbWtT"],"disabled":true,"name":"t:sections.image-with-text.presets.name","settings":{"title":"","layout":"image_first","desktop-percentage-image-width":50,"full-width-enabled":false,"slide_height":"adapt_to_first_image","desktop_fixed_height":580,"mobile_fixed_height":460,"section-color-body-text":"rgba(0,0,0,0)","section-color-overlay":"rgba(0,0,0,0)","section-color-overlay-opacity":100,"color-body-text":"rgba(0,0,0,0)","color-overlay":"rgba(0,0,0,0)","color-overlay-opacity":100,"desktop_image":"shopify:\/\/shop_images\/sustainability-2.png","desktop_text_vertical_position":"center","desktop_text_horizontal_position":"left","mobile_text_horizontal_position":"left","margin-top":32,"margin-bottom":32}},"before_and_after_tNHUJ8":{"type":"before-and-after","blocks":{"subheading_YneVrz":{"type":"subheading","disabled":true,"settings":{"subheading":"Tell you story","subheading_disable_on_mobile":false}},"heading_iVBKqD":{"type":"heading","settings":{"heading":"MADE THE NATURAL WAY","disable_on_mobile":false,"size_heading":200,"size_heading_mobile":100}},"text_eUz4hC":{"type":"text","settings":{"text":"<p>We took a different path, building our own dedicated manufacturing network and long-term local partners, so we know exactly where and how every part is made.<br\/><br\/>We choose only naturally processed materials and source ingredients locally wherever possible, reducing transport miles while ensuring complete traceability, safety, and freshness.<br\/><br\/>This level of control is how we make sure every product truly reflects our values, from the very first fibre to the final pack.<\/p>","text_style":"body","disable_on_mobile":false}},"button_knAGKp":{"type":"button","disabled":true,"settings":{"button_select":"primary","button_label":"Button label","button_link":"\/","disable_on_mobile":false}}},"block_order":["subheading_YneVrz","heading_iVBKqD","text_eUz4hC","button_knAGKp"],"name":"t:sections.before_and_after.name","settings":{"title":"","layout":"image_first","before_image":"shopify:\/\/shop_images\/Terra_Walker_16s_3_folded_-02.png","after_image":"shopify:\/\/shop_images\/Terra_Walker_16s_3_folded_-01.png","desktop-percentage-image-width":53,"full-width-enabled":true,"slide_height":"adapt_to_first_image","desktop_fixed_height":480,"mobile_fixed_height":360,"enable_badges":false,"before_badge":"Before","after_badge":"After","section-color-body-text":"rgba(0,0,0,0)","section-color-overlay":"#3e6a5e","section-color-overlay-opacity":100,"color-body-text":"#ffffff","color-overlay":"rgba(0,0,0,0)","color-overlay-opacity":100,"desktop_text_vertical_position":"center","desktop_text_horizontal_position":"left","mobile_text_horizontal_position":"center","margin-top":0,"margin-bottom":0}},"image_with_text_mYfmbh":{"type":"image-with-text","blocks":{"heading_VQYbt4":{"type":"heading","settings":{"heading":"POWERED BY RENEWABLES","disable_on_mobile":false,"size_heading":200,"size_heading_mobile":120}},"text_UNdigh":{"type":"text","settings":{"text":"<p>Our manufacturing runs on 100% renewable energy, cutting carbon emissions while producing at scale, proving sustainability and performance can go hand in hand.<\/p>","text_style":"body","disable_on_mobile":false}}},"block_order":["heading_VQYbt4","text_UNdigh"],"name":"t:sections.image-with-text.presets.name","settings":{"title":"","layout":"text_first","desktop-percentage-image-width":50,"full-width-enabled":true,"slide_height":"fixed_height","desktop_fixed_height":420,"mobile_fixed_height":400,"section-color-body-text":"rgba(0,0,0,0)","section-color-overlay":"#ebf5f5","section-color-overlay-opacity":100,"color-body-text":"rgba(0,0,0,0)","color-overlay":"rgba(0,0,0,0)","color-overlay-opacity":100,"desktop_image":"shopify:\/\/shop_images\/sustainability-3.jpg","desktop_text_vertical_position":"center","desktop_text_horizontal_position":"left","mobile_text_horizontal_position":"left","margin-top":0,"margin-bottom":0}},"image_with_text_pXdTKX":{"type":"image-with-text","blocks":{"heading_KAbHNa":{"type":"heading","settings":{"heading":"ZERO-WASTE WATER","disable_on_mobile":false,"size_heading":200,"size_heading_mobile":120}},"text_wgYymW":{"type":"text","settings":{"text":"<p>We use closed-loop water systems, purifying any process water until it returns 10× cleaner than it entered.<br\/><br\/>No polluted discharge. No water wasted.<\/p>","text_style":"body","disable_on_mobile":false}}},"block_order":["heading_KAbHNa","text_wgYymW"],"name":"t:sections.image-with-text.presets.name","settings":{"title":"","layout":"image_first","desktop-percentage-image-width":50,"full-width-enabled":true,"slide_height":"fixed_height","desktop_fixed_height":420,"mobile_fixed_height":400,"section-color-body-text":"rgba(0,0,0,0)","section-color-overlay":"#ebf5f5","section-color-overlay-opacity":100,"color-body-text":"rgba(0,0,0,0)","color-overlay":"rgba(0,0,0,0)","color-overlay-opacity":100,"desktop_image":"shopify:\/\/shop_images\/u1872116196_upper-class_photography_close_up_in_a_clean_and_mod_b660858d-d708-4217-9700-969e78de2f7e.png","desktop_text_vertical_position":"center","desktop_text_horizontal_position":"left","mobile_text_horizontal_position":"left","margin-top":0,"margin-bottom":0}},"image_banner_czg9dB":{"type":"image-banner","blocks":{"heading_4FJma7":{"type":"heading","settings":{"heading":"CIRCULAR BY DESIGN","disable_on_mobile":false,"size_heading":200,"size_heading_mobile":100}},"text_YzJPhG":{"type":"text","settings":{"text":"<p>We design for the end from the very start.<br\/>Every part of our packaging is<strong> paper-based, recyclable or compostable<\/strong>, and <strong>plastic-free down to the cloth core<\/strong>. Even<strong> off-cuts are re-purposed, <\/strong>turned into<strong> fish bait, cleaning pads, or donated to local kindergartens <\/strong>for crafts.<\/p>","disable_on_mobile":false}}},"block_order":["heading_4FJma7","text_YzJPhG"],"name":"t:sections.image-banner.presets.name","settings":{"heading":"","full-width-enabled":true,"slide_height":"fixed_height","desktop_fixed_height":500,"mobile_fixed_height":440,"desktop_image":"shopify:\/\/shop_images\/Screenshot_2025-10-22_at_2.33.13_PM.jpg","desktop_text_vertical_position":"center","desktop_text_horizontal_position":"right","mobile_image":"shopify:\/\/shop_images\/Screenshot_2025-11-04_at_11.28.30_AM.jpg","mobile_text_vertical_position":"center","mobile_text_horizontal_position":"center","color-heading":"#ffffff","section-color-overlay":"rgba(0,0,0,0)","section-color-overlay-opacity":100,"color-body-text":"#ffffff","text-container-color":"rgba(0,0,0,0)","color-overlay-opacity":100,"margin-top":0,"margin-bottom":0}},"image_with_text_VJAc9e":{"type":"image-with-text","blocks":{"heading_Jehp4d":{"type":"heading","settings":{"heading":"NOTHING LEFT BEHIND","disable_on_mobile":false,"size_heading":200,"size_heading_mobile":120}},"text_xqQMkg":{"type":"text","settings":{"text":"<p>From creation to end-of-life, our products are designed to return safely to the earth. Even if they end up in landfill, their natural materials enrich the soil as they break down.<br\/><br\/>We may not be 100% there yet, but we’re closer than anyone in the world. <\/p>","text_style":"body","disable_on_mobile":false}}},"block_order":["heading_Jehp4d","text_xqQMkg"],"name":"t:sections.image-with-text.presets.name","settings":{"title":"","layout":"text_first","desktop-percentage-image-width":50,"full-width-enabled":true,"slide_height":"fixed_height","desktop_fixed_height":420,"mobile_fixed_height":400,"section-color-body-text":"rgba(0,0,0,0)","section-color-overlay":"rgba(0,0,0,0)","section-color-overlay-opacity":100,"color-body-text":"rgba(0,0,0,0)","color-overlay":"rgba(0,0,0,0)","color-overlay-opacity":100,"desktop_image":"shopify:\/\/shop_images\/sustainability-6.jpg","desktop_text_vertical_position":"center","desktop_text_horizontal_position":"left","mobile_text_horizontal_position":"left","margin-top":0,"margin-bottom":0}},"image_banner_3mqx9P":{"type":"image-banner","blocks":{"heading_czMpdM":{"type":"heading","settings":{"heading":"EVERY CHOICE MATTERS","disable_on_mobile":false,"size_heading":200,"size_heading_mobile":120}},"text_86WWEg":{"type":"text","settings":{"text":"<p>With Terra, you don’t have to choose between style, quality, and sustainability. You can have it all, and feel good knowing the Earth does too.<\/p>","disable_on_mobile":false}},"button_DzH84B":{"type":"button","disabled":true,"settings":{"button_select":"primary","button_label":"Button label","disable_on_mobile":false,"button_link":"\/","second_button_select":"primary","second_button_label":"Button label","second_disable_on_mobile":false,"second_button_link":""}}},"block_order":["heading_czMpdM","text_86WWEg","button_DzH84B"],"name":"t:sections.image-banner.presets.name","settings":{"heading":"","full-width-enabled":true,"slide_height":"fixed_height","desktop_fixed_height":500,"mobile_fixed_height":300,"desktop_image":"shopify:\/\/shop_images\/forest-banner-bg.jpg","desktop_text_vertical_position":"center","desktop_text_horizontal_position":"center","mobile_text_vertical_position":"center","mobile_text_horizontal_position":"center","color-heading":"rgba(0,0,0,0)","section-color-overlay":"rgba(0,0,0,0)","section-color-overlay-opacity":100,"color-body-text":"#ffffff","text-container-color":"rgba(0,0,0,0)","color-overlay-opacity":100,"margin-top":0,"margin-bottom":0}}},"order":["image_banner_MBxPeG","main","rich_text_kJVPxC","rich_text_with_image_RYLQHF","video_section_iM4n4P","video_section_rzNJYx","rich_text_EpUNVV","background_video_yJHjQN","rich_text_MF4VBG","background_video_BK97aU","image_banner_rm4X8r","image_with_text_jz8Yrb","before_and_after_tNHUJ8","image_with_text_mYfmbh","image_with_text_pXdTKX","image_banner_czg9dB","image_with_text_VJAc9e","image_banner_3mqx9P"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner_MBxPeG": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_NDrpEA": {
+          "type": "heading",
+          "settings": {
+            "heading": "ROOTED IN NATURE.\nDRIVEN BY STYLE.",
+            "disable_on_mobile": false,
+            "size_heading": 160,
+            "size_heading_mobile": 110
+          }
+        }
+      },
+      "block_order": [
+        "heading_NDrpEA"
+      ],
+      "custom_css": [
+        "h2 {margin-top: 300px;}"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "heading": "",
+        "full-width-enabled": true,
+        "slide_height": "fixed_height",
+        "desktop_fixed_height": 580,
+        "mobile_fixed_height": 200,
+        "desktop_image": "shopify://shop_images/sustainability-banner-bg.jpg",
+        "desktop_text_vertical_position": "bottom",
+        "desktop_text_horizontal_position": "center",
+        "mobile_text_vertical_position": "center",
+        "mobile_text_horizontal_position": "center",
+        "color-heading": "rgba(0,0,0,0)",
+        "section-color-overlay": "rgba(0,0,0,0)",
+        "section-color-overlay-opacity": 100,
+        "color-body-text": "#ffffff",
+        "text-container-color": "rgba(0,0,0,0)",
+        "color-overlay-opacity": 100,
+        "margin-top": 0,
+        "margin-bottom": 0
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "compact-size-enabled": true,
+        "size_heading": 140,
+        "size_heading_mobile": 100,
+        "color-body-text": "#151515",
+        "color-bg-overlay": "rgba(0,0,0,0)",
+        "color-overlay-opacity": 100,
+        "margin-top": 60,
+        "margin-bottom": 60
+      }
+    },
+    "rich_text_kJVPxC": {
+      "type": "rich-text",
+      "blocks": {
+        "text_hPfzng": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At Terra, sustainability is not a trend </p><p>it’s our foundation. </p><p>Every product we create is designed to live beautifully in your hands, and gently return to the Earth. By combining eco-conscious innovation with modern design, we prove that responsibility can be stylish, effortless, and uncompromising.</p>",
+            "disable_on_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "text_hPfzng"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "section_width": "short",
+        "desktop_text_horizontal_position": "center",
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 100,
+        "margin-bottom": 100
+      }
+    },
+    "rich_text_with_image_RYLQHF": {
+      "type": "rich-text-with-image",
+      "blocks": {
+        "text_GMn9Ci": {
+          "type": "text",
+          "settings": {
+            "text": "Sustainability is more than a promise, it’s something you can see for yourself.",
+            "font_uppercase": "uppercase",
+            "disable_on_mobile": false,
+            "size_heading": 140,
+            "size_heading_mobile": 100,
+            "line_height": 1.5,
+            "button_link1": "",
+            "button_link2": "",
+            "button_link3": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_GMn9Ci"
+      ],
+      "name": "t:sections.rich-text-with-image.presets.name",
+      "settings": {
+        "desktop_text_horizontal_position": "center",
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 0,
+        "margin-bottom": 0
+      }
+    },
+    "video_section_iM4n4P": {
+      "type": "video-section",
+      "blocks": {
+        "heading_FCByb7": {
+          "type": "heading",
+          "settings": {
+            "heading": "Naturally Gone",
+            "disable_on_mobile": false,
+            "size_heading": 140,
+            "size_heading_mobile": 140
+          }
+        },
+        "text_TPghwx": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Watch how TERRA nappies break down completely, returning gently to nature, leaving nothing behind.</p>",
+            "disable_on_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_FCByb7",
+        "text_TPghwx"
+      ],
+      "name": "t:sections.video.settings.presets.name",
+      "settings": {
+        "heading": "Biodegradable in Action",
+        "full-width-enabled": true,
+        "content_position": "over_image",
+        "slide_height": "fixed_height",
+        "desktop_fixed_height": 560,
+        "mobile_fixed_height": 460,
+        "video_url": "",
+        "layout_mobile": "video",
+        "layout": "hero_first",
+        "color-heading-text": "rgba(0,0,0,0)",
+        "section-color-overlay": "rgba(0,0,0,0)",
+        "section-color-overlay-opacity": 100,
+        "color-body-text": "#ffffff",
+        "color-overlay": "rgba(0,0,0,0)",
+        "color-overlay-opacity": 100,
+        "desktop_image": "shopify://shop_images/Screenshot_2025-10-22_at_1.44.07_PM.jpg",
+        "desktop_text_vertical_position": "bottom",
+        "desktop_text_horizontal_position": "right",
+        "mobile_image": "shopify://shop_images/terra.jpg",
+        "mobile_text_vertical_position": "center",
+        "mobile_text_horizontal_position": "center",
+        "margin-top": 20,
+        "margin-bottom": 0
+      }
+    },
+    "video_section_rzNJYx": {
+      "type": "video-section",
+      "blocks": {
+        "heading_wQPbjf": {
+          "type": "heading",
+          "settings": {
+            "heading": "Kind to the Ocean.",
+            "disable_on_mobile": true,
+            "size_heading": 140,
+            "size_heading_mobile": 140
+          }
+        },
+        "text_Pha9nz": {
+          "type": "text",
+          "settings": {
+            "text": "<p>See how our wipes safely biodegrade in marine environments, protecting waterways and sea life.</p>",
+            "disable_on_mobile": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_wQPbjf",
+        "text_Pha9nz"
+      ],
+      "name": "t:sections.video.settings.presets.name",
+      "settings": {
+        "heading": "",
+        "full-width-enabled": true,
+        "content_position": "over_image",
+        "slide_height": "adapt_to_first_image",
+        "desktop_fixed_height": 340,
+        "mobile_fixed_height": 460,
+        "video_url": "",
+        "layout_mobile": "video",
+        "layout": "video_first",
+        "color-heading-text": "rgba(0,0,0,0)",
+        "section-color-overlay": "rgba(0,0,0,0)",
+        "section-color-overlay-opacity": 100,
+        "color-body-text": "#ffffff",
+        "color-overlay": "rgba(0,0,0,0)",
+        "color-overlay-opacity": 100,
+        "desktop_image": "shopify://shop_images/terra_we.jpg",
+        "desktop_text_vertical_position": "bottom",
+        "desktop_text_horizontal_position": "left",
+        "mobile_text_vertical_position": "center",
+        "mobile_text_horizontal_position": "left",
+        "margin-top": 0,
+        "margin-bottom": 0
+      }
+    },
+    "rich_text_EpUNVV": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_P6apUg": {
+          "type": "heading",
+          "settings": {
+            "heading": "PURE TO THE CORE",
+            "disable_on_mobile": false,
+            "size_heading": 160,
+            "size_heading_mobile": 100
+          }
+        },
+        "text_JrVRTa": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Experience the purity, our materials burn cleanly, free from toxins or harmful residue.</p>",
+            "disable_on_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_P6apUg",
+        "text_JrVRTa"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "section_width": "short",
+        "desktop_text_horizontal_position": "center",
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 40,
+        "margin-bottom": 44
+      }
+    },
+    "background_video_yJHjQN": {
+      "type": "background-video",
+      "blocks": {
+        "button_CPCtRr": {
+          "type": "button",
+          "settings": {
+            "button_select": "primary",
+            "button_label": "Button label",
+            "disable_on_mobile": false,
+            "button_link": "",
+            "second_button_select": "primary",
+            "second_button_label": "Button label",
+            "second_disable_on_mobile": false,
+            "second_button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "button_CPCtRr"
+      ],
+      "name": "t:sections.background-video.presets.name",
+      "settings": {
+        "heading": "",
+        "full-width-enabled": false,
+        "autoplay": true,
+        "video_controls": false,
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "original_ratio": "fixed_height",
+        "desktop_fixed_height": 540,
+        "mobile_fixed_height": 220,
+        "color-body-heading": "rgba(0,0,0,0)",
+        "color-overlay": "rgba(0,0,0,0)",
+        "color-overlay-opacity": 100,
+        "color-body-text": "rgba(0,0,0,0)",
+        "desktop_text_horizontal_position": "center",
+        "mobile_text_horizontal_position": "center",
+        "margin-top": 0,
+        "margin-bottom": 0
+      }
+    },
+    "rich_text_MF4VBG": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_qtBWpG": {
+          "type": "heading",
+          "settings": {
+            "heading": "OUR COMMITMENTS",
+            "disable_on_mobile": false,
+            "size_heading": 180,
+            "size_heading_mobile": 150
+          }
+        },
+        "text_DDjBPW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>From Mother Earth — Naturally Made — Back to Earth</p>",
+            "disable_on_mobile": false
+          }
+        },
+        "button_NY3eRx": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_select": "primary",
+            "button_label": "Button label",
+            "button_link": "/",
+            "disable_on_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_qtBWpG",
+        "text_DDjBPW",
+        "button_NY3eRx"
+      ],
+      "disabled": true,
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "section_width": "regular",
+        "desktop_text_horizontal_position": "center",
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 20,
+        "margin-bottom": 0
+      }
+    },
+    "background_video_BK97aU": {
+      "type": "background-video",
+      "blocks": {
+        "subheading_JiChwM": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "Tell your story",
+            "subheading_disable_on_mobile": false
+          }
+        },
+        "heading_Re46L8": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Video scene",
+            "disable_on_mobile": false,
+            "size_heading": 100,
+            "size_heading_mobile": 100
+          }
+        },
+        "text_mfhkJF": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Explore in motion</p>",
+            "disable_on_mobile": false
+          }
+        },
+        "button_zMQUem": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_select": "primary",
+            "button_label": "Button label",
+            "disable_on_mobile": false,
+            "button_link": "",
+            "second_button_select": "primary",
+            "second_button_label": "Button label",
+            "second_disable_on_mobile": false,
+            "second_button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_JiChwM",
+        "heading_Re46L8",
+        "text_mfhkJF",
+        "button_zMQUem"
+      ],
+      "disabled": true,
+      "name": "t:sections.background-video.presets.name",
+      "settings": {
+        "heading": "",
+        "full-width-enabled": true,
+        "autoplay": true,
+        "video_controls": false,
+        "video_url": "",
+        "original_ratio": "fixed_height",
+        "desktop_fixed_height": 620,
+        "mobile_fixed_height": 220,
+        "color-body-heading": "rgba(0,0,0,0)",
+        "color-overlay": "rgba(0,0,0,0)",
+        "color-overlay-opacity": 100,
+        "color-body-text": "rgba(0,0,0,0)",
+        "desktop_text_horizontal_position": "center",
+        "mobile_text_horizontal_position": "center",
+        "margin-top": 0,
+        "margin-bottom": 20
+      }
+    },
+    "image_banner_rm4X8r": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_PitDT6": {
+          "type": "heading",
+          "settings": {
+            "heading": "GROWN BY\nNATURE",
+            "disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 110
+          }
+        },
+        "text_mDWdJT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Every journey begins in the soil. We use sustainably grown bamboo, one of the world’s fastest-renewing plants, harvested without harming root systems, so it regrows naturally and keeps local ecosystems thriving.</p>",
+            "disable_on_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_PitDT6",
+        "text_mDWdJT"
+      ],
+      "custom_css": [
+        "p {max-width: 80%;}"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "heading": "",
+        "full-width-enabled": true,
+        "slide_height": "fixed_height",
+        "desktop_fixed_height": 500,
+        "mobile_fixed_height": 280,
+        "desktop_image": "shopify://shop_images/sustainability-1.jpg",
+        "desktop_text_vertical_position": "center",
+        "desktop_text_horizontal_position": "left",
+        "mobile_text_vertical_position": "center",
+        "mobile_text_horizontal_position": "center",
+        "color-heading": "rgba(0,0,0,0)",
+        "section-color-overlay": "rgba(0,0,0,0)",
+        "section-color-overlay-opacity": 100,
+        "color-body-text": "#ffffff",
+        "text-container-color": "rgba(0,0,0,0)",
+        "color-overlay-opacity": 100,
+        "margin-top": 24,
+        "margin-bottom": 0
+      }
+    },
+    "image_with_text_jz8Yrb": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_G6HkjC": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "Tell you story",
+            "subheading_disable_on_mobile": false
+          }
+        },
+        "heading_XzVmmR": {
+          "type": "heading",
+          "settings": {
+            "heading": "MADE THE NATURAL WAY",
+            "disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 200
+          }
+        },
+        "text_FqKcqn": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Most “eco brands” simply place orders with distant factories they’ve never seen.<br/><br/>We took a different path — building our own dedicated manufacturing network and long-term local partners, so we know exactly where and how every part is made.<br/><br/>We choose only naturally processed materials and source ingredients locally wherever possible, reducing transport miles while ensuring complete traceability, safety, and freshness.<br/><br/>This level of control is how we make sure every product truly reflects our values — from the very first fibre to the final pack.</p>",
+            "text_style": "body",
+            "disable_on_mobile": false
+          }
+        },
+        "button_UEbWtT": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_select": "primary",
+            "button_label": "Button label",
+            "button_link": "/",
+            "disable_on_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "subheading_G6HkjC",
+        "heading_XzVmmR",
+        "text_FqKcqn",
+        "button_UEbWtT"
+      ],
+      "disabled": true,
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "title": "",
+        "layout": "image_first",
+        "desktop-percentage-image-width": 50,
+        "full-width-enabled": false,
+        "slide_height": "adapt_to_first_image",
+        "desktop_fixed_height": 580,
+        "mobile_fixed_height": 460,
+        "section-color-body-text": "rgba(0,0,0,0)",
+        "section-color-overlay": "rgba(0,0,0,0)",
+        "section-color-overlay-opacity": 100,
+        "color-body-text": "rgba(0,0,0,0)",
+        "color-overlay": "rgba(0,0,0,0)",
+        "color-overlay-opacity": 100,
+        "desktop_image": "shopify://shop_images/sustainability-2.png",
+        "desktop_text_vertical_position": "center",
+        "desktop_text_horizontal_position": "left",
+        "mobile_text_horizontal_position": "left",
+        "margin-top": 32,
+        "margin-bottom": 32
+      }
+    },
+    "before_and_after_tNHUJ8": {
+      "type": "before-and-after",
+      "blocks": {
+        "subheading_YneVrz": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "Tell you story",
+            "subheading_disable_on_mobile": false
+          }
+        },
+        "heading_iVBKqD": {
+          "type": "heading",
+          "settings": {
+            "heading": "MADE THE NATURAL WAY",
+            "disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 100
+          }
+        },
+        "text_eUz4hC": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We took a different path, building our own dedicated manufacturing network and long-term local partners, so we know exactly where and how every part is made.<br/><br/>We choose only naturally processed materials and source ingredients locally wherever possible, reducing transport miles while ensuring complete traceability, safety, and freshness.<br/><br/>This level of control is how we make sure every product truly reflects our values, from the very first fibre to the final pack.</p>",
+            "text_style": "body",
+            "disable_on_mobile": false
+          }
+        },
+        "button_knAGKp": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_select": "primary",
+            "button_label": "Button label",
+            "button_link": "/",
+            "disable_on_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "subheading_YneVrz",
+        "heading_iVBKqD",
+        "text_eUz4hC",
+        "button_knAGKp"
+      ],
+      "name": "t:sections.before_and_after.name",
+      "settings": {
+        "title": "",
+        "layout": "image_first",
+        "before_image": "shopify://shop_images/Terra_Walker_16s_3_folded_-02.png",
+        "after_image": "shopify://shop_images/Terra_Walker_16s_3_folded_-01.png",
+        "desktop-percentage-image-width": 53,
+        "full-width-enabled": true,
+        "slide_height": "adapt_to_first_image",
+        "desktop_fixed_height": 480,
+        "mobile_fixed_height": 360,
+        "enable_badges": false,
+        "before_badge": "Before",
+        "after_badge": "After",
+        "section-color-body-text": "rgba(0,0,0,0)",
+        "section-color-overlay": "#3e6a5e",
+        "section-color-overlay-opacity": 100,
+        "color-body-text": "#ffffff",
+        "color-overlay": "rgba(0,0,0,0)",
+        "color-overlay-opacity": 100,
+        "desktop_text_vertical_position": "center",
+        "desktop_text_horizontal_position": "left",
+        "mobile_text_horizontal_position": "center",
+        "margin-top": 0,
+        "margin-bottom": 0
+      }
+    },
+    "image_with_text_mYfmbh": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_VQYbt4": {
+          "type": "heading",
+          "settings": {
+            "heading": "POWERED BY RENEWABLES",
+            "disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 120
+          }
+        },
+        "text_UNdigh": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our manufacturing runs on 100% renewable energy, cutting carbon emissions while producing at scale, proving sustainability and performance can go hand in hand.</p>",
+            "text_style": "body",
+            "disable_on_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_VQYbt4",
+        "text_UNdigh"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "title": "",
+        "layout": "text_first",
+        "desktop-percentage-image-width": 50,
+        "full-width-enabled": true,
+        "slide_height": "fixed_height",
+        "desktop_fixed_height": 420,
+        "mobile_fixed_height": 400,
+        "section-color-body-text": "rgba(0,0,0,0)",
+        "section-color-overlay": "#ebf5f5",
+        "section-color-overlay-opacity": 100,
+        "color-body-text": "rgba(0,0,0,0)",
+        "color-overlay": "rgba(0,0,0,0)",
+        "color-overlay-opacity": 100,
+        "desktop_image": "shopify://shop_images/sustainability-3.jpg",
+        "desktop_text_vertical_position": "center",
+        "desktop_text_horizontal_position": "left",
+        "mobile_text_horizontal_position": "left",
+        "margin-top": 0,
+        "margin-bottom": 0
+      }
+    },
+    "image_with_text_pXdTKX": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_KAbHNa": {
+          "type": "heading",
+          "settings": {
+            "heading": "ZERO-WASTE WATER",
+            "disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 120
+          }
+        },
+        "text_wgYymW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We use closed-loop water systems, purifying any process water until it returns 10× cleaner than it entered.<br/><br/>No polluted discharge. No water wasted.</p>",
+            "text_style": "body",
+            "disable_on_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_KAbHNa",
+        "text_wgYymW"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "title": "",
+        "layout": "image_first",
+        "desktop-percentage-image-width": 50,
+        "full-width-enabled": true,
+        "slide_height": "fixed_height",
+        "desktop_fixed_height": 420,
+        "mobile_fixed_height": 400,
+        "section-color-body-text": "rgba(0,0,0,0)",
+        "section-color-overlay": "#ebf5f5",
+        "section-color-overlay-opacity": 100,
+        "color-body-text": "rgba(0,0,0,0)",
+        "color-overlay": "rgba(0,0,0,0)",
+        "color-overlay-opacity": 100,
+        "desktop_image": "shopify://shop_images/u1872116196_upper-class_photography_close_up_in_a_clean_and_mod_b660858d-d708-4217-9700-969e78de2f7e.png",
+        "desktop_text_vertical_position": "center",
+        "desktop_text_horizontal_position": "left",
+        "mobile_text_horizontal_position": "left",
+        "margin-top": 0,
+        "margin-bottom": 0
+      }
+    },
+    "image_banner_czg9dB": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_4FJma7": {
+          "type": "heading",
+          "settings": {
+            "heading": "CIRCULAR BY DESIGN",
+            "disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 100
+          }
+        },
+        "text_YzJPhG": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We design for the end from the very start.<br/>Every part of our packaging is<strong> paper-based, recyclable or compostable</strong>, and <strong>plastic-free down to the cloth core</strong>. Even<strong> off-cuts are re-purposed, </strong>turned into<strong> fish bait, cleaning pads, or donated to local kindergartens </strong>for crafts.</p>",
+            "disable_on_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_4FJma7",
+        "text_YzJPhG"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "heading": "",
+        "full-width-enabled": true,
+        "slide_height": "fixed_height",
+        "desktop_fixed_height": 500,
+        "mobile_fixed_height": 440,
+        "desktop_image": "shopify://shop_images/Screenshot_2025-10-22_at_2.33.13_PM.jpg",
+        "desktop_text_vertical_position": "center",
+        "desktop_text_horizontal_position": "right",
+        "mobile_image": "shopify://shop_images/Screenshot_2025-11-04_at_11.28.30_AM.jpg",
+        "mobile_text_vertical_position": "center",
+        "mobile_text_horizontal_position": "center",
+        "color-heading": "#ffffff",
+        "section-color-overlay": "rgba(0,0,0,0)",
+        "section-color-overlay-opacity": 100,
+        "color-body-text": "#ffffff",
+        "text-container-color": "rgba(0,0,0,0)",
+        "color-overlay-opacity": 100,
+        "margin-top": 0,
+        "margin-bottom": 0
+      }
+    },
+    "image_with_text_VJAc9e": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Jehp4d": {
+          "type": "heading",
+          "settings": {
+            "heading": "NOTHING LEFT BEHIND",
+            "disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 120
+          }
+        },
+        "text_xqQMkg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>From creation to end-of-life, our products are designed to return safely to the earth. Even if they end up in landfill, their natural materials enrich the soil as they break down.<br/><br/>We may not be 100% there yet, but we’re closer than anyone in the world. </p>",
+            "text_style": "body",
+            "disable_on_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_Jehp4d",
+        "text_xqQMkg"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "title": "",
+        "layout": "text_first",
+        "desktop-percentage-image-width": 50,
+        "full-width-enabled": true,
+        "slide_height": "fixed_height",
+        "desktop_fixed_height": 420,
+        "mobile_fixed_height": 400,
+        "section-color-body-text": "rgba(0,0,0,0)",
+        "section-color-overlay": "rgba(0,0,0,0)",
+        "section-color-overlay-opacity": 100,
+        "color-body-text": "rgba(0,0,0,0)",
+        "color-overlay": "rgba(0,0,0,0)",
+        "color-overlay-opacity": 100,
+        "desktop_image": "shopify://shop_images/sustainability-6.jpg",
+        "desktop_text_vertical_position": "center",
+        "desktop_text_horizontal_position": "left",
+        "mobile_text_horizontal_position": "left",
+        "margin-top": 0,
+        "margin-bottom": 0
+      }
+    },
+    "image_banner_3mqx9P": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_czMpdM": {
+          "type": "heading",
+          "settings": {
+            "heading": "EVERY CHOICE MATTERS",
+            "disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 120
+          }
+        },
+        "text_86WWEg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>With Terra, you don’t have to choose between style, quality, and sustainability. You can have it all, and feel good knowing the Earth does too.</p>",
+            "disable_on_mobile": false
+          }
+        },
+        "button_DzH84B": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_select": "primary",
+            "button_label": "Button label",
+            "disable_on_mobile": false,
+            "button_link": "/",
+            "second_button_select": "primary",
+            "second_button_label": "Button label",
+            "second_disable_on_mobile": false,
+            "second_button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_czMpdM",
+        "text_86WWEg",
+        "button_DzH84B"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "heading": "",
+        "full-width-enabled": true,
+        "slide_height": "fixed_height",
+        "desktop_fixed_height": 500,
+        "mobile_fixed_height": 300,
+        "desktop_image": "shopify://shop_images/forest-banner-bg.jpg",
+        "desktop_text_vertical_position": "center",
+        "desktop_text_horizontal_position": "center",
+        "mobile_text_vertical_position": "center",
+        "mobile_text_horizontal_position": "center",
+        "color-heading": "rgba(0,0,0,0)",
+        "section-color-overlay": "rgba(0,0,0,0)",
+        "section-color-overlay-opacity": 100,
+        "color-body-text": "#ffffff",
+        "text-container-color": "rgba(0,0,0,0)",
+        "color-overlay-opacity": 100,
+        "margin-top": 0,
+        "margin-bottom": 0
+      }
+    }
+  },
+  "order": [
+    "image_banner_MBxPeG",
+    "main",
+    "rich_text_kJVPxC",
+    "rich_text_with_image_RYLQHF",
+    "video_section_iM4n4P",
+    "video_section_rzNJYx",
+    "rich_text_EpUNVV",
+    "background_video_yJHjQN",
+    "rich_text_MF4VBG",
+    "background_video_BK97aU",
+    "image_banner_rm4X8r",
+    "image_with_text_jz8Yrb",
+    "before_and_after_tNHUJ8",
+    "image_with_text_mYfmbh",
+    "image_with_text_pXdTKX",
+    "image_banner_czg9dB",
+    "image_with_text_VJAc9e",
+    "image_banner_3mqx9P"
+  ]
+}

@@ -1,1 +1,453 @@
-{"sections":{"breadcrumbs":{"type":"main-breadcrumbs","disabled":true,"settings":{"full-width-enabled":true,"text_color":"#000000","background_color":"#eeeeee","margin-top":12,"margin-bottom":8}},"background_video_tre7mA":{"type":"background-video","blocks":{"subheading_KKnV3E":{"type":"subheading","disabled":true,"settings":{"subheading":"Tell your story","subheading_disable_on_mobile":false}},"heading_4Q3V8q":{"type":"heading","disabled":true,"settings":{"heading":"Video scene","disable_on_mobile":false,"size_heading":100,"size_heading_mobile":100}},"text_33X6MG":{"type":"text","disabled":true,"settings":{"text":"<p>Explore in motion<\/p>","disable_on_mobile":false}},"button_fwhakx":{"type":"button","settings":{"button_select":"primary","button_label":"Button label","disable_on_mobile":false,"button_link":"","second_button_select":"primary","second_button_label":"Button label","second_disable_on_mobile":false,"second_button_link":""}}},"block_order":["subheading_KKnV3E","heading_4Q3V8q","text_33X6MG","button_fwhakx"],"name":"t:sections.background-video.presets.name","settings":{"heading":"","full-width-enabled":true,"video_hosted":"shopify:\/\/files\/videos\/Terra Secret Recipe 2023.mp4","mobile_video_hosted":"shopify:\/\/files\/videos\/Terra Secret Recipe 2023.mp4","autoplay":true,"video_controls":false,"video_url":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","original_ratio":"fixed_height","desktop_fixed_height":600,"mobile_fixed_height":200,"color-body-heading":"rgba(0,0,0,0)","color-overlay":"rgba(0,0,0,0)","color-overlay-opacity":100,"color-body-text":"rgba(0,0,0,0)","desktop_text_horizontal_position":"center","mobile_text_horizontal_position":"center","margin-top":0,"margin-bottom":0}},"rich_text_fr3Ftz":{"type":"rich-text","blocks":{"heading_xcypf6":{"type":"heading","settings":{"heading":"85% PLANT BASED ECO TERRA NAPPIES FOR NATURAL, GENTLE CARE","disable_on_mobile":false,"size_heading":100,"size_heading_mobile":100}},"text_JaBdKT":{"type":"text","settings":{"text":"<p>Thoughtfully Crafted with 85% Plant-Based Materials, Terra Nappies are Dermatologist Tested, Chemical-Free, Gentle on Sensitive Skin, and Certified Safe for Babies. Loved by 15K+ Parents, Designed with Eco-Friendliness in Mind for Australian Families.<\/p>","disable_on_mobile":false}}},"block_order":["heading_xcypf6","text_JaBdKT"],"settings":{"section_width":"regular","desktop_text_horizontal_position":"center","padding_settings":true,"color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":24,"margin-bottom":12}},"title":{"type":"main-collection-title","disabled":true,"settings":{"full-width-enabled":true,"show_collection_description":true,"desktop_text_horizontal_position":"center","size_heading":140,"size_heading_mobile":120,"color-body-text":"#000000","background_color":"#e6efe8","margin-top":24,"margin-bottom":32}},"banner":{"type":"main-collection-banner","disabled":true,"settings":{"show_collection_description":true,"layout":"text_first","desktop-percentage-image-width":50,"slide_height":"adapt_to_first_image","desktop_fixed_height":320,"mobile_fixed_height":200,"full-width-enabled":true,"size_heading":150,"size_heading_mobile":120,"desktop_text_vertical_position":"center","desktop_text_horizontal_position":"left","mobile_text_horizontal_position":"center","color-body-text":"#000000","color-overlay":"#e3f2e6","color-overlay-opacity":100,"margin-top":0,"margin-bottom":0}},"product-grid":{"type":"main-collection-product-grid","disabled":true,"settings":{"products_per_page":24,"columns_mobile":"2","columns_desktop":"3","spacing_desktop":"8","full-width-enabled":false,"spacing_mobile":"16","image_ratio":"square","show_video":false,"show_secondary_image":true,"show_vendor":true,"show_product_rating":false,"enable_quick_add_button":true,"text_alignment":"center","toolbar_style":"buttons","enable_sorting":true,"enable_filtering":false,"filter_position":"always","margin-top":16,"margin-bottom":0}},"featured_collection_4VR8nK":{"type":"featured-collection","name":"t:sections.featured-collection.presets.name","settings":{"title":"ECO FRIENDLY NAPPIES LIKE NO OTHER","disable_on_mobile":false,"hide_empty_section":false,"collection":"nappies","product_list":[],"products_to_show":16,"enable_stack_products":true,"show_view_all":true,"button_select":"primary","number_of_column_desktop":4,"spacing_desktop":"16","make_products_full_width":true,"number_of_column_mobile":2.1,"spacing_mobile":"16","text_alignment":"left","image_ratio":"square","show_video":false,"show_secondary_image":false,"show_vendor":true,"show_product_rating":true,"enable_quick_add_button":false,"color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":20,"margin-bottom":20}},"video_section_MqzC8B":{"type":"video-section","blocks":{"heading_8W9zNL":{"type":"heading","settings":{"heading":"Naturally Gone","disable_on_mobile":false,"size_heading":140,"size_heading_mobile":140}},"text_6Thgrx":{"type":"text","settings":{"text":"<p>Watch how TERRA nappies break down completely, returning gently to nature, leaving nothing behind.<\/p>","disable_on_mobile":false}}},"block_order":["heading_8W9zNL","text_6Thgrx"],"name":"t:sections.video.settings.presets.name","settings":{"heading":"","full-width-enabled":true,"content_position":"over_image","slide_height":"fixed_height","desktop_fixed_height":560,"mobile_fixed_height":460,"video_hosted":"shopify:\/\/files\/videos\/terra nappy compost bin1.5.mp4","video_hosted_mobile":"shopify:\/\/files\/videos\/terra nappy compost bin1.5.mp4","video_url":"","layout_mobile":"video","layout":"hero_first","color-heading-text":"rgba(0,0,0,0)","section-color-overlay":"rgba(0,0,0,0)","section-color-overlay-opacity":100,"color-body-text":"#ffffff","color-overlay":"rgba(0,0,0,0)","color-overlay-opacity":100,"desktop_image":"shopify:\/\/shop_images\/Screenshot_2025-10-22_at_1.44.07_PM.jpg","desktop_text_vertical_position":"bottom","desktop_text_horizontal_position":"right","mobile_image":"shopify:\/\/shop_images\/terra.jpg","mobile_text_vertical_position":"center","mobile_text_horizontal_position":"center","margin-top":0,"margin-bottom":0}},"image_banner_tCB4Nz":{"type":"image-banner","blocks":{"heading_KMyqtM":{"type":"heading","settings":{"heading":"Smart Design. Zero Waste.","disable_on_mobile":false,"size_heading":200,"size_heading_mobile":100}},"text_eMpF7t":{"type":"text","settings":{"text":"<p>We design for the end from the very start.<br\/>Every part of our packaging is<strong> paper-based, recyclable or compostable<\/strong>, and <strong>plastic-free down to the cloth core<\/strong>. Even<strong> off-cuts are re-purposed, <\/strong>turned into<strong> fish bait, cleaning pads, or donated to local kindergartens <\/strong>for crafts.<\/p>","disable_on_mobile":false}}},"block_order":["heading_KMyqtM","text_eMpF7t"],"name":"t:sections.image-banner.presets.name","settings":{"heading":"","full-width-enabled":true,"slide_height":"fixed_height","desktop_fixed_height":500,"mobile_fixed_height":440,"desktop_image":"shopify:\/\/shop_images\/Screenshot_2025-10-22_at_2.33.13_PM.jpg","desktop_text_vertical_position":"center","desktop_text_horizontal_position":"right","mobile_image":"shopify:\/\/shop_images\/Screenshot_2025-11-04_at_11.28.30_AM.jpg","mobile_text_vertical_position":"center","mobile_text_horizontal_position":"center","color-heading":"#ffffff","section-color-overlay":"rgba(0,0,0,0)","section-color-overlay-opacity":100,"color-body-text":"#ffffff","text-container-color":"rgba(0,0,0,0)","color-overlay-opacity":100,"margin-top":0,"margin-bottom":0}},"before_and_after_7LgHTh":{"type":"before-and-after","blocks":{"subheading_6Ke8UK":{"type":"subheading","disabled":true,"settings":{"subheading":"Tell you story","subheading_disable_on_mobile":false}},"heading_6nmUKz":{"type":"heading","settings":{"heading":"MADE THE NATURAL WAY","disable_on_mobile":false,"size_heading":200,"size_heading_mobile":100}},"text_dyAXah":{"type":"text","settings":{"text":"<p>We took a different path, building our own dedicated manufacturing network and long-term local partners, so we know exactly where and how every part is made.<br\/><br\/>We choose only naturally processed materials and source ingredients locally wherever possible, reducing transport miles while ensuring complete traceability, safety, and freshness.<br\/><br\/>This level of control is how we make sure every product truly reflects our values, from the very first fibre to the final pack.<\/p>","text_style":"body","disable_on_mobile":false}},"button_epF7RM":{"type":"button","disabled":true,"settings":{"button_select":"primary","button_label":"Button label","button_link":"\/","disable_on_mobile":false}}},"block_order":["subheading_6Ke8UK","heading_6nmUKz","text_dyAXah","button_epF7RM"],"name":"t:sections.before_and_after.name","settings":{"title":"","layout":"image_first","before_image":"shopify:\/\/shop_images\/Terra_Walker_16s_3_folded_-02.png","after_image":"shopify:\/\/shop_images\/Terra_Walker_16s_3_folded_-01.png","desktop-percentage-image-width":53,"full-width-enabled":true,"slide_height":"adapt_to_first_image","desktop_fixed_height":480,"mobile_fixed_height":360,"enable_badges":false,"before_badge":"Before","after_badge":"After","section-color-body-text":"rgba(0,0,0,0)","section-color-overlay":"#3e6a5e","section-color-overlay-opacity":100,"color-body-text":"#ffffff","color-overlay":"rgba(0,0,0,0)","color-overlay-opacity":100,"desktop_text_vertical_position":"center","desktop_text_horizontal_position":"left","mobile_text_horizontal_position":"center","margin-top":0,"margin-bottom":0}},"features_banner_48DfGA":{"type":"features-banner","blocks":{"image_LpU9LC":{"type":"image","settings":{"desktop_image":"shopify:\/\/shop_images\/Terra_Nappy_Junior_14s-01.svg","select_icon":"bag","heading":"","text":"<p>Dermatologically Tested<\/p>","link":""}},"image_CKCXhM":{"type":"image","settings":{"desktop_image":"shopify:\/\/shop_images\/Terra_Nappy_Junior_14s-02.svg","select_icon":"bag","heading":"","text":"<p>Foodgrade Ink on Product & Packaging<\/p>","link":""}},"image_VGUkeA":{"type":"image","settings":{"desktop_image":"shopify:\/\/shop_images\/Terra_Nappy_Junior_14s-03.svg","select_icon":"bag","heading":"","text":"<p>Sustainably Crafted from Plant-Based Fibers<\/p>","link":""}},"image_b3UnVc":{"type":"image","settings":{"desktop_image":"shopify:\/\/shop_images\/Terra_Nappy_Junior_14s-05.svg","select_icon":"bag","heading":"","text":"<p>Plant-based Wetness Indicator<\/p>","link":""}}},"block_order":["image_LpU9LC","image_CKCXhM","image_VGUkeA","image_b3UnVc"],"settings":{"heading":"","size_heading_mobile":70,"size_heading":70,"icon_width_mobile":36,"icon_width_desktop":48,"icon_layout":"center","columns_desktop":"4","icon_layout_mobile":"grid","color_body_icon":"rgba(0,0,0,0)","color_background_icon":"rgba(0,0,0,0)","color_body_text":"rgba(0,0,0,0)","background_color":"#ecf5f4","margin-top":60,"margin-bottom":60}},"video_section_YADfKd":{"type":"video-section","blocks":{"heading_xrg3Dq":{"type":"heading","disabled":true,"settings":{"heading":"Kind to the Ocean.","disable_on_mobile":true,"size_heading":140,"size_heading_mobile":140}},"text_ACeJ8q":{"type":"text","settings":{"text":"<p>See how our wipes safely biodegrade in marine environments, protecting waterways and sea life.<\/p>","disable_on_mobile":true}}},"block_order":["heading_xrg3Dq","text_ACeJ8q"],"disabled":true,"name":"t:sections.video.settings.presets.name","settings":{"heading":"","full-width-enabled":true,"content_position":"over_image","slide_height":"adapt_to_first_image","desktop_fixed_height":340,"mobile_fixed_height":460,"video_hosted":"shopify:\/\/files\/videos\/Terra Wipe In Sea Water March 2025.mp4","video_hosted_mobile":"shopify:\/\/files\/videos\/Terra Wipe In Sea Water March 2025.mp4","video_url":"","layout_mobile":"video","layout":"video_first","color-heading-text":"rgba(0,0,0,0)","section-color-overlay":"rgba(0,0,0,0)","section-color-overlay-opacity":100,"color-body-text":"#ffffff","color-overlay":"rgba(0,0,0,0)","color-overlay-opacity":100,"desktop_image":"shopify:\/\/shop_images\/terra_we.jpg","desktop_text_vertical_position":"bottom","desktop_text_horizontal_position":"left","mobile_text_vertical_position":"center","mobile_text_horizontal_position":"left","margin-top":0,"margin-bottom":0}},"video_section_9a3GyB":{"type":"video-section","disabled":true,"name":"t:sections.video.settings.presets.name","settings":{"heading":"MEET OUR BIODEGRADABLE BABY WIPES","full-width-enabled":true,"content_position":"over_video","slide_height":"adapt_to_first_image","desktop_fixed_height":300,"mobile_fixed_height":200,"video_hosted":"shopify:\/\/files\/videos\/Terra Wipe In Sea Water March 2025.mp4","video_hosted_mobile":"shopify:\/\/files\/videos\/Terra Wipe In Sea Water March 2025.mp4","video_url":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","layout_mobile":"video","layout":"hero_first","color-heading-text":"#151515","section-color-overlay":"#ffffff","section-color-overlay-opacity":100,"color-body-text":"rgba(0,0,0,0)","color-overlay":"rgba(0,0,0,0)","color-overlay-opacity":100,"desktop_image":"shopify:\/\/shop_images\/baby_wipes.jpg","desktop_text_vertical_position":"center","desktop_text_horizontal_position":"center","mobile_text_vertical_position":"center","mobile_text_horizontal_position":"center","margin-top":32,"margin-bottom":0}},"features_banner_HLY33i":{"type":"features-banner","blocks":{"image_EEi9xG":{"type":"image","settings":{"desktop_image":"shopify:\/\/shop_images\/DNF_TERRA_Kiwifruit_70s_US-2024-03.svg","select_icon":"bag","heading":"","text":"<p>100% BAMBOO\u0003FIBRE<\/p>","link":""}},"image_K8h7hq":{"type":"image","settings":{"desktop_image":"shopify:\/\/shop_images\/DNF_TERRA_Kiwifruit_70s_US-2024-01.svg","select_icon":"bag","heading":"","text":"<p>ALL NATURAL\u0003INGREDIENTS<\/p>","link":""}},"image_mn7Hdh":{"type":"image","settings":{"desktop_image":"shopify:\/\/shop_images\/1892729.png","select_icon":"bin","heading":"","text":"<p>PLANT-BASED & RECYCLED LID<\/p>","link":""}},"image_8LCC4P":{"type":"image","settings":{"desktop_image":"shopify:\/\/shop_images\/DNF_TERRA_Kiwifruit_70s_US-2024-04.svg","select_icon":"bag","heading":"","text":"<p>NO PARABENS<\/p>","link":""}}},"block_order":["image_EEi9xG","image_K8h7hq","image_mn7Hdh","image_8LCC4P"],"disabled":true,"settings":{"heading":"","size_heading_mobile":70,"size_heading":70,"icon_width_mobile":48,"icon_width_desktop":44,"icon_layout":"center","columns_desktop":"4","icon_layout_mobile":"grid","color_body_icon":"rgba(0,0,0,0)","color_background_icon":"rgba(0,0,0,0)","color_body_text":"rgba(0,0,0,0)","background_color":"#ecf5f4","margin-top":60,"margin-bottom":60}},"featured_collection_KiDaH9":{"type":"featured-collection","disabled":true,"name":"t:sections.featured-collection.presets.name","settings":{"title":"WE’RE PROUD - AND SO ARE YOU","disable_on_mobile":false,"hide_empty_section":false,"collection":"bamboo-wipes","product_list":[],"products_to_show":6,"enable_stack_products":false,"show_view_all":true,"button_select":"primary","number_of_column_desktop":4,"spacing_desktop":"16","make_products_full_width":true,"number_of_column_mobile":2.1,"spacing_mobile":"16","text_alignment":"left","image_ratio":"square","show_video":false,"show_secondary_image":false,"show_vendor":true,"show_product_rating":true,"enable_quick_add_button":false,"color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":20,"margin-bottom":20}},"testimonial_video_reels_riTGmJ":{"type":"testimonial-video-reels","blocks":{"video_BpdfVK":{"type":"video","settings":{"video_hosted":"shopify:\/\/files\/videos\/get.mp4","rating":"5","testimonial":"<p>\"Who doesn't want to do a catwalk spin when they finally find a nappy that doesn't leak and contains all the surprise explosions 😂😍.\"<\/p>","author":"Kailia Farias"}},"video_w8eair":{"type":"video","settings":{"video_hosted":"shopify:\/\/files\/videos\/PSA to all the new Mama’s, have you tried @terra.co.nz  🤝🏼✔️ad.mp4","rating":"5","testimonial":"<p>\"to all the new Mama’s, have you tried<a href=\"https:\/\/www.instagram.com\/terra.co.nz\/\">@terra.co.nz<\/a>?? 🤝🏼✔️.\"<\/p>","author":"Zoë"}},"video_M6UL9a":{"type":"video","settings":{"video_hosted":"shopify:\/\/files\/videos\/-Snuggles before sunrise, belly laughs before bedtime.Terra’s there for every beautifully ordina.mp4","rating":"5","testimonial":"<p>\"Snuggles before sunrise, belly laughs before bedtime. Terra’s there for every beautifully ordinary moment. 💚.\"<\/p>","author":""}},"video_CTeUXw":{"type":"video","settings":{"video_hosted":"shopify:\/\/files\/videos\/When you’re meant to be focusing on eating but the new wipes from @terra.co.nz are just too good.mp4","rating":"5","testimonial":"<p>\"When you’re meant to be focusing on eating but the new wipes from <a href=\"https:\/\/www.instagram.com\/terra.co.nz\/\">@terra.co.nz<\/a>are just too good 🤩.\"<\/p>","author":"Caitlinbigg"}},"video_tG4kGX":{"type":"video","settings":{"video_hosted":"shopify:\/\/files\/videos\/opened our new delivery of @terra.co.nz plant based nappies and wipes - gentle on the skin and s (1).mp4","rating":"5","testimonial":"<p>\"Open our new delivery of<a href=\"https:\/\/www.instagram.com\/terra.co.nz\/\">@terra.co.nz<\/a>plant based nappies and wipes - gentle on the skin and so comfy for my little babe 🌱🍯🤍.\"<\/p>","author":"Joannaaax"}},"video_PfFVa4":{"type":"video","settings":{"video_hosted":"shopify:\/\/files\/videos\/Between feeds, school runs, and everything in between, the last thing I want to worry about is n.mp4","rating":"5","testimonial":"<p>\"Between feeds, school runs, and everything in between, the last thing I want to worry about is nappies. Having a<a href=\"https:\/\/www.instagram.com\/terra.co.nz\/\">@terra.co.nz<\/a>subscription means one less thing on the mental load Plus, I love knowing we’re choosing nappies that are better for bub and the planet.\"<\/p>","author":"The spinks family"}}},"block_order":["video_BpdfVK","video_w8eair","video_M6UL9a","video_CTeUXw","video_tG4kGX","video_PfFVa4"],"disabled":true,"name":"t:sections.testimonial-video-reels.name","settings":{"heading":"Follow @terra.co.nz","video_button":false,"text_alignment":"center","text_style":"body","color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":20,"margin-bottom":20}},"rich_text_MxK7Bw":{"type":"rich-text","blocks":{"heading_yfJBLV":{"type":"heading","settings":{"heading":"Frequently Asked Questions","disable_on_mobile":false,"size_heading":100,"size_heading_mobile":100}},"text_bKAL6j":{"type":"text","settings":{"text":"<p>Explore answers to the most common questions about our products, crafted to give you clarity and confidence.<\/p>","disable_on_mobile":false}}},"block_order":["heading_yfJBLV","text_bKAL6j"],"disabled":true,"name":"t:sections.rich-text.presets.name","settings":{"section_width":"regular","desktop_text_horizontal_position":"center","padding_settings":true,"color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":0,"margin-bottom":0}},"read_more_faqs_tXnEX3":{"type":"read-more-faqs","blocks":{"collapsible_tab_ydDmKC":{"type":"collapsible_tab","settings":{"heading":"How do I choose the right size nappy for my baby?","content":"<p>Nappy sizes are usually based on your baby’s weight. Check the size chart on the packaging and size up if you notice leaks or red marks around the waist or thighs.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_VhrzgR":{"type":"collapsible_tab","settings":{"heading":"Can I use the same nappies for day and night?","content":"<p>Yes, Terra nappies are designed for all-day comfort and overnight protection, offering up to 12 hours of reliable absorbency to keep your baby dry and happy.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_aUABbK":{"type":"collapsible_tab","settings":{"heading":"Are Terra nappies biodegradable?","content":"<p>Yes, Terra nappies are made with biodegradable components such as bamboo fibre and a plant-based core. While not fully compostable due to hygiene regulations, they break down faster than conventional nappies and are a more eco-friendly choice.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_zVa74b":{"type":"collapsible_tab","settings":{"heading":"How long can my baby wear a Terra nappy?","content":"<p>Terra nappies provide up to 12 hours of dryness, thanks to their ultra-absorbent, plant-based core. They're perfect for both daytime use and overnight protection.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_HdW6qd":{"type":"collapsible_tab","settings":{"heading":"What sizes do Terra nappies come in?","content":"<p>Terra nappies are available in a full range of sizes, from newborn to toddler, ensuring a perfect, secure fit at every stage of growth.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_pHnXMK":{"type":"collapsible_tab","settings":{"heading":"Are Terra Nappies breathable?","content":"<p>Yes, Terra nappies are crafted with soft, breathable materials to support airflow and help maintain healthy skin, ensuring all-day comfort for your baby.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_4xUCt4":{"type":"collapsible_tab","settings":{"heading":"Can Terra nappies prevent nappy rash?","content":"<p>Yes, Terra’s breathable, chemical-free design minimises moisture build-up and irritation, helping to protect your baby’s skin and reduce the risk of nappy rash.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_D7mk7t":{"type":"collapsible_tab","settings":{"heading":"Can I buy Terra nappies in bulk?","content":"<p>Yes, Terra offers bulk packs and convenient subscription options so you can save money and ensure you’re always stocked up.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_Mn7w6M":{"type":"collapsible_tab","settings":{"heading":"How often should I change my baby’s nappy?","content":"<p>Newborns typically need a nappy change every 2–3 hours. As your baby grows, around 5–6 changes a day is common. Always change a soiled nappy promptly to help prevent irritation and nappy rash.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_xnwkMA":{"type":"collapsible_tab","settings":{"heading":"What makes Terra nappies different from regular nappies?","content":"<p>Terra nappies are made from sustainably sourced bamboo fibre, free from harsh chemicals, plastics, and fragrances. They offer 12-hour leak protection while being gentle on delicate skin and better for the environment.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_6X8n9t":{"type":"collapsible_tab","settings":{"heading":"Are Terra nappies safe for sensitive skin?","content":"<p>Absolutely, Terra nappies are dermatologically tested, hypoallergenic, and free from chlorine, parabens, latex, and fragrances, making them ideal for babies with sensitive or allergy-prone skin.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_QVJX8t":{"type":"collapsible_tab","settings":{"heading":"Do Terra nappies have a wetness indicator?","content":"<p>Yes, many of our nappies include a wetness indicator that changes colour when it’s time for a change making it easier for parents to stay on top of their baby’s needs.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_K99gjy":{"type":"collapsible_tab","settings":{"heading":"Are Terra nappies safe for sensitive skin?","content":"<p>Yes, Terra nappies are hypoallergenic, dermatologically tested, and made without harsh chemicals, fragrances and parabens, making them perfect for delicate and sensitive skin.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_XENV4x":{"type":"collapsible_tab","settings":{"heading":"What should I do if my baby gets a nappy rash?","content":"<p>Change nappies frequently, let your baby’s skin air-dry during changes, and apply a gentle, fragrance-free barrier cream. Terra’s breathable materials can also support healing by keeping skin dry.<\/p>","page":"","icon":"check_mark"}},"collapsible_tab_6hmJr4":{"type":"collapsible_tab","settings":{"heading":"When should I switch from nappies to nappy pants?","content":"<p>Switch to Terra nappy pants when your baby starts becoming more active or resists lying down for changes. Nappy pants are ideal for toddlers and make toilet training easier with a pull-up style.<\/p>","page":"","icon":"check_mark"}}},"block_order":["collapsible_tab_ydDmKC","collapsible_tab_VhrzgR","collapsible_tab_aUABbK","collapsible_tab_zVa74b","collapsible_tab_HdW6qd","collapsible_tab_pHnXMK","collapsible_tab_4xUCt4","collapsible_tab_D7mk7t","collapsible_tab_Mn7w6M","collapsible_tab_xnwkMA","collapsible_tab_6X8n9t","collapsible_tab_QVJX8t","collapsible_tab_K99gjy","collapsible_tab_XENV4x","collapsible_tab_6hmJr4"],"name":"Read More Faqs","settings":{"heading_faq":"Frequently Asked Questions","subheading_faq":"Explore answers to the most common questions about Terra Nappies, crafted to give you clarity and confidence.","color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","compact-size-enabled":true,"margin-top":20,"margin-bottom":20}},"collection_description_mQUhDA":{"type":"collection-description","name":"Collection Description","settings":{"rich_content":"","read_more_label":"Read More","read_less_label":"Read Less","background_color":"#ffffff","padding_top":0,"padding_bottom":50,"padding_top_mobile":0,"padding_bottom_mobile":40,"collapsed_height_desktop":150,"collapsed_height_mobile":600}}},"order":["breadcrumbs","background_video_tre7mA","rich_text_fr3Ftz","title","banner","product-grid","featured_collection_4VR8nK","video_section_MqzC8B","image_banner_tCB4Nz","before_and_after_7LgHTh","features_banner_48DfGA","video_section_YADfKd","video_section_9a3GyB","features_banner_HLY33i","featured_collection_KiDaH9","testimonial_video_reels_riTGmJ","rich_text_MxK7Bw","read_more_faqs_tXnEX3","collection_description_mQUhDA"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "breadcrumbs": {
+      "type": "main-breadcrumbs",
+      "disabled": true,
+      "settings": {
+        "full-width-enabled": false,
+        "text_color": "#000000",
+        "background_color": "#eeeeee",
+        "margin-top": 12,
+        "margin-bottom": 8
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "layout": "text_first",
+        "desktop-percentage-image-width": 50,
+        "slide_height": "adapt_to_first_image",
+        "desktop_fixed_height": 320,
+        "mobile_fixed_height": 200,
+        "full-width-enabled": true,
+        "size_heading": 150,
+        "size_heading_mobile": 120,
+        "desktop_text_vertical_position": "center",
+        "desktop_text_horizontal_position": "left",
+        "mobile_text_horizontal_position": "center",
+        "color-body-text": "#000000",
+        "color-overlay": "#e3f2e6",
+        "color-overlay-opacity": 100,
+        "margin-top": 0,
+        "margin-bottom": 0
+      }
+    },
+    "title": {
+      "type": "main-collection-title",
+      "settings": {
+        "full-width-enabled": true,
+        "show_collection_description": true,
+        "desktop_text_horizontal_position": "center",
+        "size_heading": 140,
+        "size_heading_mobile": 120,
+        "color-body-text": "#000000",
+        "background_color": "#e6efe8",
+        "margin-top": 24,
+        "margin-bottom": 32
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 24,
+        "columns_mobile": "2",
+        "columns_desktop": "3",
+        "spacing_desktop": "8",
+        "full-width-enabled": false,
+        "spacing_mobile": "16",
+        "image_ratio": "adapt",
+        "show_video": false,
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_product_rating": false,
+        "enable_quick_add_button": true,
+        "text_alignment": "left",
+        "toolbar_style": "buttons",
+        "enable_sorting": true,
+        "enable_filtering": true,
+        "filter_position": "always",
+        "margin-top": 16,
+        "margin-bottom": 0
+      }
+    },
+    "separator_qkXpB7": {
+      "type": "separator",
+      "settings": {
+        "heading": "",
+        "show-separator-line": true,
+        "full-width-line": false,
+        "color-background": "#dfdfdf",
+        "margin-top": 20,
+        "margin-bottom": 16
+      }
+    },
+    "rich_text_fr3Ftz": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_xcypf6": {
+          "type": "heading",
+          "settings": {
+            "heading": "Top Beauty Products",
+            "disable_on_mobile": false,
+            "size_heading": 100,
+            "size_heading_mobile": 100
+          }
+        }
+      },
+      "block_order": [
+        "heading_xcypf6"
+      ],
+      "settings": {
+        "section_width": "regular",
+        "desktop_text_horizontal_position": "center",
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 0,
+        "margin-bottom": 8
+      }
+    },
+    "multicolumn_BLNpDn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_4Rxaze": {
+          "type": "column",
+          "settings": {
+            "heading": "BKIND Conditioner bar",
+            "heading_disable_on_mobile": false,
+            "text": "",
+            "text_disable_on_mobile": false,
+            "button_select": "link",
+            "button_label": "Check now",
+            "button_disable_on_mobile": false,
+            "button_link": "",
+            "button_link_in_new_window": false
+          }
+        },
+        "column_kh4Bab": {
+          "type": "column",
+          "settings": {
+            "heading": "Lapis Facial Oil",
+            "heading_disable_on_mobile": false,
+            "text": "",
+            "text_disable_on_mobile": false,
+            "button_select": "link",
+            "button_label": "Check now",
+            "button_disable_on_mobile": false,
+            "button_link": "",
+            "button_link_in_new_window": false
+          }
+        },
+        "column_qjBE93": {
+          "type": "column",
+          "settings": {
+            "heading": "Moisturizing Body Lotion",
+            "heading_disable_on_mobile": false,
+            "text": "",
+            "text_disable_on_mobile": false,
+            "button_select": "link",
+            "button_label": "Check now",
+            "button_disable_on_mobile": false,
+            "button_link": "",
+            "button_link_in_new_window": false
+          }
+        }
+      },
+      "block_order": [
+        "column_4Rxaze",
+        "column_kh4Bab",
+        "column_qjBE93"
+      ],
+      "settings": {
+        "heading": "",
+        "swipe_on_mobile": true,
+        "full-width-enabled": false,
+        "image_ratio": "square",
+        "column_alignment": "center",
+        "size_heading": 80,
+        "size_heading_mobile": 80,
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 0,
+        "margin-bottom": 48
+      }
+    },
+    "collection_feature_XmBEar": {
+      "type": "collection-feature",
+      "blocks": {
+        "column_xc8mrj": {
+          "type": "column",
+          "settings": {
+            "collection": "",
+            "heading": "",
+            "color-body-text": "rgba(0,0,0,0)",
+            "background_color": "#faece6"
+          }
+        },
+        "column_nkp8dz": {
+          "type": "column",
+          "settings": {
+            "collection": "",
+            "heading": "",
+            "color-body-text": "rgba(0,0,0,0)",
+            "background_color": "#ebf4fa"
+          }
+        },
+        "column_d7bUHp": {
+          "type": "column",
+          "settings": {
+            "collection": "",
+            "heading": "",
+            "color-body-text": "rgba(0,0,0,0)",
+            "background_color": "#ecf7ee"
+          }
+        },
+        "column_igNhkc": {
+          "type": "column",
+          "settings": {
+            "collection": "",
+            "heading": "Essential Oils",
+            "color-body-text": "rgba(0,0,0,0)",
+            "background_color": "#fcfbe8"
+          }
+        }
+      },
+      "block_order": [
+        "column_xc8mrj",
+        "column_nkp8dz",
+        "column_d7bUHp",
+        "column_igNhkc"
+      ],
+      "settings": {
+        "heading": "Didn't find the product you're looking for?\nCheck out other collections:",
+        "size_heading": 250,
+        "line_height": 1.4,
+        "size_heading_mobile": 150,
+        "line_height_mobile": 1.8,
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "#ecf7ee",
+        "margin-top": 64,
+        "margin-bottom": 72
+      }
+    },
+    "features_banner_48DfGA": {
+      "type": "features-banner",
+      "blocks": {
+        "image_LpU9LC": {
+          "type": "image",
+          "settings": {
+            "select_icon": "bag",
+            "heading": "Vegan",
+            "text": "<p>Our entire collection is vegan and cruelty free.</p>",
+            "link": ""
+          }
+        },
+        "image_CKCXhM": {
+          "type": "image",
+          "settings": {
+            "select_icon": "bag",
+            "heading": "Fast & Free Shipping",
+            "text": "<p>Doorstep delivery to most of the US.</p>",
+            "link": ""
+          }
+        },
+        "image_VGUkeA": {
+          "type": "image",
+          "settings": {
+            "select_icon": "bag",
+            "heading": "Natural",
+            "text": "<p>We only use the finest natural ingredients.</p>",
+            "link": ""
+          }
+        },
+        "image_McECbz": {
+          "type": "image",
+          "settings": {
+            "select_icon": "bag",
+            "heading": "Recyclable",
+            "text": "<p>All packaging is recyclable and eco conscious.</p>",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_LpU9LC",
+        "image_CKCXhM",
+        "image_VGUkeA",
+        "image_McECbz"
+      ],
+      "settings": {
+        "heading": "",
+        "size_heading_mobile": 70,
+        "size_heading": 70,
+        "icon_width_mobile": 36,
+        "icon_width_desktop": 48,
+        "icon_layout": "center",
+        "columns_desktop": "4",
+        "icon_layout_mobile": "grid",
+        "color_body_icon": "rgba(0,0,0,0)",
+        "color_background_icon": "rgba(0,0,0,0)",
+        "color_body_text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 60,
+        "margin-bottom": 60
+      }
+    },
+    "newsletter_KQitJE": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_KhxnCQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get 20% off your first order",
+            "heading_disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 160
+          }
+        },
+        "paragraph_KJ3cj8": {
+          "type": "paragraph",
+          "settings": {
+            "paragraph": "<p>Be the first to know about new collections and exclusive offers.</p>",
+            "text_disable_on_mobile": false
+          }
+        },
+        "email_form_UAcpDk": {
+          "type": "email_form",
+          "settings": {
+            "button_select": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KhxnCQ",
+        "paragraph_KJ3cj8",
+        "email_form_UAcpDk"
+      ],
+      "settings": {
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "#ecf5f4",
+        "margin-top": 100,
+        "margin-bottom": 100
+      }
+    },
+    "collapsible_faqs_CTPydG": {
+      "type": "collapsible-faqs",
+      "blocks": {
+        "collapsible_tab_MG38H8": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible tab",
+            "content": "",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_eQmBa4": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible tab",
+            "content": "",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_B4ea9L": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible tab",
+            "content": "",
+            "page": "",
+            "icon": "check_mark"
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_tab_MG38H8",
+        "collapsible_tab_eQmBa4",
+        "collapsible_tab_B4ea9L"
+      ],
+      "disabled": true,
+      "name": "Collapsible Faqs Section",
+      "settings": {
+        "faq_title": "FAQs",
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "compact-size-enabled": true,
+        "margin-top": 20,
+        "margin-bottom": 20
+      }
+    },
+    "read_more_faqs_JnEMVN": {
+      "type": "read-more-faqs",
+      "blocks": {
+        "collapsible_tab_RJe6ec": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible tab",
+            "content": "",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_Qcftqr": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible tab",
+            "content": "",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "collapsible_tab_XMDCBJ": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible tab",
+            "content": "",
+            "page": "",
+            "icon": "check_mark"
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_tab_RJe6ec",
+        "collapsible_tab_Qcftqr",
+        "collapsible_tab_XMDCBJ"
+      ],
+      "name": "Read More Faqs",
+      "settings": {
+        "heading_faq": "Frequently Asked Questions",
+        "subheading_faq": "Explore answers to the most common questions about Terra After-Sun Wipes, crafted to give you clarity and confidence.",
+        "color-body-text": "transparent",
+        "background_color": "transparent",
+        "compact-size-enabled": true,
+        "margin-top": 48,
+        "margin-bottom": 48
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs",
+    "banner",
+    "title",
+    "product-grid",
+    "separator_qkXpB7",
+    "rich_text_fr3Ftz",
+    "multicolumn_BLNpDn",
+    "collection_feature_XmBEar",
+    "features_banner_48DfGA",
+    "newsletter_KQitJE",
+    "collapsible_faqs_CTPydG",
+    "read_more_faqs_JnEMVN"
+  ]
+}

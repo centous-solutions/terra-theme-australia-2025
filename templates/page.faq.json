@@ -1,1 +1,850 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"compact-size-enabled":true,"size_heading":140,"size_heading_mobile":100,"color-body-text":"rgba(0,0,0,0)","color-bg-overlay":"rgba(0,0,0,0)","color-overlay-opacity":100,"margin-top":40,"margin-bottom":0}},"b1762d2f-c545-46f9-ab66-b0f6dc390c56":{"type":"rich-text","blocks":{"template--15329436369096__b1762d2f-c545-46f9-ab66-b0f6dc390c56-heading-1":{"type":"heading","settings":{"heading":"FREQUENTLY ASKED QUESTIONS","disable_on_mobile":false,"size_heading":220,"size_heading_mobile":100}},"template--15329436369096__b1762d2f-c545-46f9-ab66-b0f6dc390c56-text-1":{"type":"text","settings":{"text":"<p>Your questions, our answers, because transparency matters.<\/p>","disable_on_mobile":false}}},"block_order":["template--15329436369096__b1762d2f-c545-46f9-ab66-b0f6dc390c56-heading-1","template--15329436369096__b1762d2f-c545-46f9-ab66-b0f6dc390c56-text-1"],"settings":{"section_width":"short","desktop_text_horizontal_position":"center","padding_settings":true,"color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":32,"margin-bottom":0}},"rich_text_qcDm7z":{"type":"rich-text","blocks":{"heading_9PUGHq":{"type":"heading","settings":{"heading":"SHIPPING","disable_on_mobile":false,"size_heading":200,"size_heading_mobile":110}}},"block_order":["heading_9PUGHq"],"settings":{"section_width":"short","desktop_text_horizontal_position":"center","padding_settings":true,"color-body-text":"rgba(0,0,0,0)","background_color":"#ebf5f5","margin-top":32,"margin-bottom":0}},"19343041-49f3-4eb8-918f-d93e323afa2e":{"type":"collapsible_menu","blocks":{"template--15329436369096__19343041-49f3-4eb8-918f-d93e323afa2e-collapsible_tab-1":{"type":"collapsible_tab","settings":{"heading":"1.1 Where does Terra ship to? ","content":"<p>We currently ship to most regions worldwide, including New Zealand, Australia, the USA, Canada, Japan, France, and Spain. If your country isn’t listed at checkout, please contact our team for your nearest distributor.<\/p>","page":"","icon":"truck"}},"6c6c8546-4be8-47e9-8694-d542109d388e":{"type":"collapsible_tab","settings":{"heading":"1.2 Where do Terra Sachet Wipes ship from?","content":"<p>All Terra orders are fulfilled <strong>locally<\/strong> from the warehouse or distribution partner closest to you. This ensures faster delivery and reduced emissions.<\/p><ul><li><strong>New Zealand & Australia:<\/strong> Packed and shipped from our Auckland warehouse<\/li><li><strong>USA & Canada:<\/strong> Dispatched from our North American warehouse<\/li><li><strong>Europe & Asia:<\/strong> Delivered through our trusted regional distribution partners<\/li><\/ul>","page":"","icon":"truck"}},"18a26329-3e89-409b-b175-cad7e9531a44":{"type":"collapsible_tab","settings":{"heading":"1.3 How long does shipping take? ","content":"<p>Delivery times vary by region: <\/p><ul><li><strong>New Zealand:<\/strong> 1–3 business days <\/li><li><strong>Australia:<\/strong> 3–7 business days <\/li><li><strong>USA & Canada:<\/strong> 3–7 business days <\/li><li><strong>Europe & Asia:<\/strong> 10–20 business days <\/li><\/ul><p>You’ll receive a tracking link once your order is dispatched.<\/p>","page":"","icon":"truck"}},"1587700a-5ee8-43f8-a35f-d929db42fb22":{"type":"collapsible_tab","settings":{"heading":"1.4 Do you offer express shipping? ","content":"<p>Yes, express shipping is available in most regions. You can select this option at checkout for faster delivery.<\/p>","page":"","icon":"truck"}},"bb27c4f2-0c26-45bf-8b45-d680bea4e03c":{"type":"collapsible_tab","settings":{"heading":"1.5 Can I track my order? ","content":"<p>Yes. You’ll receive an email with your tracking number once your order has shipped, so you can follow your parcel in real time.<\/p>","page":"","icon":"truck"}},"2c2aaa13-82fb-4138-aa8a-37f18b412379":{"type":"collapsible_tab","settings":{"heading":"1.6 What should I do if my parcel hasn’t arrived? ","content":"<p>If your parcel is delayed or your tracking link hasn’t updated for several days, please reach out to our customer care team with your order number. We’ll help resolve it quickly.<\/p>","page":"","icon":"truck"}},"24d707a1-7b6d-40e9-a2b3-45c72368e607":{"type":"collapsible_tab","settings":{"heading":"1.7 Do you offer free shipping? ","content":"<p>Free standard shipping is available in selected regions when you reach the minimum order value displayed at checkout.<\/p>","page":"","icon":"truck"}},"77e8081d-3216-4f92-9f1e-bab5a6656d97":{"type":"collapsible_tab","settings":{"heading":"1.8 Can I change my shipping address after ordering?","content":"<p>We can update your shipping address as long as your order has not yet been dispatched. Contact us as soon as possible with your correct details.<\/p>","page":"","icon":"truck"}},"collapsible_tab_eJdbAj":{"type":"collapsible_tab","settings":{"heading":"1.9 What should I do if I receive a damaged parcel?","content":"<p>If your parcel arrives damaged, please take photos and contact us immediately. We'll arrange a replacement or refund.<\/p>","page":"","icon":"truck"}}},"block_order":["template--15329436369096__19343041-49f3-4eb8-918f-d93e323afa2e-collapsible_tab-1","6c6c8546-4be8-47e9-8694-d542109d388e","18a26329-3e89-409b-b175-cad7e9531a44","1587700a-5ee8-43f8-a35f-d929db42fb22","bb27c4f2-0c26-45bf-8b45-d680bea4e03c","2c2aaa13-82fb-4138-aa8a-37f18b412379","24d707a1-7b6d-40e9-a2b3-45c72368e607","77e8081d-3216-4f92-9f1e-bab5a6656d97","collapsible_tab_eJdbAj"],"custom_css":["p {padding: 12px;}"],"settings":{"color-body-text":"rgba(0,0,0,0)","background_color":"#ebf5f5","compact-size-enabled":true,"margin-top":8,"margin-bottom":60}},"rich_text_CPyxHA":{"type":"rich-text","blocks":{"heading_TNcAxK":{"type":"heading","settings":{"heading":"REFUNDS & RETURNS","disable_on_mobile":false,"size_heading":200,"size_heading_mobile":120}}},"block_order":["heading_TNcAxK"],"settings":{"section_width":"short","desktop_text_horizontal_position":"center","padding_settings":true,"color-body-text":"rgba(0,0,0,0)","background_color":"#faece6","margin-top":32,"margin-bottom":0}},"collapsible_menu_ETQ3TW":{"type":"collapsible_menu","blocks":{"collapsible_tab_d9x9J3":{"type":"collapsible_tab","settings":{"heading":"2.1 What is Terra's return policy?","content":"<p>If you receive a damaged, defective, or incorrect product, please contact us within <strong>24 hours of delivery<\/strong>. We'll arrange a replacement or refund as quickly as possible.<\/p>","page":"","icon":"chat_bubble"}},"collapsible_tab_Gedmj4":{"type":"collapsible_tab","settings":{"heading":"2.2 Can I return opened sachets?","content":"<p>Unfortunately, <strong>opened packs or used sachets cannot be returned<\/strong> for hygiene and safety reasons. Please check your order before opening individual sachets.<\/p>","page":"","icon":"chat_bubble"}},"collapsible_tab_kj63cp":{"type":"collapsible_tab","settings":{"heading":"2.3 How do I request a refund?","content":"<p>Email our support team with:<\/p><ul><li>Your order number<\/li><li>A brief explanation of the issue<\/li><li>Photos (if applicable)<\/li><\/ul><p>Our team will review your request within <strong>2–3 business days<\/strong>.<\/p>","page":"","icon":"chat_bubble"}},"collapsible_tab_pRdpzg":{"type":"collapsible_tab","settings":{"heading":"2.4 What should I do if my parcel is damaged in transit?","content":"<p>Take clear photos of the outer packaging and the damaged items, then contact us right away. We'll coordinate with our courier and provide a <strong>replacement or refund<\/strong> promptly.<\/p>","page":"","icon":"chat_bubble"}},"collapsible_tab_YtFPD9":{"type":"collapsible_tab","settings":{"heading":"2.5 Can I cancel my order after purchasing?","content":"<p>Yes, if your order has <strong>not yet shipped<\/strong>. Once the order is dispatched, it cannot be cancelled, but you may still request a return if your case meets our policy.<\/p>","page":"","icon":"chat_bubble"}},"collapsible_tab_pLL7Wg":{"type":"collapsible_tab","settings":{"heading":"2.6 How long does it take to receive my refund?","content":"<p>Once approved, refunds are typically processed within <strong>10-20 business days<\/strong>. The exact timing depends on your payment provider or bank.<\/p>","page":"","icon":"chat_bubble"}},"collapsible_tab_dDKEdn":{"type":"collapsible_tab","settings":{"heading":"2.7 What if I receive the wrong product?","content":"<p>If an incorrect item arrives, don't hesitate to contact us within <strong>24 hours of delivery<\/strong>. We'll immediately send the correct product at no additional cost.<\/p>","page":"","icon":"chat_bubble"}},"collapsible_tab_7KJeek":{"type":"collapsible_tab","settings":{"heading":"2.8 Do you refund shipping costs?","content":"<p>Shipping costs are <strong>non-refundable<\/strong>, except when the issue is caused by us, such as receiving a damaged, incorrect, or defective product.<\/p>","page":"","icon":"chat_bubble"}}},"block_order":["collapsible_tab_d9x9J3","collapsible_tab_Gedmj4","collapsible_tab_kj63cp","collapsible_tab_pRdpzg","collapsible_tab_YtFPD9","collapsible_tab_pLL7Wg","collapsible_tab_dDKEdn","collapsible_tab_7KJeek"],"settings":{"color-body-text":"rgba(0,0,0,0)","background_color":"#faece6","compact-size-enabled":true,"margin-top":8,"margin-bottom":60}},"rich_text_ndepXi":{"type":"rich-text","blocks":{"heading_7ViHjY":{"type":"heading","settings":{"heading":"WIPES","disable_on_mobile":false,"size_heading":200,"size_heading_mobile":120}}},"block_order":["heading_7ViHjY"],"settings":{"section_width":"short","desktop_text_horizontal_position":"center","padding_settings":true,"color-body-text":"rgba(0,0,0,0)","background_color":"#e0e9d3","margin-top":32,"margin-bottom":0}},"collapsible_menu_tGhHWC":{"type":"collapsible_menu","blocks":{"collapsible_tab_hHFgxg":{"type":"collapsible_tab","settings":{"heading":"3.1 What are TERRA Wipes made of?","content":"<p>TERRA Wipes are made from 100% FSC-certified bamboo fibre and natural, skin-friendly ingredients. They are fully biodegradable and gentle on both your skin and the environment.<\/p>","page":"","icon":"leaf"}},"collapsible_tab_CLVNrA":{"type":"collapsible_tab","settings":{"heading":"3.2 What is a TERRA Wipes Sachet?","content":"<p>A TERRA Sachet is a single, individually sealed wipe designed to stay fresh, hygienic, and convenient, perfect for on-the-go use.<\/p>","page":"","icon":"leaf"}},"collapsible_tab_UFnbXW":{"type":"collapsible_tab","settings":{"heading":"3.3 What types of TERRA Wipes Sachets are available?","content":"<p>Our sachet range includes specialised wipes for:<\/p><ul><li>Skincare<\/li><li>Baby & kids care<\/li><li>Outdoor care<\/li><li>Intimate care<\/li><li>Pet care<\/li><\/ul><p>Each wipe is formulated with ingredients tailored to its specific purpose.<\/p>","page":"","icon":"leaf"}},"collapsible_tab_NRqeBP":{"type":"collapsible_tab","settings":{"heading":"3.4 Where are TERRA Wipes manufactured?","content":"<p>All TERRA Sachet Wipes are proudly manufactured in our state-of-the-art facility in Auckland, New Zealand, under strict hygiene and quality standards.<\/p>","page":"","icon":"leaf"}},"collapsible_tab_gDwgLc":{"type":"collapsible_tab","settings":{"heading":"3.5 How often can I safely use TERRA Wipes?","content":"<p>You can use TERRA Wipes multiple times a day. Their plant-based, gentle formulation makes them safe for daily, frequent use.<\/p>","page":"","icon":"leaf"}},"collapsible_tab_HhY838":{"type":"collapsible_tab","settings":{"heading":"3.6 Are TERRA Wipes cruelty-free?","content":"<p>Yes, every TERRA product, including our wipes, is 100% cruelty-free and never tested on animals.<\/p>","page":"","icon":"leaf"}},"collapsible_tab_w7aMBj":{"type":"collapsible_tab","settings":{"heading":"3.7 Are TERRA Sachet Wipes biodegradable or compostable?","content":"<p>Yes, TERRA Wipes are made from 100% plant-based bamboo fabric and will naturally break down within 45 days in compostable environments, even in marine conditions.<\/p>","page":"","icon":"leaf"}},"collapsible_tab_bzqBAU":{"type":"collapsible_tab","settings":{"heading":"3.8 Can I flush TERRA Wipes?","content":"<p>No, TERRA Wipes should not be flushed. Please dispose of them responsibly in household waste or compost where appropriate.<\/p>","page":"","icon":"leaf"}},"collapsible_tab_KJejyG":{"type":"collapsible_tab","settings":{"heading":"3.9 Do TERRA Wipes expire?","content":"<p>Yes, each sachet has its expiration date printed on the pack. Please refer to the packaging for details.<\/p>","page":"","icon":"leaf"}},"collapsible_tab_PqP4b9":{"type":"collapsible_tab","settings":{"heading":"3.10 Are they safe for sensitive skin?","content":"<p>Absolutely, TERRA's natural formulations are designed to be gentle and suitable for most sensitive and delicate skin types.<\/p>","page":"","icon":"leaf"}},"collapsible_tab_rXpLq9":{"type":"collapsible_tab","settings":{"heading":"3.11 Are TERRA Baby Wipes safe for newborns?","content":"<p>Yes, TERRA Baby Wipes are hypoallergenic, dermatologically tested, and made from natural bamboo fibre, making them gentle and safe for delicate newborn skin.<\/p>","page":"","icon":"leaf"}},"collapsible_tab_9Hc8K7":{"type":"collapsible_tab","settings":{"heading":"3.12 Do TERRA Baby Wipes contain any harsh chemicals?","content":"<p>No, TERRA Baby Wipes are free from alcohol, parabens, phthalates, chlorine, bleach, and synthetic fragrances. They are formulated for a mild and soothing clean.<\/p>","page":"","icon":"leaf"}},"collapsible_tab_Gmqig7":{"type":"collapsible_tab","settings":{"heading":"3.13 Can I use TERRA Baby Wipes on my baby's face and hands?","content":"<p>Yes, TERRA Baby Wipes are gentle enough to use on the entire body, including the face, hands, and nappy area.<\/p>","page":"","icon":"leaf"}},"collapsible_tab_TbBk4K":{"type":"collapsible_tab","settings":{"heading":"3.14 What is the Terra Sachets Free Sample Pack?","content":"<p>The Terra Sachets Free Sample Pack is a curated collection of individually sealed wipes designed to let you experience our most popular wipe variants. It includes skincare, baby care, outdoor, intimate, and pet wipes, each packed in a hygienic, travel-friendly sachet.<\/p>","page":"","icon":"leaf"}},"collapsible_tab_wGbifU":{"type":"collapsible_tab","settings":{"heading":"3.15 What is included in the Terra Sachets Free Sample Pack?","content":"<p>The sample pack typically contains a mix of:<br\/> • Baby wipes sachets<br\/> • Skincare wipes sachets<br\/> • Outdoor wipes sachets<br\/> • Intimate wipes sachets<br\/> • Pet wipes sachets<br\/> This lets you try multiple categories and evaluate which ones best suit your needs.<\/p>","page":"","icon":"leaf"}},"collapsible_tab_EYGLQE":{"type":"collapsible_tab","settings":{"heading":"3.16 How do I claim the Terra Sachets Free Sample Pack?","content":"<p>You can claim the sample pack through our website. Add the sample pack to your cart and proceed to checkout. A small shipping fee may be applicable depending on your delivery location.<\/p>","page":"","icon":"leaf"}}},"block_order":["collapsible_tab_hHFgxg","collapsible_tab_CLVNrA","collapsible_tab_UFnbXW","collapsible_tab_NRqeBP","collapsible_tab_gDwgLc","collapsible_tab_HhY838","collapsible_tab_w7aMBj","collapsible_tab_bzqBAU","collapsible_tab_KJejyG","collapsible_tab_PqP4b9","collapsible_tab_rXpLq9","collapsible_tab_9Hc8K7","collapsible_tab_Gmqig7","collapsible_tab_TbBk4K","collapsible_tab_wGbifU","collapsible_tab_EYGLQE"],"settings":{"color-body-text":"rgba(0,0,0,0)","background_color":"#e0e9d3","compact-size-enabled":true,"margin-top":8,"margin-bottom":60}},"rich_text_gcYxKL":{"type":"rich-text","blocks":{"heading_iPApcB":{"type":"heading","settings":{"heading":"NAPPIES","disable_on_mobile":false,"size_heading":200,"size_heading_mobile":120}},"text_EWKtEr":{"type":"text","disabled":true,"settings":{"text":"<p>Share information about your brand with your customers. Describe a product, make annuncements, or welcome customers to your store.<\/p>","disable_on_mobile":false}},"button_nhAFPi":{"type":"button","disabled":true,"settings":{"button_select":"primary","button_label":"Button label","button_link":"\/","disable_on_mobile":false}}},"block_order":["heading_iPApcB","text_EWKtEr","button_nhAFPi"],"name":"t:sections.rich-text.presets.name","settings":{"section_width":"regular","desktop_text_horizontal_position":"center","padding_settings":true,"color-body-text":"rgba(0,0,0,0)","background_color":"#f8f4ed","margin-top":20,"margin-bottom":20}},"collapsible_menu_7XKMrc":{"type":"collapsible_menu","blocks":{"collapsible_tab_6ajgzR":{"type":"collapsible_tab","settings":{"heading":"4.1 Are Terra nappies biodegradable?","content":"<p>Yes, Terra nappies are made with biodegradable materials, including bamboo fibre and a plant-based core. While not fully compostable due to hygiene regulations, they break down faster than conventional nappies and are a more eco-friendly choice.<\/p>","page":"","icon":"star"}},"collapsible_tab_YKeUwV":{"type":"collapsible_tab","settings":{"heading":"4.2 What sizes do Terra nappies come in?","content":"<p>Terra nappies are available in a full range of sizes, from newborn to toddler, ensuring a perfect, secure fit at every stage of growth.<\/p>","page":"","icon":"star"}},"collapsible_tab_KG64Hh":{"type":"collapsible_tab","settings":{"heading":"4.3 Are Terra Nappies breathable?","content":"<p>Yes, Terra nappies are crafted with soft, breathable materials to support airflow and help maintain healthy skin, ensuring all-day comfort for your baby.<\/p>","page":"","icon":"star"}},"collapsible_tab_BAinE8":{"type":"collapsible_tab","settings":{"heading":"4.4 Can I buy Terra nappies in bulk?","content":"<p>Yes, Terra offers bulk packs and convenient subscription options so you can save money and stay stocked.<\/p>","page":"","icon":"star"}},"collapsible_tab_Fbte4A":{"type":"collapsible_tab","settings":{"heading":"4.5 What makes Terra nappies different from regular nappies?","content":"<p>Terra nappies stand out from regular nappies because they are made from sustainably sourced bamboo fibre and are free from harsh chemicals, plastics, and fragrances. They offer 12-hour leak protection while being gentle on delicate skin and better for the environment.<\/p>","page":"","icon":"star"}},"collapsible_tab_KFnwb7":{"type":"collapsible_tab","settings":{"heading":"4.6 When should I switch from nappies to nappy pants?","content":"<p>Switch to Terra nappy pants when your baby starts becoming more active or resists lying down for changes. Nappy pants are ideal for toddlers and make toilet training easier with a pull-up style.<\/p>","page":"","icon":"star"}},"collapsible_tab_pLAYiA":{"type":"collapsible_tab","settings":{"heading":"4.7 Are Terra Nappy Pants as absorbent as nappies?","content":"<p>Yes, Terra Nappy Pants provide up to 12 hours of reliable absorbency with a plant-based, ultra-absorbent core suitable for both daytime use and overnight protection.<\/p>","page":"","icon":"star"}},"collapsible_tab_KTKWNb":{"type":"collapsible_tab","settings":{"heading":"4.8 Can Terra Nappy Pants help with potty training?","content":"<p>Yes, their underwear-like design encourages independence and helps toddlers learn to pull them up and down, ideal for potty training.<\/p>","page":"","icon":"star"}},"collapsible_tab_aPeAem":{"type":"collapsible_tab","settings":{"heading":"4.9 Can I buy Terra Nappy Pants in bulk or via subscription?","content":"<p>Yes, Terra offers bulk packs and convenient subscription plans, so you can save money, reduce packaging waste, and always stay stocked up.<\/p>","page":"","icon":"star"}},"collapsible_tab_eCtBYf":{"type":"collapsible_tab","settings":{"heading":"4.10 Do Terra Nappy Pants help prevent nappy rash?","content":"<p>Yes, their breathable, chemical-free design helps reduce moisture build-up and irritation, which can help protect against nappy rash.<\/p>","page":"","icon":"star"}},"collapsible_tab_r3byHT":{"type":"collapsible_tab","settings":{"heading":"4.11 What is the Free TERRA Nappy Sample?","content":"<p>The Free TERRA Nappy Sample allows parents to try our high-performance, plant-based nappies before committing to a full pack. Each sample includes a single nappy in your selected size, designed to demonstrate TERRA’s superior absorbency, comfort, and skin-friendly materials.<\/p>","page":"","icon":"star"}},"collapsible_tab_z3ma6y":{"type":"collapsible_tab","settings":{"heading":"4.12 How can I request the Free TERRA Nappy Sample?","content":"<p>You can request your free sample directly through our website. Simply choose your baby’s size, add the sample to your cart, and complete checkout. Only a minimal shipping fee may apply based on your region.<\/p>","page":"","icon":"star"}}},"block_order":["collapsible_tab_6ajgzR","collapsible_tab_YKeUwV","collapsible_tab_KG64Hh","collapsible_tab_BAinE8","collapsible_tab_Fbte4A","collapsible_tab_KFnwb7","collapsible_tab_pLAYiA","collapsible_tab_KTKWNb","collapsible_tab_aPeAem","collapsible_tab_eCtBYf","collapsible_tab_r3byHT","collapsible_tab_z3ma6y"],"name":"t:sections.collapsible_menu.presets.name","settings":{"color-body-text":"rgba(0,0,0,0)","background_color":"#f8f4ed","compact-size-enabled":true,"margin-top":20,"margin-bottom":20}},"rich_text_kc4A3K":{"type":"rich-text","blocks":{"heading_xnpikd":{"type":"heading","settings":{"heading":"DISTRIBUTORS & PARTNERS","disable_on_mobile":false,"size_heading":200,"size_heading_mobile":110}}},"block_order":["heading_xnpikd"],"settings":{"section_width":"short","desktop_text_horizontal_position":"center","padding_settings":true,"color-body-text":"rgba(0,0,0,0)","background_color":"#f1ebf0","margin-top":28,"margin-bottom":0}},"collapsible_menu_fMhjYM":{"type":"collapsible_menu","blocks":{"collapsible_tab_N7hLJw":{"type":"collapsible_tab","settings":{"heading":"5.1 How can I become a Terra distributor or reseller? ","content":"<p>We welcome partnership inquiries from around the world. Please visit our <strong>Distributors <\/strong>page or email us with details about your company and region.<\/p>","page":"","icon":"silhouette"}},"collapsible_tab_3JWaCc":{"type":"collapsible_tab","settings":{"heading":"5.2 Do you offer private-label or OEM options? ","content":"<p>Yes, Terra offers customised sachet solutions for retail, hotel, airline, and hospitality partners. Contact our sales team to discuss OEM opportunities.<\/p>","page":"","icon":"silhouette"}},"collapsible_tab_yeGHtV":{"type":"collapsible_tab","settings":{"heading":"5.3 Are Terra products available in stores? ","content":"<p>Yes, Terra products are stocked across multiple international retailers and eco-stores. Availability may vary by country.<\/p>","page":"","icon":"silhouette"}},"collapsible_tab_6CwwwJ":{"type":"collapsible_tab","settings":{"heading":"5.4 Can hotels or airlines order directly from Terra? ","content":"<p>Yes, we work directly with hotels, airlines, and travel brands to provide customised sachets and amenity wipes.<\/p>","page":"","icon":"silhouette"}},"collapsible_tab_Y9UgQD":{"type":"collapsible_tab","settings":{"heading":"5.5 Do you have distributors in my country? ","content":"<p>We have partners in New Zealand, Australia, the USA, Canada, Japan, France, and Spain. Contact us for local distributor details.<\/p>","page":"","icon":"silhouette"}},"collapsible_tab_dYFbWx":{"type":"collapsible_tab","settings":{"heading":"5.6 Can I buy wholesale? ","content":"<p>Yes, wholesale options are available for approved retailers, spas, clinics, and resellers. Minimum order quantities apply.<\/p>","page":"","icon":"silhouette"}},"collapsible_tab_kWDgh7":{"type":"collapsible_tab","settings":{"heading":"5.7 Do you provide marketing or POS materials for partners? ","content":"<p>Yes, we support our distributors with marketing assets, product images, and educational content.<\/p>","page":"","icon":"silhouette"}},"collapsible_tab_kG8fNd":{"type":"collapsible_tab","settings":{"heading":"5.8 Who should I contact for collaboration or media requests? ","content":"<p>Please reach out to our global communications team via the Contact Us form. We’d love to hear your ideas.<\/p>","page":"","icon":"silhouette"}},"collapsible_tab_CHCTCg":{"type":"collapsible_tab","settings":{"heading":"5.9 Do you work with eco-friendly or zero-waste stores? ","content":"<p>Yes, sustainability is at our core. We’re proud to collaborate with retailers who share our values in sustainable living.<\/p>","page":"","icon":"silhouette"}},"collapsible_tab_cwAGif":{"type":"collapsible_tab","settings":{"heading":"5.10 Are Terra sachets available for custom branding?  ","content":"<p>Yes, talk to us about <strong>custom-printed sachets <\/strong>for hotels, events, or promotional campaigns.<\/p>","page":"","icon":"silhouette"}}},"block_order":["collapsible_tab_N7hLJw","collapsible_tab_3JWaCc","collapsible_tab_yeGHtV","collapsible_tab_6CwwwJ","collapsible_tab_Y9UgQD","collapsible_tab_dYFbWx","collapsible_tab_kWDgh7","collapsible_tab_kG8fNd","collapsible_tab_CHCTCg","collapsible_tab_cwAGif"],"settings":{"color-body-text":"rgba(0,0,0,0)","background_color":"#f1ebf0","compact-size-enabled":true,"margin-top":8,"margin-bottom":60}}},"order":["main","b1762d2f-c545-46f9-ab66-b0f6dc390c56","rich_text_qcDm7z","19343041-49f3-4eb8-918f-d93e323afa2e","rich_text_CPyxHA","collapsible_menu_ETQ3TW","rich_text_ndepXi","collapsible_menu_tGhHWC","rich_text_gcYxKL","collapsible_menu_7XKMrc","rich_text_kc4A3K","collapsible_menu_fMhjYM"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "compact-size-enabled": true,
+        "size_heading": 140,
+        "size_heading_mobile": 100,
+        "color-body-text": "rgba(0,0,0,0)",
+        "color-bg-overlay": "rgba(0,0,0,0)",
+        "color-overlay-opacity": 100,
+        "margin-top": 40,
+        "margin-bottom": 0
+      }
+    },
+    "b1762d2f-c545-46f9-ab66-b0f6dc390c56": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15329436369096__b1762d2f-c545-46f9-ab66-b0f6dc390c56-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "FREQUENTLY ASKED QUESTIONS",
+            "disable_on_mobile": false,
+            "size_heading": 220,
+            "size_heading_mobile": 100
+          }
+        },
+        "template--15329436369096__b1762d2f-c545-46f9-ab66-b0f6dc390c56-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Your questions, our answers, because transparency matters.</p>",
+            "disable_on_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15329436369096__b1762d2f-c545-46f9-ab66-b0f6dc390c56-heading-1",
+        "template--15329436369096__b1762d2f-c545-46f9-ab66-b0f6dc390c56-text-1"
+      ],
+      "settings": {
+        "section_width": "short",
+        "desktop_text_horizontal_position": "center",
+        "padding_settings": true,
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 32,
+        "margin-bottom": 0
+      }
+    },
+    "rich_text_qcDm7z": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_9PUGHq": {
+          "type": "heading",
+          "settings": {
+            "heading": "SHIPPING",
+            "disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 110
+          }
+        }
+      },
+      "block_order": [
+        "heading_9PUGHq"
+      ],
+      "settings": {
+        "section_width": "short",
+        "desktop_text_horizontal_position": "center",
+        "padding_settings": true,
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "#ebf5f5",
+        "margin-top": 32,
+        "margin-bottom": 0
+      }
+    },
+    "19343041-49f3-4eb8-918f-d93e323afa2e": {
+      "type": "collapsible_menu",
+      "blocks": {
+        "template--15329436369096__19343041-49f3-4eb8-918f-d93e323afa2e-collapsible_tab-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "1.1 Where does Terra ship to? ",
+            "content": "<p>We currently ship to most regions worldwide, including New Zealand, Australia, the USA, Canada, Japan, France, and Spain. If your country isn’t listed at checkout, please contact our team for your nearest distributor.</p>",
+            "page": "",
+            "icon": "truck"
+          }
+        },
+        "6c6c8546-4be8-47e9-8694-d542109d388e": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "1.2 Where do Terra Sachet Wipes ship from?",
+            "content": "<p>All Terra orders are fulfilled <strong>locally</strong> from the warehouse or distribution partner closest to you. This ensures faster delivery and reduced emissions.</p><ul><li><strong>New Zealand & Australia:</strong> Packed and shipped from our Auckland warehouse</li><li><strong>USA & Canada:</strong> Dispatched from our North American warehouse</li><li><strong>Europe & Asia:</strong> Delivered through our trusted regional distribution partners</li></ul>",
+            "page": "",
+            "icon": "truck"
+          }
+        },
+        "18a26329-3e89-409b-b175-cad7e9531a44": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "1.3 How long does shipping take? ",
+            "content": "<p>Delivery times vary by region: </p><ul><li><strong>New Zealand:</strong> 1–3 business days </li><li><strong>Australia:</strong> 3–7 business days </li><li><strong>USA & Canada:</strong> 3–7 business days </li><li><strong>Europe & Asia:</strong> 10–20 business days </li></ul><p>You’ll receive a tracking link once your order is dispatched.</p>",
+            "page": "",
+            "icon": "truck"
+          }
+        },
+        "1587700a-5ee8-43f8-a35f-d929db42fb22": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "1.4 Do you offer express shipping? ",
+            "content": "<p>Yes, express shipping is available in most regions. You can select this option at checkout for faster delivery.</p>",
+            "page": "",
+            "icon": "truck"
+          }
+        },
+        "bb27c4f2-0c26-45bf-8b45-d680bea4e03c": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "1.5 Can I track my order? ",
+            "content": "<p>Yes. You’ll receive an email with your tracking number once your order has shipped, so you can follow your parcel in real time.</p>",
+            "page": "",
+            "icon": "truck"
+          }
+        },
+        "2c2aaa13-82fb-4138-aa8a-37f18b412379": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "1.6 What should I do if my parcel hasn’t arrived? ",
+            "content": "<p>If your parcel is delayed or your tracking link hasn’t updated for several days, please reach out to our customer care team with your order number. We’ll help resolve it quickly.</p>",
+            "page": "",
+            "icon": "truck"
+          }
+        },
+        "24d707a1-7b6d-40e9-a2b3-45c72368e607": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "1.7 Do you offer free shipping? ",
+            "content": "<p>Free standard shipping is available in selected regions when you reach the minimum order value displayed at checkout.</p>",
+            "page": "",
+            "icon": "truck"
+          }
+        },
+        "77e8081d-3216-4f92-9f1e-bab5a6656d97": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "1.8 Can I change my shipping address after ordering?",
+            "content": "<p>We can update your shipping address as long as your order has not yet been dispatched. Contact us as soon as possible with your correct details.</p>",
+            "page": "",
+            "icon": "truck"
+          }
+        },
+        "collapsible_tab_eJdbAj": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "1.9 What should I do if I receive a damaged parcel?",
+            "content": "<p>If your parcel arrives damaged, please take photos and contact us immediately. We'll arrange a replacement or refund.</p>",
+            "page": "",
+            "icon": "truck"
+          }
+        }
+      },
+      "block_order": [
+        "template--15329436369096__19343041-49f3-4eb8-918f-d93e323afa2e-collapsible_tab-1",
+        "6c6c8546-4be8-47e9-8694-d542109d388e",
+        "18a26329-3e89-409b-b175-cad7e9531a44",
+        "1587700a-5ee8-43f8-a35f-d929db42fb22",
+        "bb27c4f2-0c26-45bf-8b45-d680bea4e03c",
+        "2c2aaa13-82fb-4138-aa8a-37f18b412379",
+        "24d707a1-7b6d-40e9-a2b3-45c72368e607",
+        "77e8081d-3216-4f92-9f1e-bab5a6656d97",
+        "collapsible_tab_eJdbAj"
+      ],
+      "custom_css": [
+        "p {padding: 12px;}"
+      ],
+      "settings": {
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "#ebf5f5",
+        "compact-size-enabled": true,
+        "margin-top": 8,
+        "margin-bottom": 60
+      }
+    },
+    "rich_text_CPyxHA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_TNcAxK": {
+          "type": "heading",
+          "settings": {
+            "heading": "REFUNDS & RETURNS",
+            "disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 120
+          }
+        }
+      },
+      "block_order": [
+        "heading_TNcAxK"
+      ],
+      "settings": {
+        "section_width": "short",
+        "desktop_text_horizontal_position": "center",
+        "padding_settings": true,
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "#faece6",
+        "margin-top": 32,
+        "margin-bottom": 0
+      }
+    },
+    "collapsible_menu_ETQ3TW": {
+      "type": "collapsible_menu",
+      "blocks": {
+        "collapsible_tab_d9x9J3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "2.1 What is Terra's return policy?",
+            "content": "<p>If you receive a damaged, defective, or incorrect product, please contact us within <strong>24 hours of delivery</strong>. We'll arrange a replacement or refund as quickly as possible.</p>",
+            "page": "",
+            "icon": "chat_bubble"
+          }
+        },
+        "collapsible_tab_Gedmj4": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "2.2 Can I return opened sachets?",
+            "content": "<p>Unfortunately, <strong>opened packs or used sachets cannot be returned</strong> for hygiene and safety reasons. Please check your order before opening individual sachets.</p>",
+            "page": "",
+            "icon": "chat_bubble"
+          }
+        },
+        "collapsible_tab_kj63cp": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "2.3 How do I request a refund?",
+            "content": "<p>Email our support team with:</p><ul><li>Your order number</li><li>A brief explanation of the issue</li><li>Photos (if applicable)</li></ul><p>Our team will review your request within <strong>2–3 business days</strong>.</p>",
+            "page": "",
+            "icon": "chat_bubble"
+          }
+        },
+        "collapsible_tab_pRdpzg": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "2.4 What should I do if my parcel is damaged in transit?",
+            "content": "<p>Take clear photos of the outer packaging and the damaged items, then contact us right away. We'll coordinate with our courier and provide a <strong>replacement or refund</strong> promptly.</p>",
+            "page": "",
+            "icon": "chat_bubble"
+          }
+        },
+        "collapsible_tab_YtFPD9": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "2.5 Can I cancel my order after purchasing?",
+            "content": "<p>Yes, if your order has <strong>not yet shipped</strong>. Once the order is dispatched, it cannot be cancelled, but you may still request a return if your case meets our policy.</p>",
+            "page": "",
+            "icon": "chat_bubble"
+          }
+        },
+        "collapsible_tab_pLL7Wg": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "2.6 How long does it take to receive my refund?",
+            "content": "<p>Once approved, refunds are typically processed within <strong>10-20 business days</strong>. The exact timing depends on your payment provider or bank.</p>",
+            "page": "",
+            "icon": "chat_bubble"
+          }
+        },
+        "collapsible_tab_dDKEdn": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "2.7 What if I receive the wrong product?",
+            "content": "<p>If an incorrect item arrives, don't hesitate to contact us within <strong>24 hours of delivery</strong>. We'll immediately send the correct product at no additional cost.</p>",
+            "page": "",
+            "icon": "chat_bubble"
+          }
+        },
+        "collapsible_tab_7KJeek": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "2.8 Do you refund shipping costs?",
+            "content": "<p>Shipping costs are <strong>non-refundable</strong>, except when the issue is caused by us, such as receiving a damaged, incorrect, or defective product.</p>",
+            "page": "",
+            "icon": "chat_bubble"
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_tab_d9x9J3",
+        "collapsible_tab_Gedmj4",
+        "collapsible_tab_kj63cp",
+        "collapsible_tab_pRdpzg",
+        "collapsible_tab_YtFPD9",
+        "collapsible_tab_pLL7Wg",
+        "collapsible_tab_dDKEdn",
+        "collapsible_tab_7KJeek"
+      ],
+      "settings": {
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "#faece6",
+        "compact-size-enabled": true,
+        "margin-top": 8,
+        "margin-bottom": 60
+      }
+    },
+    "rich_text_ndepXi": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_7ViHjY": {
+          "type": "heading",
+          "settings": {
+            "heading": "WIPES",
+            "disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 120
+          }
+        }
+      },
+      "block_order": [
+        "heading_7ViHjY"
+      ],
+      "settings": {
+        "section_width": "short",
+        "desktop_text_horizontal_position": "center",
+        "padding_settings": true,
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "#e0e9d3",
+        "margin-top": 32,
+        "margin-bottom": 0
+      }
+    },
+    "collapsible_menu_tGhHWC": {
+      "type": "collapsible_menu",
+      "blocks": {
+        "collapsible_tab_hHFgxg": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "3.1 What are TERRA Wipes made of?",
+            "content": "<p>TERRA Wipes are made from 100% FSC-certified bamboo fibre and natural, skin-friendly ingredients. They are fully biodegradable and gentle on both your skin and the environment.</p>",
+            "page": "",
+            "icon": "leaf"
+          }
+        },
+        "collapsible_tab_CLVNrA": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "3.2 What is a TERRA Wipes Sachet?",
+            "content": "<p>A TERRA Sachet is a single, individually sealed wipe designed to stay fresh, hygienic, and convenient, perfect for on-the-go use.</p>",
+            "page": "",
+            "icon": "leaf"
+          }
+        },
+        "collapsible_tab_UFnbXW": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "3.3 What types of TERRA Wipes Sachets are available?",
+            "content": "<p>Our sachet range includes specialised wipes for:</p><ul><li>Skincare</li><li>Baby & kids care</li><li>Outdoor care</li><li>Intimate care</li><li>Pet care</li></ul><p>Each wipe is formulated with ingredients tailored to its specific purpose.</p>",
+            "page": "",
+            "icon": "leaf"
+          }
+        },
+        "collapsible_tab_NRqeBP": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "3.4 Where are TERRA Wipes manufactured?",
+            "content": "<p>All TERRA Sachet Wipes are proudly manufactured in our state-of-the-art facility in Auckland, New Zealand, under strict hygiene and quality standards.</p>",
+            "page": "",
+            "icon": "leaf"
+          }
+        },
+        "collapsible_tab_gDwgLc": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "3.5 How often can I safely use TERRA Wipes?",
+            "content": "<p>You can use TERRA Wipes multiple times a day. Their plant-based, gentle formulation makes them safe for daily, frequent use.</p>",
+            "page": "",
+            "icon": "leaf"
+          }
+        },
+        "collapsible_tab_HhY838": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "3.6 Are TERRA Wipes cruelty-free?",
+            "content": "<p>Yes, every TERRA product, including our wipes, is 100% cruelty-free and never tested on animals.</p>",
+            "page": "",
+            "icon": "leaf"
+          }
+        },
+        "collapsible_tab_w7aMBj": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "3.7 Are TERRA Sachet Wipes biodegradable or compostable?",
+            "content": "<p>Yes, TERRA Wipes are made from 100% plant-based bamboo fabric and will naturally break down within 45 days in compostable environments, even in marine conditions.</p>",
+            "page": "",
+            "icon": "leaf"
+          }
+        },
+        "collapsible_tab_bzqBAU": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "3.8 Can I flush TERRA Wipes?",
+            "content": "<p>No, TERRA Wipes should not be flushed. Please dispose of them responsibly in household waste or compost where appropriate.</p>",
+            "page": "",
+            "icon": "leaf"
+          }
+        },
+        "collapsible_tab_KJejyG": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "3.9 Do TERRA Wipes expire?",
+            "content": "<p>Yes, each sachet has its expiration date printed on the pack. Please refer to the packaging for details.</p>",
+            "page": "",
+            "icon": "leaf"
+          }
+        },
+        "collapsible_tab_PqP4b9": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "3.10 Are they safe for sensitive skin?",
+            "content": "<p>Absolutely, TERRA's natural formulations are designed to be gentle and suitable for most sensitive and delicate skin types.</p>",
+            "page": "",
+            "icon": "leaf"
+          }
+        },
+        "collapsible_tab_rXpLq9": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "3.11 Are TERRA Baby Wipes safe for newborns?",
+            "content": "<p>Yes, TERRA Baby Wipes are hypoallergenic, dermatologically tested, and made from natural bamboo fibre, making them gentle and safe for delicate newborn skin.</p>",
+            "page": "",
+            "icon": "leaf"
+          }
+        },
+        "collapsible_tab_9Hc8K7": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "3.12 Do TERRA Baby Wipes contain any harsh chemicals?",
+            "content": "<p>No, TERRA Baby Wipes are free from alcohol, parabens, phthalates, chlorine, bleach, and synthetic fragrances. They are formulated for a mild and soothing clean.</p>",
+            "page": "",
+            "icon": "leaf"
+          }
+        },
+        "collapsible_tab_Gmqig7": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "3.13 Can I use TERRA Baby Wipes on my baby's face and hands?",
+            "content": "<p>Yes, TERRA Baby Wipes are gentle enough to use on the entire body, including the face, hands, and nappy area.</p>",
+            "page": "",
+            "icon": "leaf"
+          }
+        },
+        "collapsible_tab_TbBk4K": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "3.14 What is the Terra Sachets Free Sample Pack?",
+            "content": "<p>The Terra Sachets Free Sample Pack is a curated collection of individually sealed wipes designed to let you experience our most popular wipe variants. It includes skincare, baby care, outdoor, intimate, and pet wipes, each packed in a hygienic, travel-friendly sachet.</p>",
+            "page": "",
+            "icon": "leaf"
+          }
+        },
+        "collapsible_tab_wGbifU": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "3.15 What is included in the Terra Sachets Free Sample Pack?",
+            "content": "<p>The sample pack typically contains a mix of:<br/> • Baby wipes sachets<br/> • Skincare wipes sachets<br/> • Outdoor wipes sachets<br/> • Intimate wipes sachets<br/> • Pet wipes sachets<br/> This lets you try multiple categories and evaluate which ones best suit your needs.</p>",
+            "page": "",
+            "icon": "leaf"
+          }
+        },
+        "collapsible_tab_EYGLQE": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "3.16 How do I claim the Terra Sachets Free Sample Pack?",
+            "content": "<p>You can claim the sample pack through our website. Add the sample pack to your cart and proceed to checkout. A small shipping fee may be applicable depending on your delivery location.</p>",
+            "page": "",
+            "icon": "leaf"
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_tab_hHFgxg",
+        "collapsible_tab_CLVNrA",
+        "collapsible_tab_UFnbXW",
+        "collapsible_tab_NRqeBP",
+        "collapsible_tab_gDwgLc",
+        "collapsible_tab_HhY838",
+        "collapsible_tab_w7aMBj",
+        "collapsible_tab_bzqBAU",
+        "collapsible_tab_KJejyG",
+        "collapsible_tab_PqP4b9",
+        "collapsible_tab_rXpLq9",
+        "collapsible_tab_9Hc8K7",
+        "collapsible_tab_Gmqig7",
+        "collapsible_tab_TbBk4K",
+        "collapsible_tab_wGbifU",
+        "collapsible_tab_EYGLQE"
+      ],
+      "settings": {
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "#e0e9d3",
+        "compact-size-enabled": true,
+        "margin-top": 8,
+        "margin-bottom": 60
+      }
+    },
+    "rich_text_gcYxKL": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_iPApcB": {
+          "type": "heading",
+          "settings": {
+            "heading": "NAPPIES",
+            "disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 120
+          }
+        },
+        "text_EWKtEr": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make annuncements, or welcome customers to your store.</p>",
+            "disable_on_mobile": false
+          }
+        },
+        "button_nhAFPi": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_select": "primary",
+            "button_label": "Button label",
+            "button_link": "/",
+            "disable_on_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_iPApcB",
+        "text_EWKtEr",
+        "button_nhAFPi"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "section_width": "regular",
+        "desktop_text_horizontal_position": "center",
+        "padding_settings": true,
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "#f8f4ed",
+        "margin-top": 20,
+        "margin-bottom": 20
+      }
+    },
+    "collapsible_menu_7XKMrc": {
+      "type": "collapsible_menu",
+      "blocks": {
+        "collapsible_tab_6ajgzR": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "4.1 Are Terra nappies biodegradable?",
+            "content": "<p>Yes, Terra nappies are made with biodegradable materials, including bamboo fibre and a plant-based core. While not fully compostable due to hygiene regulations, they break down faster than conventional nappies and are a more eco-friendly choice.</p>",
+            "page": "",
+            "icon": "star"
+          }
+        },
+        "collapsible_tab_YKeUwV": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "4.2 What sizes do Terra nappies come in?",
+            "content": "<p>Terra nappies are available in a full range of sizes, from newborn to toddler, ensuring a perfect, secure fit at every stage of growth.</p>",
+            "page": "",
+            "icon": "star"
+          }
+        },
+        "collapsible_tab_KG64Hh": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "4.3 Are Terra Nappies breathable?",
+            "content": "<p>Yes, Terra nappies are crafted with soft, breathable materials to support airflow and help maintain healthy skin, ensuring all-day comfort for your baby.</p>",
+            "page": "",
+            "icon": "star"
+          }
+        },
+        "collapsible_tab_BAinE8": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "4.4 Can I buy Terra nappies in bulk?",
+            "content": "<p>Yes, Terra offers bulk packs and convenient subscription options so you can save money and stay stocked.</p>",
+            "page": "",
+            "icon": "star"
+          }
+        },
+        "collapsible_tab_Fbte4A": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "4.5 What makes Terra nappies different from regular nappies?",
+            "content": "<p>Terra nappies stand out from regular nappies because they are made from sustainably sourced bamboo fibre and are free from harsh chemicals, plastics, and fragrances. They offer 12-hour leak protection while being gentle on delicate skin and better for the environment.</p>",
+            "page": "",
+            "icon": "star"
+          }
+        },
+        "collapsible_tab_KFnwb7": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "4.6 When should I switch from nappies to nappy pants?",
+            "content": "<p>Switch to Terra nappy pants when your baby starts becoming more active or resists lying down for changes. Nappy pants are ideal for toddlers and make toilet training easier with a pull-up style.</p>",
+            "page": "",
+            "icon": "star"
+          }
+        },
+        "collapsible_tab_pLAYiA": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "4.7 Are Terra Nappy Pants as absorbent as nappies?",
+            "content": "<p>Yes, Terra Nappy Pants provide up to 12 hours of reliable absorbency with a plant-based, ultra-absorbent core suitable for both daytime use and overnight protection.</p>",
+            "page": "",
+            "icon": "star"
+          }
+        },
+        "collapsible_tab_KTKWNb": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "4.8 Can Terra Nappy Pants help with potty training?",
+            "content": "<p>Yes, their underwear-like design encourages independence and helps toddlers learn to pull them up and down, ideal for potty training.</p>",
+            "page": "",
+            "icon": "star"
+          }
+        },
+        "collapsible_tab_aPeAem": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "4.9 Can I buy Terra Nappy Pants in bulk or via subscription?",
+            "content": "<p>Yes, Terra offers bulk packs and convenient subscription plans, so you can save money, reduce packaging waste, and always stay stocked up.</p>",
+            "page": "",
+            "icon": "star"
+          }
+        },
+        "collapsible_tab_eCtBYf": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "4.10 Do Terra Nappy Pants help prevent nappy rash?",
+            "content": "<p>Yes, their breathable, chemical-free design helps reduce moisture build-up and irritation, which can help protect against nappy rash.</p>",
+            "page": "",
+            "icon": "star"
+          }
+        },
+        "collapsible_tab_r3byHT": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "4.11 What is the Free TERRA Nappy Sample?",
+            "content": "<p>The Free TERRA Nappy Sample allows parents to try our high-performance, plant-based nappies before committing to a full pack. Each sample includes a single nappy in your selected size, designed to demonstrate TERRA’s superior absorbency, comfort, and skin-friendly materials.</p>",
+            "page": "",
+            "icon": "star"
+          }
+        },
+        "collapsible_tab_z3ma6y": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "4.12 How can I request the Free TERRA Nappy Sample?",
+            "content": "<p>You can request your free sample directly through our website. Simply choose your baby’s size, add the sample to your cart, and complete checkout. Only a minimal shipping fee may apply based on your region.</p>",
+            "page": "",
+            "icon": "star"
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_tab_6ajgzR",
+        "collapsible_tab_YKeUwV",
+        "collapsible_tab_KG64Hh",
+        "collapsible_tab_BAinE8",
+        "collapsible_tab_Fbte4A",
+        "collapsible_tab_KFnwb7",
+        "collapsible_tab_pLAYiA",
+        "collapsible_tab_KTKWNb",
+        "collapsible_tab_aPeAem",
+        "collapsible_tab_eCtBYf",
+        "collapsible_tab_r3byHT",
+        "collapsible_tab_z3ma6y"
+      ],
+      "name": "t:sections.collapsible_menu.presets.name",
+      "settings": {
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "#f8f4ed",
+        "compact-size-enabled": true,
+        "margin-top": 20,
+        "margin-bottom": 20
+      }
+    },
+    "rich_text_kc4A3K": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_xnpikd": {
+          "type": "heading",
+          "settings": {
+            "heading": "DISTRIBUTORS & PARTNERS",
+            "disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 110
+          }
+        }
+      },
+      "block_order": [
+        "heading_xnpikd"
+      ],
+      "settings": {
+        "section_width": "short",
+        "desktop_text_horizontal_position": "center",
+        "padding_settings": true,
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "#f1ebf0",
+        "margin-top": 28,
+        "margin-bottom": 0
+      }
+    },
+    "collapsible_menu_fMhjYM": {
+      "type": "collapsible_menu",
+      "blocks": {
+        "collapsible_tab_N7hLJw": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "5.1 How can I become a Terra distributor or reseller? ",
+            "content": "<p>We welcome partnership inquiries from around the world. Please visit our <strong>Distributors </strong>page or email us with details about your company and region.</p>",
+            "page": "",
+            "icon": "silhouette"
+          }
+        },
+        "collapsible_tab_3JWaCc": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "5.2 Do you offer private-label or OEM options? ",
+            "content": "<p>Yes, Terra offers customised sachet solutions for retail, hotel, airline, and hospitality partners. Contact our sales team to discuss OEM opportunities.</p>",
+            "page": "",
+            "icon": "silhouette"
+          }
+        },
+        "collapsible_tab_yeGHtV": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "5.3 Are Terra products available in stores? ",
+            "content": "<p>Yes, Terra products are stocked across multiple international retailers and eco-stores. Availability may vary by country.</p>",
+            "page": "",
+            "icon": "silhouette"
+          }
+        },
+        "collapsible_tab_6CwwwJ": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "5.4 Can hotels or airlines order directly from Terra? ",
+            "content": "<p>Yes, we work directly with hotels, airlines, and travel brands to provide customised sachets and amenity wipes.</p>",
+            "page": "",
+            "icon": "silhouette"
+          }
+        },
+        "collapsible_tab_Y9UgQD": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "5.5 Do you have distributors in my country? ",
+            "content": "<p>We have partners in New Zealand, Australia, the USA, Canada, Japan, France, and Spain. Contact us for local distributor details.</p>",
+            "page": "",
+            "icon": "silhouette"
+          }
+        },
+        "collapsible_tab_dYFbWx": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "5.6 Can I buy wholesale? ",
+            "content": "<p>Yes, wholesale options are available for approved retailers, spas, clinics, and resellers. Minimum order quantities apply.</p>",
+            "page": "",
+            "icon": "silhouette"
+          }
+        },
+        "collapsible_tab_kWDgh7": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "5.7 Do you provide marketing or POS materials for partners? ",
+            "content": "<p>Yes, we support our distributors with marketing assets, product images, and educational content.</p>",
+            "page": "",
+            "icon": "silhouette"
+          }
+        },
+        "collapsible_tab_kG8fNd": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "5.8 Who should I contact for collaboration or media requests? ",
+            "content": "<p>Please reach out to our global communications team via the Contact Us form. We’d love to hear your ideas.</p>",
+            "page": "",
+            "icon": "silhouette"
+          }
+        },
+        "collapsible_tab_CHCTCg": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "5.9 Do you work with eco-friendly or zero-waste stores? ",
+            "content": "<p>Yes, sustainability is at our core. We’re proud to collaborate with retailers who share our values in sustainable living.</p>",
+            "page": "",
+            "icon": "silhouette"
+          }
+        },
+        "collapsible_tab_cwAGif": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "5.10 Are Terra sachets available for custom branding?  ",
+            "content": "<p>Yes, talk to us about <strong>custom-printed sachets </strong>for hotels, events, or promotional campaigns.</p>",
+            "page": "",
+            "icon": "silhouette"
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_tab_N7hLJw",
+        "collapsible_tab_3JWaCc",
+        "collapsible_tab_yeGHtV",
+        "collapsible_tab_6CwwwJ",
+        "collapsible_tab_Y9UgQD",
+        "collapsible_tab_dYFbWx",
+        "collapsible_tab_kWDgh7",
+        "collapsible_tab_kG8fNd",
+        "collapsible_tab_CHCTCg",
+        "collapsible_tab_cwAGif"
+      ],
+      "settings": {
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "#f1ebf0",
+        "compact-size-enabled": true,
+        "margin-top": 8,
+        "margin-bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b1762d2f-c545-46f9-ab66-b0f6dc390c56",
+    "rich_text_qcDm7z",
+    "19343041-49f3-4eb8-918f-d93e323afa2e",
+    "rich_text_CPyxHA",
+    "collapsible_menu_ETQ3TW",
+    "rich_text_ndepXi",
+    "collapsible_menu_tGhHWC",
+    "rich_text_gcYxKL",
+    "collapsible_menu_7XKMrc",
+    "rich_text_kc4A3K",
+    "collapsible_menu_fMhjYM"
+  ]
+}
