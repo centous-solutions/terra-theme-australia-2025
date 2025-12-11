@@ -184,49 +184,51 @@
         "margin-bottom": 0
       }
     },
-    "brands_ih8NE6": {
+    "brands_7qtPXe": {
       "type": "brands",
       "blocks": {
-        "image_MKXEt4": {
+        "image_3arTnx": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/Group_46.png",
+            "desktop_image": "shopify://shop_images/Group_46.webp",
             "link": ""
           }
         },
-        "image_iYqg3y": {
+        "image_eJxMhN": {
           "type": "image",
           "settings": {
+            "desktop_image": "shopify://shop_images/Group_51.webp",
             "link": ""
           }
         },
-        "image_UXXfgb": {
+        "image_4zghRm": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/Group_50.png",
+            "desktop_image": "shopify://shop_images/Group_453.webp",
             "link": ""
           }
         },
-        "image_MbwDLA": {
+        "image_nLrxgK": {
           "type": "image",
           "settings": {
+            "desktop_image": "shopify://shop_images/Group_50.webp",
             "link": ""
           }
         },
-        "image_TDbiRU": {
+        "image_aPzRHc": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/Group_47.png",
+            "desktop_image": "shopify://shop_images/Group_47.webp",
             "link": ""
           }
         }
       },
       "block_order": [
-        "image_MKXEt4",
-        "image_iYqg3y",
-        "image_UXXfgb",
-        "image_MbwDLA",
-        "image_TDbiRU"
+        "image_3arTnx",
+        "image_eJxMhN",
+        "image_4zghRm",
+        "image_nLrxgK",
+        "image_aPzRHc"
       ],
       "name": "t:sections.brands.settings.presets.name",
       "settings": {
@@ -235,8 +237,8 @@
         "animation_speed": "100",
         "color-body-text": "rgba(0,0,0,0)",
         "background_color": "rgba(0,0,0,0)",
-        "margin-top": 0,
-        "margin-bottom": 0
+        "margin-top": 20,
+        "margin-bottom": 20
       }
     },
     "separator_qkXpB7": {
@@ -264,7 +266,8 @@
             "button_label": "",
             "button_disable_on_mobile": false,
             "button_link": "shopify://collections/pet-care",
-            "button_link_in_new_window": false
+            "button_link_in_new_window": false,
+            "desktop_image": "shopify://shop_images/pet-ear-2_1.jpg"
           }
         },
         "column_kh4Bab": {
@@ -278,7 +281,8 @@
             "button_label": "",
             "button_disable_on_mobile": false,
             "button_link": "shopify://collections/baby-care",
-            "button_link_in_new_window": false
+            "button_link_in_new_window": false,
+            "desktop_image": "shopify://shop_images/Screenshot_2025-11-20_at_2.22.34_PM_1.jpg"
           }
         },
         "column_qjBE93": {
@@ -292,7 +296,8 @@
             "button_label": "",
             "button_disable_on_mobile": false,
             "button_link": "shopify://collections/baby-care",
-            "button_link_in_new_window": false
+            "button_link_in_new_window": false,
+            "desktop_image": "shopify://shop_images/kids-scene-3.webp"
           }
         }
       },
@@ -680,7 +685,7 @@
     "banner",
     "title",
     "product-grid",
-    "brands_ih8NE6",
+    "brands_7qtPXe",
     "separator_qkXpB7",
     "multicolumn_BLNpDn",
     "features_banner_48DfGA",
