@@ -51,7 +51,7 @@
         "slide_height": "fixed_height",
         "desktop_fixed_height": 600,
         "mobile_fixed_height": 360,
-        "desktop_image": "shopify://shop_images/pet-6_115929f0-c0b5-41df-a65d-62acbb53426e.jpg",
+        "desktop_image": "shopify://shop_images/pet-6_115929f0-c0b5-41df-a65d-62acbb53426e_1.jpg",
         "desktop_text_vertical_position": "center",
         "desktop_text_horizontal_position": "center",
         "mobile_text_vertical_position": "center",
@@ -118,10 +118,8 @@
         "color-body-text": "#ffffff",
         "color-overlay": "rgba(0,0,0,0)",
         "color-overlay-opacity": 100,
-        "desktop_image": "shopify://shop_images/pet-eye-scene-4.jpg",
         "desktop_text_vertical_position": "center",
         "desktop_text_horizontal_position": "center",
-        "mobile_image": "shopify://shop_images/pet-eye-scene-4.jpg",
         "mobile_text_horizontal_position": "center",
         "margin-top": 0,
         "margin-bottom": 0
@@ -139,7 +137,6 @@
             "heading": "Gentle touch, clear eyes",
             "text": "",
             "promo_text_color": "",
-            "desktop_image": "shopify://shop_images/pet-eye-scene-3.jpg",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "center",
             "mobile_text_horizontal_position": "center"
@@ -154,7 +151,6 @@
             "heading": "Gentle care for healthier ears",
             "text": "",
             "promo_text_color": "",
-            "desktop_image": "shopify://shop_images/pet-ear-scene-1_f3bb4531-3ed3-4340-8a08-d8f8299883d1.jpg",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "center",
             "mobile_text_horizontal_position": "center"
@@ -289,7 +285,6 @@
         "image_iYqg3y": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/Group_51.png",
             "link": ""
           }
         },
@@ -303,7 +298,6 @@
         "image_MbwDLA": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/Group_453.png",
             "link": ""
           }
         },
@@ -365,10 +359,8 @@
       "name": "t:sections.shoppable-image.settings.presets.name",
       "settings": {
         "heading": "",
-        "desktop_image": "shopify://shop_images/pet-scene-5.jpg",
         "full-width-enabled": true,
         "show_vendor": true,
-        "mobile_image": "shopify://shop_images/mobile_version.jpg",
         "color-body-text": "rgba(0,0,0,0)",
         "color-overlay": "rgba(0,0,0,0)",
         "color-overlay-opacity": 100,
@@ -390,8 +382,7 @@
             "button_label": "",
             "button_disable_on_mobile": false,
             "button_link": "shopify://collections/beauty-care",
-            "button_link_in_new_window": false,
-            "desktop_image": "shopify://shop_images/travel-scene-5.jpg"
+            "button_link_in_new_window": false
           }
         },
         "column_qjBE93": {
@@ -405,8 +396,7 @@
             "button_label": "",
             "button_disable_on_mobile": false,
             "button_link": "shopify://collections/baby-care",
-            "button_link_in_new_window": false,
-            "desktop_image": "shopify://shop_images/Screenshot_2025-11-20_at_2.22.34_PM.jpg"
+            "button_link_in_new_window": false
           }
         },
         "column_kh4Bab": {
@@ -420,8 +410,7 @@
             "button_label": "",
             "button_disable_on_mobile": false,
             "button_link": "shopify://collections/outdoor-care",
-            "button_link_in_new_window": false,
-            "desktop_image": "shopify://shop_images/camping-scene-2.jpg"
+            "button_link_in_new_window": false
           }
         }
       },
@@ -450,7 +439,6 @@
         "image_LpU9LC": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/1_f87d10f0-3b59-4e30-a4fa-ad318fc798b3.png",
             "select_icon": "bag",
             "heading": "Gentle",
             "text": "<p>Safe for kids, families, and everyday use.</p>",
@@ -470,7 +458,6 @@
         "image_McECbz": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/arrow___recycling.png",
             "select_icon": "bag",
             "heading": "Recyclable",
             "text": "<p>All packaging is recyclable and eco-conscious.</p>",
@@ -480,7 +467,6 @@
         "image_VGUkeA": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/6a90c69c7951b6cfdeed415b17557f9f.png",
             "select_icon": "bag",
             "heading": "Free Shipping",
             "text": "<p>Orders over $90 within NZ.</p>",
