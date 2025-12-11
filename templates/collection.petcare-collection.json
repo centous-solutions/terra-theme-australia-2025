@@ -132,13 +132,13 @@
         "product_7kmgxi": {
           "type": "product",
           "settings": {
-            "slider_product": "terra-pet-eye-wipes",
-            "product_image": "shopify://shop_images/pet-eye-scene-3_1.jpg",
+            "slider_product": "terra-new-water-wipes-24s",
             "text_color": "#ffffff",
             "background_color": "#253573",
             "heading": "Gentle touch, clear eyes",
             "text": "",
             "promo_text_color": "",
+            "desktop_image": "shopify://shop_images/pet-eye-scene-3_1.jpg",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "center",
             "mobile_text_horizontal_position": "center"
@@ -147,12 +147,13 @@
         "product_cAPDMi": {
           "type": "product",
           "settings": {
-            "slider_product": "terra-pet-ear-wipes",
+            "slider_product": "terra-new-water-wipes-24s",
             "text_color": "#ffffff",
             "background_color": "#7abccc",
             "heading": "Gentle care for healthier ears",
             "text": "",
             "promo_text_color": "",
+            "desktop_image": "shopify://shop_images/pet-eye-scene-3_1.jpg",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "center",
             "mobile_text_horizontal_position": "center"
