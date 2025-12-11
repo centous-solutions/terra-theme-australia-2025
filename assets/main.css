@@ -8356,7 +8356,8 @@ pickup-availability-drawer .pickup-availability-list .pickup-availability-list__
   letter-spacing: var(--font-headline-letter-spacing);
   text-transform: var(--font-headline-transform, initial);
   line-height: 1.2;
-  font-size: clamp(2.1rem, 1.3vw + 1.2rem, 2.4rem);
+  /* font-size: clamp(2.1rem, 1.3vw + 1.2rem, 2.4rem); */
+  font-size: 25px;
 }
 .article__body h3 {
   font-size: 2rem;
@@ -9783,6 +9784,7 @@ recipient-form .form__message svg path:nth-child(2n) {
 .main-article__body h2 {
   margin-bottom: 0;
   line-height: 1.2;
+  font-size: 25px;
 }
 .main-article__body p {
   margin-top: 8px;
