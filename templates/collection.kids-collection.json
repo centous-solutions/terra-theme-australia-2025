@@ -323,7 +323,8 @@
             "button_label": "",
             "button_disable_on_mobile": false,
             "button_link": "shopify://collections/pet-care",
-            "button_link_in_new_window": false
+            "button_link_in_new_window": false,
+            "desktop_image": "shopify://shop_images/pet-ear-2_1.jpg"
           }
         },
         "column_kh4Bab": {
@@ -337,7 +338,8 @@
             "button_label": "",
             "button_disable_on_mobile": false,
             "button_link": "shopify://products/terra-walker-nappies-16s-1",
-            "button_link_in_new_window": false
+            "button_link_in_new_window": false,
+            "desktop_image": "shopify://shop_images/Screenshot_2025-11-20_at_2.22.34_PM_1.jpg"
           }
         },
         "column_qjBE93": {
@@ -351,7 +353,8 @@
             "button_label": "",
             "button_disable_on_mobile": false,
             "button_link": "shopify://collections/baby-care",
-            "button_link_in_new_window": false
+            "button_link_in_new_window": false,
+            "desktop_image": "shopify://shop_images/zetagroup_upper_class_photography_shot_A_fashionable_european_y_77659788-bcd6-4bf8-b4a0-f3e69eb1255a_1.jpg"
           }
         }
       },
