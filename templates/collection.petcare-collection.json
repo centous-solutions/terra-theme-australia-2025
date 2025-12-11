@@ -133,6 +133,7 @@
           "type": "product",
           "settings": {
             "slider_product": "terra-pet-eye-wipes",
+            "product_image": "shopify://shop_images/pet-eye-scene-3_1.jpg",
             "text_color": "#ffffff",
             "background_color": "#253573",
             "heading": "Gentle touch, clear eyes",
