@@ -388,7 +388,8 @@
             "button_label": "",
             "button_disable_on_mobile": false,
             "button_link": "shopify://collections/beauty-care",
-            "button_link_in_new_window": false
+            "button_link_in_new_window": false,
+            "desktop_image": "shopify://shop_images/travel-scene-5_1.jpg"
           }
         },
         "column_qjBE93": {
@@ -402,7 +403,8 @@
             "button_label": "",
             "button_disable_on_mobile": false,
             "button_link": "shopify://collections/baby-care",
-            "button_link_in_new_window": false
+            "button_link_in_new_window": false,
+            "desktop_image": "shopify://shop_images/Screenshot_2025-11-20_at_2.22.34_PM_1_541f111e-2e55-4d16-9607-73fb55f241b4.jpg"
           }
         },
         "column_kh4Bab": {
