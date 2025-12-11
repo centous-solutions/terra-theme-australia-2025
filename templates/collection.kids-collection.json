@@ -185,6 +185,63 @@
         "margin-bottom": 0
       }
     },
+    "brands_FMPUa7": {
+      "type": "brands",
+      "blocks": {
+        "image_rGRCyz": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_46.webp",
+            "link": ""
+          }
+        },
+        "image_XqErqe": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_51.webp",
+            "link": ""
+          }
+        },
+        "image_Bq9LTr": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_453.webp",
+            "link": ""
+          }
+        },
+        "image_j9VM8z": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_50.webp",
+            "link": ""
+          }
+        },
+        "image_YkPdB9": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_47.webp",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_rGRCyz",
+        "image_XqErqe",
+        "image_Bq9LTr",
+        "image_j9VM8z",
+        "image_YkPdB9"
+      ],
+      "name": "t:sections.brands.settings.presets.name",
+      "settings": {
+        "heading": "Proof in Every Detail",
+        "animation": "marquee",
+        "animation_speed": "100",
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 20,
+        "margin-bottom": 20
+      }
+    },
     "brands_ih8NE6": {
       "type": "brands",
       "blocks": {
@@ -229,6 +286,7 @@
         "image_MbwDLA",
         "image_TDbiRU"
       ],
+      "disabled": true,
       "name": "t:sections.brands.settings.presets.name",
       "settings": {
         "heading": "Proof in Every Detail",
@@ -772,6 +830,7 @@
     "banner",
     "title",
     "product-grid",
+    "brands_FMPUa7",
     "brands_ih8NE6",
     "separator_qkXpB7",
     "multicolumn_BLNpDn",
