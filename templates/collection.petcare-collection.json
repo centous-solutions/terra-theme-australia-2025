@@ -275,61 +275,6 @@
         "margin-bottom": 20
       }
     },
-    "brands_ih8NE6": {
-      "type": "brands",
-      "blocks": {
-        "image_MKXEt4": {
-          "type": "image",
-          "settings": {
-            "desktop_image": "shopify://shop_images/Group_46.png",
-            "link": ""
-          }
-        },
-        "image_iYqg3y": {
-          "type": "image",
-          "settings": {
-            "link": ""
-          }
-        },
-        "image_UXXfgb": {
-          "type": "image",
-          "settings": {
-            "desktop_image": "shopify://shop_images/Group_50.png",
-            "link": ""
-          }
-        },
-        "image_MbwDLA": {
-          "type": "image",
-          "settings": {
-            "link": ""
-          }
-        },
-        "image_TDbiRU": {
-          "type": "image",
-          "settings": {
-            "desktop_image": "shopify://shop_images/Group_47.png",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_MKXEt4",
-        "image_iYqg3y",
-        "image_UXXfgb",
-        "image_MbwDLA",
-        "image_TDbiRU"
-      ],
-      "name": "t:sections.brands.settings.presets.name",
-      "settings": {
-        "heading": "Proof in Every Detail",
-        "animation": "marquee",
-        "animation_speed": "100",
-        "color-body-text": "rgba(0,0,0,0)",
-        "background_color": "rgba(0,0,0,0)",
-        "margin-top": 20,
-        "margin-bottom": 0
-      }
-    },
     "separator_qkXpB7": {
       "type": "separator",
       "disabled": true,
@@ -340,6 +285,63 @@
         "color-background": "#dfdfdf",
         "margin-top": 20,
         "margin-bottom": 16
+      }
+    },
+    "brands_YrXK6i": {
+      "type": "brands",
+      "blocks": {
+        "image_mRpxih": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_46.webp",
+            "link": ""
+          }
+        },
+        "image_KArQRY": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_51.webp",
+            "link": ""
+          }
+        },
+        "image_9emhbT": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_50.webp",
+            "link": ""
+          }
+        },
+        "image_Mggbka": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_453_89e915bc-dff5-4838-807e-c2a5964e97ad.webp",
+            "link": ""
+          }
+        },
+        "image_At87Hx": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_47.webp",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_mRpxih",
+        "image_KArQRY",
+        "image_9emhbT",
+        "image_Mggbka",
+        "image_At87Hx"
+      ],
+      "name": "t:sections.brands.settings.presets.name",
+      "settings": {
+        "heading": "Proof in Every Detail",
+        "animation": "marquee",
+        "animation_speed": "100",
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 0,
+        "margin-bottom": 0
       }
     },
     "shoppable_image_dF7tBg": {
@@ -731,8 +733,8 @@
     "title",
     "product-grid",
     "featured_collection_z7MfJk",
-    "brands_ih8NE6",
     "separator_qkXpB7",
+    "brands_YrXK6i",
     "shoppable_image_dF7tBg",
     "multicolumn_BLNpDn",
     "features_banner_48DfGA",
