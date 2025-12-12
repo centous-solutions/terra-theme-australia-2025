@@ -496,6 +496,63 @@
         "margin-bottom": 0
       }
     },
+    "brands_rPqfVk": {
+      "type": "brands",
+      "blocks": {
+        "image_Q6CbRU": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_46.webp",
+            "link": ""
+          }
+        },
+        "image_XppfA3": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_51.webp",
+            "link": ""
+          }
+        },
+        "image_fHWtYr": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_453.webp",
+            "link": ""
+          }
+        },
+        "image_HBWnfD": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_50.webp",
+            "link": ""
+          }
+        },
+        "image_ckD8d7": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_47.webp",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_Q6CbRU",
+        "image_XppfA3",
+        "image_fHWtYr",
+        "image_HBWnfD",
+        "image_ckD8d7"
+      ],
+      "name": "t:sections.brands.settings.presets.name",
+      "settings": {
+        "heading": "",
+        "animation": "swipe",
+        "animation_speed": "100",
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 20,
+        "margin-bottom": 20
+      }
+    },
     "brands_Af367K": {
       "type": "brands",
       "blocks": {
@@ -540,6 +597,7 @@
         "image_HRHMLn",
         "image_x6x6en"
       ],
+      "disabled": true,
       "name": "t:sections.brands.settings.presets.name",
       "settings": {
         "heading": "",
@@ -771,6 +829,7 @@
     "features_banner_ALJ9Ci",
     "1762413102e5171c62",
     "rich_text_tXQyc8",
+    "brands_rPqfVk",
     "brands_Af367K",
     "image_banner_79GmEt",
     "featured_collection_X4bWGt",
