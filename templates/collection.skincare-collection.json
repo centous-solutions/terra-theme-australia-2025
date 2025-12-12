@@ -313,7 +313,8 @@
             "button_label": "",
             "button_disable_on_mobile": false,
             "button_link": "shopify://collections/beauty-care",
-            "button_link_in_new_window": false
+            "button_link_in_new_window": false,
+            "desktop_image": "shopify://shop_images/facial-scene-8_1_4ad22a73-59ba-4f56-b885-e5e1a88b164a.jpg"
           }
         },
         "column_qjBE93": {
@@ -327,7 +328,8 @@
             "button_label": "",
             "button_disable_on_mobile": false,
             "button_link": "shopify://collections/intimate-care",
-            "button_link_in_new_window": false
+            "button_link_in_new_window": false,
+            "desktop_image": "shopify://shop_images/intimacy-scene-4_1.jpg"
           }
         },
         "column_kh4Bab": {
@@ -341,7 +343,8 @@
             "button_label": "",
             "button_disable_on_mobile": false,
             "button_link": "shopify://collections/outdoor-care",
-            "button_link_in_new_window": false
+            "button_link_in_new_window": false,
+            "desktop_image": "shopify://shop_images/camping-scene-8_1.jpg"
           }
         }
       },
