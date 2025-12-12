@@ -731,6 +731,7 @@
         "slide_height": "fixed_height",
         "desktop_fixed_height": 540,
         "mobile_fixed_height": 280,
+        "desktop_image": "shopify://shop_images/banner-after-sun_1.jpg",
         "desktop_text_vertical_position": "center",
         "desktop_text_horizontal_position": "center",
         "mobile_text_vertical_position": "center",
