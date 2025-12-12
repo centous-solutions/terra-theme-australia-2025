@@ -388,6 +388,7 @@
         "image_jbBCNq": {
           "type": "image",
           "settings": {
+            "desktop_image": "shopify://shop_images/icon-distributor-1_1.png",
             "select_icon": "bag",
             "heading": "100% Plant-Based Ingredients",
             "text": "<p>Pure, biodegradable wipes - created by nature, returned to nature </p>",
@@ -397,6 +398,7 @@
         "image_bxHzFx": {
           "type": "image",
           "settings": {
+            "desktop_image": "shopify://shop_images/icon-everyday-2_1.png",
             "select_icon": "bag",
             "heading": "Pocket-Sized Rescue",
             "text": "<p>Card-sized sachets made for life in motion - freshness that fits right in your pocket. </p>",
@@ -406,6 +408,7 @@
         "image_BCWFfQ": {
           "type": "image",
           "settings": {
+            "desktop_image": "shopify://shop_images/icon-everyday-4_1.png",
             "select_icon": "bag",
             "heading": "Anywhere, Anytime Care",
             "text": "<p>Wherever you are, one wipe delivers quick freshness - no water, no worry, no pause.</p>",
