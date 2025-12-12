@@ -268,7 +268,6 @@
         "benefit_crLbgV": {
           "type": "benefit",
           "settings": {
-            "image": "shopify://shop_images/11_1196f230-5912-4074-ac85-91e8122d0ce3.png",
             "item_heading": "Crystal-Clean Care",
             "text": "<p>Pure New Zealand Purified Water.</p>"
           }
@@ -276,7 +275,6 @@
         "benefit_zwRN74": {
           "type": "benefit",
           "settings": {
-            "image": "shopify://shop_images/12_c3f5274d-a259-4e53-97b0-5cf9e6864fe0.png",
             "item_heading": "Eco-Soft Touch",
             "text": "<p>Gentle, effective cleaning with biodegradable bamboo fibre.</p>"
           }
@@ -284,7 +282,6 @@
         "benefit_rxrfmj": {
           "type": "benefit",
           "settings": {
-            "image": "shopify://shop_images/42.webp",
             "item_heading": "Gentle Cleansing",
             "text": "<p>Removes dirt, discharge, and impurities safely.</p>"
           }
@@ -292,7 +289,6 @@
         "benefit_Cb9Mmf": {
           "type": "benefit",
           "settings": {
-            "image": "shopify://shop_images/45.webp",
             "item_heading": "Soothing Relief",
             "text": "<p>Glycerin helps calm & comfort delicate skin around the eyes.</p>"
           }
@@ -300,7 +296,6 @@
         "benefit_cfe49a": {
           "type": "benefit",
           "settings": {
-            "image": "shopify://shop_images/33_b69491ac-c446-4364-91b5-a0ee164759b0.png",
             "item_heading": "Hydrating Care",
             "text": "<p>Keeps the skin soft, smooth, and well-moisturised.</p>"
           }
@@ -308,7 +303,6 @@
         "benefit_Yk67z6": {
           "type": "benefit",
           "settings": {
-            "image": "shopify://shop_images/terra_logos_5.png",
             "item_heading": "On-the-Go Ease",
             "text": "<p>Convenient to use anytime for instant eye freshness.</p>"
           }
@@ -374,7 +368,6 @@
         "color-body-text": "#ffffff",
         "color-overlay": "#5bc6aa",
         "color-overlay-opacity": 100,
-        "desktop_image": "shopify://shop_images/Terra_Baby_Eye_Wipes_Lifestyle.jpg",
         "desktop_text_vertical_position": "center",
         "desktop_text_horizontal_position": "left",
         "mobile_text_horizontal_position": "center",
@@ -388,7 +381,6 @@
         "image_6MzUfY": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/icon-distributor-1.png",
             "select_icon": "bag",
             "heading": "100% Plant-Based Ingredients",
             "text": "<p>Pure, biodegradable wipes - created by nature, returned to nature </p>",
@@ -398,7 +390,6 @@
         "image_ByWaKp": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/icon-everyday-2.png",
             "select_icon": "bag",
             "heading": "Pocket-Sized Rescue",
             "text": "<p>Card-sized sachets made for life in motion - freshness that fits right in your pocket. </p>",
@@ -408,7 +399,6 @@
         "image_fQeXNY": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/icon-everyday-4.png",
             "select_icon": "bag",
             "heading": "Anywhere, Anytime Care",
             "text": "<p>Wherever you are, one wipe delivers quick freshness - no water, no worry, no pause.</p>",
@@ -509,7 +499,6 @@
         "image_FgChck": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/Group_51.png",
             "link": ""
           }
         },
@@ -523,7 +512,6 @@
         "image_c9GK7d": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/Group_453.png",
             "link": ""
           }
         },
@@ -576,7 +564,6 @@
         "slide_height": "fixed_height",
         "desktop_fixed_height": 540,
         "mobile_fixed_height": 280,
-        "desktop_image": "shopify://shop_images/Terra_Baby_E2ye_Wipes_Lifestyle2.jpg",
         "desktop_text_vertical_position": "center",
         "desktop_text_horizontal_position": "center",
         "mobile_text_vertical_position": "center",
