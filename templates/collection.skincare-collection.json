@@ -71,10 +71,9 @@
         "color-body-text": "#ffffff",
         "color-overlay": "rgba(0,0,0,0)",
         "color-overlay-opacity": 100,
-        "desktop_image": "shopify://shop_images/Terra_Sports_Wipes_Lifestyle2.jpg",
+        "desktop_image": "shopify://shop_images/Terra_Sports_Wipes_Lifestyle2_1.jpg",
         "desktop_text_vertical_position": "center",
         "desktop_text_horizontal_position": "center",
-        "mobile_image": "shopify://shop_images/Terra_Sports_Wipes_Lifestyle2_c90156ca-f045-4f16-802c-d49e09d6ba73.jpg",
         "mobile_text_horizontal_position": "center",
         "margin-top": 0,
         "margin-bottom": 0
@@ -189,7 +188,6 @@
         "image_iYqg3y": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/Group_51.png",
             "link": ""
           }
         },
@@ -203,7 +201,6 @@
         "image_MbwDLA": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/Group_453.png",
             "link": ""
           }
         },
@@ -222,6 +219,7 @@
         "image_MbwDLA",
         "image_TDbiRU"
       ],
+      "disabled": true,
       "name": "t:sections.brands.settings.presets.name",
       "settings": {
         "heading": "Proof in Every Detail",
@@ -231,6 +229,63 @@
         "background_color": "rgba(0,0,0,0)",
         "margin-top": 20,
         "margin-bottom": 0
+      }
+    },
+    "brands_cNyCCV": {
+      "type": "brands",
+      "blocks": {
+        "image_tafX3z": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_46.webp",
+            "link": ""
+          }
+        },
+        "image_kDY894": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_51.webp",
+            "link": ""
+          }
+        },
+        "image_PbGJQr": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_453.webp",
+            "link": ""
+          }
+        },
+        "image_gXAgMi": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_50.webp",
+            "link": ""
+          }
+        },
+        "image_XtAjtE": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_47.webp",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_tafX3z",
+        "image_kDY894",
+        "image_PbGJQr",
+        "image_gXAgMi",
+        "image_XtAjtE"
+      ],
+      "name": "t:sections.brands.settings.presets.name",
+      "settings": {
+        "heading": "Proof in Every Detail",
+        "animation": "marquee",
+        "animation_speed": "100",
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 20,
+        "margin-bottom": 20
       }
     },
     "separator_qkXpB7": {
@@ -258,8 +313,7 @@
             "button_label": "",
             "button_disable_on_mobile": false,
             "button_link": "shopify://collections/beauty-care",
-            "button_link_in_new_window": false,
-            "desktop_image": "shopify://shop_images/facial-scene-8.jpg"
+            "button_link_in_new_window": false
           }
         },
         "column_qjBE93": {
@@ -273,8 +327,7 @@
             "button_label": "",
             "button_disable_on_mobile": false,
             "button_link": "shopify://collections/intimate-care",
-            "button_link_in_new_window": false,
-            "desktop_image": "shopify://shop_images/intimacy-scene-4.jpg"
+            "button_link_in_new_window": false
           }
         },
         "column_kh4Bab": {
@@ -288,8 +341,7 @@
             "button_label": "",
             "button_disable_on_mobile": false,
             "button_link": "shopify://collections/outdoor-care",
-            "button_link_in_new_window": false,
-            "desktop_image": "shopify://shop_images/camping-scene-8.jpg"
+            "button_link_in_new_window": false
           }
         }
       },
@@ -318,7 +370,6 @@
         "image_LpU9LC": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/1_f87d10f0-3b59-4e30-a4fa-ad318fc798b3.png",
             "select_icon": "bag",
             "heading": "Gentle",
             "text": "<p>Safe for kids, families, and everyday use.</p>",
@@ -338,7 +389,6 @@
         "image_McECbz": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/arrow___recycling.png",
             "select_icon": "bag",
             "heading": "Recyclable",
             "text": "<p>All packaging is recyclable and eco-conscious.</p>",
@@ -348,7 +398,6 @@
         "image_VGUkeA": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/6a90c69c7951b6cfdeed415b17557f9f.png",
             "select_icon": "bag",
             "heading": "Free Shipping",
             "text": "<p>Orders over $90 within NZ.</p>",
@@ -661,6 +710,7 @@
     "title",
     "product-grid",
     "brands_ih8NE6",
+    "brands_cNyCCV",
     "separator_qkXpB7",
     "multicolumn_BLNpDn",
     "features_banner_48DfGA",
