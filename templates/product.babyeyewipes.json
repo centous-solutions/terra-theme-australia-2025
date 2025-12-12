@@ -268,6 +268,7 @@
         "benefit_crLbgV": {
           "type": "benefit",
           "settings": {
+            "image": "shopify://shop_images/11_1196f230-5912-4074-ac85-91e8122d0ce3_1.png",
             "item_heading": "Crystal-Clean Care",
             "text": "<p>Pure New Zealand Purified Water.</p>"
           }
@@ -275,6 +276,7 @@
         "benefit_zwRN74": {
           "type": "benefit",
           "settings": {
+            "image": "shopify://shop_images/12_c3f5274d-a259-4e53-97b0-5cf9e6864fe0_1.png",
             "item_heading": "Eco-Soft Touch",
             "text": "<p>Gentle, effective cleaning with biodegradable bamboo fibre.</p>"
           }
