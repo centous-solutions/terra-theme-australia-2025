@@ -268,7 +268,7 @@
         "benefit_pwzyqR": {
           "type": "benefit",
           "settings": {
-            "image": "shopify://shop_images/11_1196f230-5912-4074-ac85-91e8122d0ce3.png",
+            "image": "shopify://shop_images/11_1196f230-5912-4074-ac85-91e8122d0ce3_1.png",
             "item_heading": "Crystal-Clean Care",
             "text": "<p>Pure New Zealand Purified Water.</p>"
           }
@@ -276,7 +276,7 @@
         "benefit_MYw7W7": {
           "type": "benefit",
           "settings": {
-            "image": "shopify://shop_images/12_c3f5274d-a259-4e53-97b0-5cf9e6864fe0.png",
+            "image": "shopify://shop_images/12_c3f5274d-a259-4e53-97b0-5cf9e6864fe0_1.png",
             "item_heading": "Eco-Soft Touch",
             "text": "<p>Gentle cleansing with biodegradable bamboo fibre.</p>"
           }
@@ -284,7 +284,7 @@
         "benefit_YrAqyB": {
           "type": "benefit",
           "settings": {
-            "image": "shopify://shop_images/26_449fad8d-daf5-4ca4-9a12-71a54aef2aa1.png",
+            "image": "shopify://shop_images/26_449fad8d-daf5-4ca4-9a12-71a54aef2aa1_1.png",
             "item_heading": "Skin-Soothing Relief",
             "text": "<p>Aloe Vera and Chamomile naturally calm and refresh skin.</p>"
           }
@@ -292,7 +292,7 @@
         "benefit_Bmc4aB": {
           "type": "benefit",
           "settings": {
-            "image": "shopify://shop_images/30_73328577-fa93-46b3-a2cb-0d0b269b6fcd.png",
+            "image": "shopify://shop_images/30_73328577-fa93-46b3-a2cb-0d0b269b6fcd_1.png",
             "item_heading": "Hydrating Protection",
             "text": "<p>Glycerin and Vitamin E help lock in moisture and softness.</p>"
           }
@@ -300,7 +300,7 @@
         "benefit_GeBBQn": {
           "type": "benefit",
           "settings": {
-            "image": "shopify://shop_images/40.webp",
+            "image": "shopify://shop_images/40_1.png",
             "item_heading": "Antibacterial Defence",
             "text": "<p>Provides adequate hygiene support wherever you go.</p>"
           }
@@ -308,7 +308,7 @@
         "benefit_4E7GAD": {
           "type": "benefit",
           "settings": {
-            "image": "shopify://shop_images/41.webp",
+            "image": "shopify://shop_images/41_1.png",
             "item_heading": "Convenient Clean",
             "text": "<p>Compact sachet packs for quick use anytime, anywhere.</p>"
           }
@@ -374,7 +374,6 @@
         "color-body-text": "#ffffff",
         "color-overlay": "#b5c268",
         "color-overlay-opacity": 100,
-        "desktop_image": "shopify://shop_images/Terra_Antibacterial_Wipes_Lifestyle2.png",
         "desktop_text_vertical_position": "center",
         "desktop_text_horizontal_position": "center",
         "mobile_text_horizontal_position": "center",
@@ -388,7 +387,6 @@
         "image_jbBCNq": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/icon-distributor-1.png",
             "select_icon": "bag",
             "heading": "100% Plant-Based Ingredients",
             "text": "<p>Pure, biodegradable wipes - created by nature, returned to nature </p>",
@@ -398,7 +396,6 @@
         "image_bxHzFx": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/icon-everyday-2.png",
             "select_icon": "bag",
             "heading": "Pocket-Sized Rescue",
             "text": "<p>Card-sized sachets made for life in motion - freshness that fits right in your pocket. </p>",
@@ -408,7 +405,6 @@
         "image_BCWFfQ": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/icon-everyday-4.png",
             "select_icon": "bag",
             "heading": "Anywhere, Anytime Care",
             "text": "<p>Wherever you are, one wipe delivers quick freshness - no water, no worry, no pause.</p>",
@@ -509,7 +505,6 @@
         "image_QXBK7e": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/Group_51.png",
             "link": ""
           }
         },
@@ -523,7 +518,6 @@
         "image_HRHMLn": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/Group_453.png",
             "link": ""
           }
         },
@@ -576,7 +570,6 @@
         "slide_height": "fixed_height",
         "desktop_fixed_height": 540,
         "mobile_fixed_height": 280,
-        "desktop_image": "shopify://shop_images/banner-antibacterial_be256c5f-1de2-4d4f-ab2b-5ae88f8a3736.jpg",
         "desktop_text_vertical_position": "center",
         "desktop_text_horizontal_position": "center",
         "mobile_text_vertical_position": "center",
