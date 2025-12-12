@@ -374,6 +374,7 @@
         "color-body-text": "#ffffff",
         "color-overlay": "#b5c268",
         "color-overlay-opacity": 100,
+        "desktop_image": "shopify://shop_images/Terra_Antibacterial_Wipes_Lifestyle2_1.png",
         "desktop_text_vertical_position": "center",
         "desktop_text_horizontal_position": "center",
         "mobile_text_horizontal_position": "center",
