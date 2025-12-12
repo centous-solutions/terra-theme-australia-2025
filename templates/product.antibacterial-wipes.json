@@ -632,6 +632,7 @@
         "slide_height": "fixed_height",
         "desktop_fixed_height": 540,
         "mobile_fixed_height": 280,
+        "desktop_image": "shopify://shop_images/banner-antibacterial_be256c5f-1de2-4d4f-ab2b-5ae88f8a3736_1.jpg",
         "desktop_text_vertical_position": "center",
         "desktop_text_horizontal_position": "center",
         "mobile_text_vertical_position": "center",
