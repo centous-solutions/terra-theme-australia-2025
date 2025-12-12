@@ -217,7 +217,6 @@
           "type": "image",
           "disabled": true,
           "settings": {
-            "desktop_image": "shopify://shop_images/icon-everyday-2.png",
             "select_icon": "bag",
             "heading": "Anywhere, Anytime Relief",
             "size_heading": 100,
@@ -284,7 +283,7 @@
         "benefit_iT6rXT": {
           "type": "benefit",
           "settings": {
-            "image": "shopify://shop_images/11_1196f230-5912-4074-ac85-91e8122d0ce3.png",
+            "image": "shopify://shop_images/11_1196f230-5912-4074-ac85-91e8122d0ce3_1.png",
             "item_heading": "Crystal-Clean Care",
             "text": "<p>Pure New Zealand Purified Water</p>"
           }
@@ -292,7 +291,7 @@
         "benefit_RB3Eg6": {
           "type": "benefit",
           "settings": {
-            "image": "shopify://shop_images/12_c3f5274d-a259-4e53-97b0-5cf9e6864fe0.png",
+            "image": "shopify://shop_images/12_c3f5274d-a259-4e53-97b0-5cf9e6864fe0_1.png",
             "item_heading": "Eco-Soft Touch",
             "text": "<p>Refreshing clean with biodegradable bamboo fibre.</p>"
           }
@@ -300,7 +299,7 @@
         "benefit_AprYEV": {
           "type": "benefit",
           "settings": {
-            "image": "shopify://shop_images/16_fea2c640-bfd9-4bf2-823f-26ad7b01c869.png",
+            "image": "shopify://shop_images/16_fea2c640-bfd9-4bf2-823f-26ad7b01c869_1.png",
             "item_heading": "Soothes & Calms",
             "text": "<p>Nourishes & comforts skin with the natural touch of Aloe Vera.</p>"
           }
@@ -308,7 +307,7 @@
         "benefit_xJrKjK": {
           "type": "benefit",
           "settings": {
-            "image": "shopify://shop_images/31_88a0b45c-de45-4036-b2ec-35eb0330966d.png",
+            "image": "shopify://shop_images/31_88a0b45c-de45-4036-b2ec-35eb0330966d_1.png",
             "item_heading": "Hydrates Deeply",
             "text": "<p>Locks in moisture, leaving skin soft and refreshed.</p>"
           }
@@ -316,7 +315,7 @@
         "benefit_UETmJj": {
           "type": "benefit",
           "settings": {
-            "image": "shopify://shop_images/13_d6e7357b-a6b3-4584-ba99-1a0d7f536119.png",
+            "image": "shopify://shop_images/13_d6e7357b-a6b3-4584-ba99-1a0d7f536119_1.png",
             "item_heading": "Non-Greasy Finish",
             "text": "<p>Absorbs quickly without sticky residue.</p>"
           }
@@ -324,7 +323,7 @@
         "benefit_H7Gi63": {
           "type": "benefit",
           "settings": {
-            "image": "shopify://shop_images/33_b69491ac-c446-4364-91b5-a0ee164759b0.png",
+            "image": "shopify://shop_images/33_b69491ac-c446-4364-91b5-a0ee164759b0_1.png",
             "item_heading": "Gentle Care",
             "text": "<p>Safe for daily use and suitable for all skin types.</p>"
           }
@@ -343,7 +342,7 @@
         "heading": "",
         "full-width-enabled": false,
         "mobile_image": "shopify://shop_images/23.gif",
-        "desktop_image": "shopify://shop_images/23.gif",
+        "desktop_image": "shopify://shop_images/23_1.gif",
         "desktop_width": 37,
         "desktop_max_width": 1600,
         "button_label": "",
@@ -390,7 +389,6 @@
         "color-body-text": "#ffffff",
         "color-overlay": "#748d4c",
         "color-overlay-opacity": 100,
-        "desktop_image": "shopify://shop_images/Terra_After_Sun_Wipes_Lifestyle_1f40aa81-4cc1-4bd3-ad5e-72ce086a0bd4.jpg",
         "desktop_text_vertical_position": "center",
         "desktop_text_horizontal_position": "center",
         "mobile_text_horizontal_position": "center",
@@ -404,7 +402,6 @@
         "image_qRHhzW": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/icon-distributor-1.png",
             "select_icon": "bag",
             "heading": "100% Plant-Based Ingredients",
             "text": "<p>Pure, biodegradable wipes - created by nature, returned to nature</p>",
@@ -414,7 +411,6 @@
         "image_VjeH6n": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/icon-everyday-2.png",
             "select_icon": "bag",
             "heading": "Pocket-Sized Rescue",
             "text": "<p>Card-sized sachets made for life in motion - freshness that fits right in your pocket. </p>",
@@ -424,7 +420,6 @@
         "image_UAagAM": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/icon-everyday-4.png",
             "select_icon": "bag",
             "heading": "Anywhere, Anytime Care",
             "text": "<p>Wherever you are, one wipe delivers quick freshness - no water, no worry, no pause.</p>",
@@ -515,7 +510,6 @@
             "button_label": "",
             "button_disable_on_mobile": false,
             "button_link": "",
-            "desktop_image": "shopify://shop_images/ChatGPT_Image_Nov_3_2025_01_17_53_PM.png",
             "desktop_text_vertical_position": "bottom",
             "desktop_text_horizontal_position": "left",
             "mobile_text_vertical_position": "bottom",
@@ -613,7 +607,6 @@
         "image_QXBK7e": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/Group_51.png",
             "link": ""
           }
         },
@@ -627,7 +620,6 @@
         "image_HRHMLn": {
           "type": "image",
           "settings": {
-            "desktop_image": "shopify://shop_images/Group_453.png",
             "link": ""
           }
         },
@@ -680,7 +672,6 @@
         "slide_height": "fixed_height",
         "desktop_fixed_height": 540,
         "mobile_fixed_height": 280,
-        "desktop_image": "shopify://shop_images/banner-after-sun.jpg",
         "desktop_text_vertical_position": "center",
         "desktop_text_horizontal_position": "center",
         "mobile_text_vertical_position": "center",
