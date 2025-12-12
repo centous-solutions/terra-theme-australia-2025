@@ -639,6 +639,7 @@
         "image_HRHMLn",
         "image_x6x6en"
       ],
+      "disabled": true,
       "name": "t:sections.brands.settings.presets.name",
       "settings": {
         "heading": "",
@@ -648,6 +649,63 @@
         "background_color": "rgba(0,0,0,0)",
         "margin-top": 0,
         "margin-bottom": 0
+      }
+    },
+    "brands_FKPQdD": {
+      "type": "brands",
+      "blocks": {
+        "image_VWnRkz": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_46.webp",
+            "link": ""
+          }
+        },
+        "image_hRTL8j": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_51.webp",
+            "link": ""
+          }
+        },
+        "image_UhQLNQ": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_453.webp",
+            "link": ""
+          }
+        },
+        "image_JQRhxh": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_50.webp",
+            "link": ""
+          }
+        },
+        "image_7BpPc9": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify://shop_images/Group_47.webp",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_VWnRkz",
+        "image_hRTL8j",
+        "image_UhQLNQ",
+        "image_JQRhxh",
+        "image_7BpPc9"
+      ],
+      "name": "t:sections.brands.settings.presets.name",
+      "settings": {
+        "heading": "",
+        "animation": "swipe",
+        "animation_speed": "100",
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 20,
+        "margin-bottom": 20
       }
     },
     "image_banner_79GmEt": {
@@ -975,6 +1033,7 @@
     "collage_F99nL8",
     "rich_text_xJJhKd",
     "brands_Af367K",
+    "brands_FKPQdD",
     "image_banner_79GmEt",
     "featured_collection_THigf6",
     "17652792684db91fd5",
